@@ -5,7 +5,7 @@ import json
 # Lista para almacenar el historial de conversación
 
 
-def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}):
+def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}, error=""):
     try:
         client = Client(host='http://localhost:11434')
     except Exception as e:
@@ -29,6 +29,19 @@ Return **only** a valid JSON array, merging the findings with the existing list 
 - Each object in the JSON array must include:
   - `"finding"`: the **clinically significant finding or disease** identified in the text.
 
+### Expected Output Format:
+    [
+        {{"finding": "hyperinflated lungs"}},
+        {{"finding": "flattened diaphragm"}},
+        {{"finding": "increased retrosternal airspace"}},
+        {{"finding": "pulmonary edema due to acute respiratory distress syndrome (ARDS)"}},
+        {{"finding": "spine dextrocurvature"}},
+        {{"finding": "bronchiectasis"}},
+        {{"finding": "fibrotic scarring"}},
+        {{"finding": "infiltrate in the right middle lobe"}},
+        {{"finding": "lumbar degenerative disc disease"}}
+    ]
+
 ### Important:
 - **Ensure all values are clinically relevant.**
 - **Exclude** general observations, normal findings, and anatomical descriptions such as:
@@ -39,13 +52,18 @@ Return **only** a valid JSON array, merging the findings with the existing list 
   - "Typical anatomy"
   - "No significant pathology"
 - Maintain lowercase `"true"` for boolean values.
-- **DO NOT** include any explanations, code, or additional text—return **only** the JSON array."""
-
+- **DO NOT** include any explanations, code, or additional text—return **only** the JSON array.
+- **DO NOT** include any explanations, code, or additional text—return **only** the JSON array.
+- **DO NOT** include any explanations, code, or additional text—return **only** the JSON array.
+- If no new findings are identified, return an empty JSON array: []."""
     )
 
+    if len(error)>0:
+        content_text = error +". "+content_text
     #print(content_text)
 
-    response = client.chat(model='llama3.2', messages=[
+    response = client.chat(model='llama3.2', messages=historial_mensajes+
+    [
         {
             'role': 'user',
             'content': content_text,
@@ -65,21 +83,26 @@ Return **only** a valid JSON array, merging the findings with the existing list 
 
 
 def mergeJSON(json1,json2) :
+    try:
+        if json1 is None:
+            return json2
 
-    if json1 is None :
-        return json2
+        # Convertir en un diccionario para evitar duplicados (clave = "finding")
+        merged_dict = {entry["finding"]: entry for entry in json1}
 
-    # Convertir en un diccionario para evitar duplicados (clave = "finding")
-    merged_dict = {entry["finding"]: entry for entry in json1}
+        # Agregar los elementos de json2 sin duplicar
+        for entry in json2:
+            merged_dict[entry["finding"]] = entry
 
-    # Agregar los elementos de json2 sin duplicar
-    for entry in json2:
-        merged_dict[entry["finding"]] = entry
+        # Convertir nuevamente en lista
+        merged_json = list(merged_dict.values())
 
-    # Convertir nuevamente en lista
-    merged_json = list(merged_dict.values())
+        return merged_json
 
-    return merged_json
+    except:
+        ResultadoErroresRaros.append("Error del JSON->"+str(json1)+" ////////  "+str(json2))
+        #print(json1,json2)
+        return json1
 
 def extract_json(text):
     try:
@@ -90,7 +113,12 @@ def extract_json(text):
             #print("jsonfound->",json_text)
             # Intenta cargarlo como un objeto JSON
             parsed_json = json.loads(json_text)
-            return parsed_json
+
+            if isinstance(parsed_json, list) and all(
+                    isinstance(item, dict) and "finding" in item for item in parsed_json
+            ):
+                return parsed_json
+
         else:
             # print("No se encontró un JSON en el texto.")
             return None
@@ -117,10 +145,30 @@ def fix_json_with_ollama(json_text):
 
     # Formatear el prompt para Ollama
     prompt = f"""
-        The following text is supposed to be a JSON, but it may have issues. 
-        Please validate, fix it, and return the corrected JSON only:
+    The following text is supposed to be a JSON array containing only clinically relevant findings.
 
-        {json_text}
+    ### Expected Output Format:
+    [
+        {{"finding": "hyperinflated lungs"}},
+        {{"finding": "flattened diaphragm"}},
+        {{"finding": "increased retrosternal airspace"}},
+        {{"finding": "pulmonary edema due to acute respiratory distress syndrome (ARDS)"}},
+        {{"finding": "spine dextrocurvature"}},
+        {{"finding": "bronchiectasis"}},
+        {{"finding": "fibrotic scarring"}},
+        {{"finding": "infiltrate in the right middle lobe"}},
+        {{"finding": "lumbar degenerative disc disease"}}
+    ]
+
+    ### Instructions:
+    - **Return only a JSON array of objects**, where each object contains a **single key**: `"finding"`.
+    - **Remove extra keys such as `"description"`, `"category"`, or any other unwanted attributes.**
+    - **Ensure the JSON is valid and properly formatted.**
+    - **If the input JSON is invalid or contains unnecessary data, correct it while maintaining only the `"finding"` structure.**
+    - **Do not include explanations, code, or formatting outside of the JSON array.**
+
+    ### Input JSON:
+    {json_text}
     """
 
     # Ejecutar el modelo de Ollama
@@ -141,16 +189,76 @@ def fix_json_with_ollama(json_text):
         #  print(json_text)
         return None
 
-def intentoBase(textOri,historial_mensajes,resultadoJSONAnnon):
+def intentoBase(textOri,historial_mensajes,resultadoJSONAnnon,error=""):
     if resultadoJSONAnnon is not None:
-        historial_mensajes, resultadoAnon = obtener_respuesta(textOri, historial_mensajes, resultadoJSONAnnon)
+        historial_mensajes, resultadoAnon = obtener_respuesta(textOri, historial_mensajes, resultadoJSONAnnon, error)
     else :
-        historial_mensajes, resultadoAnon = obtener_respuesta(textOri, historial_mensajes)
+        historial_mensajes, resultadoAnon = obtener_respuesta(textOri, historial_mensajes, error=error)
 
-    #print(f"Historial_mensajes: {historial_mensajes}")
-    #print(f"Texto resultadoAnon: {resultadoAnon['message']['content']}")
+    print(f"Historial_mensajes: {historial_mensajes}")
+    print(f"Texto resultadoAnon: {resultadoAnon['message']['content']}")
     resultadoJSONAnnon2 = extract_json(resultadoAnon['message']['content'])
     return resultadoJSONAnnon2, resultadoAnon['message']['content']
+
+
+def produceResultado(archivo_salida,lista):
+    historial_mensajes = []
+    resultadoJSONAnnon = None
+    errorAgregado = f"""output is not well format, expected format as follows .
+    
+    [
+        {{"finding": "hyperinflated lungs"}},
+        {{"finding": "flattened diaphragm"}},
+        {{"finding": "increased retrosternal airspace"}},
+        {{"finding": "pulmonary edema due to acute respiratory distress syndrome (ARDS)"}},
+        {{"finding": "spine dextrocurvature"}},
+        {{"finding": "bronchiectasis"}},
+        {{"finding": "fibrotic scarring"}},
+        {{"finding": "infiltrate in the right middle lobe"}},
+        {{"finding": "lumbar degenerative disc disease"}}
+    ]
+    
+    never return **code**!!! Only the JSON result
+    
+    """
+    for textOri in lista:
+
+        resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon)
+
+        if resultadoJSONAnnon2 is not None:
+            resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
+        else:
+            resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon,
+                                                                errorAgregado)
+            if resultadoJSONAnnon2 is not None:
+                resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
+            else:
+                resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon,
+                                                                    errorAgregado)
+
+                if resultadoJSONAnnon2 is not None:
+                    resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
+                else:
+                    dictvalor = dict();
+                    dictvalor["text"] = textOri
+                    dictvalor["res"] = resultadoContent
+                    ResultadoErrores.append(dictvalor)
+                    # print("not found", resultadoContent)
+
+        # print(f"Texto Original: {textOri}")
+        print(f"Texto JSON: {resultadoJSONAnnon}")
+        print(f"Texto JSONPOS: {resultadoJSONAnnon2}")
+        # print("---")
+
+    print(f"Texto JSON: {resultadoJSONAnnon}")
+
+
+    # Guardar el JSON en el archivo
+    with open(archivo_salida, "w", encoding="utf-8") as f:
+        json.dump(resultadoJSONAnnon, f, indent=4, ensure_ascii=False)
+
+    print(f"JSON guardado en {archivo_salida}")
+
 
 # Leer el archivo JSON desanonimizado
 archivo_salida = "resultados_desanonimizados.json"
@@ -165,95 +273,19 @@ lista_textDesa = [objeto["textDesa"] for objeto in datos]
 #print("Lista de textOri:", lista_textOri)
 #print("Lista de textDesa:", lista_textDesa)
 
+
+ResultadoErrores=[]
+ResultadoErroresRaros=[]
+
 # Recorrer la lista de textOri con un bucle
 print("Recorriendo textOri:")
 
-ResultadoErrores=[]
-
-historial_mensajes=[]
-resultadoJSONAnnon= None
-for textOri in lista_textOri:
-
-    resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes,resultadoJSONAnnon)
-
-    if resultadoJSONAnnon2 is not None:
-        resultadoJSONAnnon=mergeJSON(resultadoJSONAnnon,resultadoJSONAnnon2)
-    else:
-        resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon)
-
-        if resultadoJSONAnnon2 is not None:
-            resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
-        else:
-            resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon)
-
-            if resultadoJSONAnnon2 is not None:
-                resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
-            else:
-                dictvalor=dict();
-                dictvalor["text"] = textOri
-                dictvalor["res"] = resultadoContent
-                ResultadoErrores.append(dictvalor)
-                print("not found", resultadoContent)
-
-    #print(f"Texto Original: {textOri}")
-    print(f"Texto JSON: {resultadoJSONAnnon}")
-    #print("---")
-
-print(f"Texto JSON: {resultadoJSONAnnon}")
-
-# Nombre del archivo donde se guardará el JSON
-archivo_salida = "resultadoFinalNormal.json"
-
-# Guardar el JSON en el archivo
-with open(archivo_salida, "w", encoding="utf-8") as f:
-    json.dump(resultadoJSONAnnon, f, indent=4, ensure_ascii=False)
-
-print(f"JSON guardado en {archivo_salida}")
-
-
+produceResultado("resultadoFinalNormal.json", lista_textOri)
 
 # Recorrer la lista de textOri con un bucle
-print("Recorriendo lista_textDesa:")
+print("Recorriendo textDesa:")
 
-historial_mensajes2=[]
-resultadoJSONAnnon= None
-for textOri in lista_textDesa:
-
-    resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes2,resultadoJSONAnnon)
-
-    if resultadoJSONAnnon2 is not None:
-        resultadoJSONAnnon=mergeJSON(resultadoJSONAnnon,resultadoJSONAnnon2)
-    else:
-        resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes2, resultadoJSONAnnon)
-
-        if resultadoJSONAnnon2 is not None:
-            resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
-        else:
-            resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes2, resultadoJSONAnnon)
-
-            if resultadoJSONAnnon2 is not None:
-                resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
-            else:
-                dictvalor = dict();
-                dictvalor["text"] = textOri
-                dictvalor["res"] = resultadoContent
-                ResultadoErrores.append(dictvalor)
-                print("not found", resultadoContent)
-
-    #print(f"Texto Original: {textOri}")
-    print(f"Texto JSON: {resultadoJSONAnnon}")
-    #print("---")
-
-print(f"Texto JSON: {resultadoJSONAnnon}")
-
-# Nombre del archivo donde se guardará el JSON
-archivo_salida = "resultadoFinalAnnon.json"
-
-# Guardar el JSON en el archivo
-with open(archivo_salida, "w", encoding="utf-8") as f:
-    json.dump(resultadoJSONAnnon, f, indent=4, ensure_ascii=False)
-
-print(f"JSON guardado en {archivo_salida}")
+produceResultado("resultadoFinalAnnon.json", lista_textDesa)
 
 
 # Nombre del archivo donde se guardará el JSON
@@ -262,5 +294,14 @@ archivo_salida = "resultadoErrores.json"
 # Guardar el JSON en el archivo
 with open(archivo_salida, "w", encoding="utf-8") as f:
     json.dump(ResultadoErrores, f, indent=4, ensure_ascii=False)
+
+print(f"Errores guardados en {archivo_salida}")
+
+# Nombre del archivo donde se guardará el JSON
+archivo_salida = "resultadoErroresRaros.json"
+
+# Guardar el JSON en el archivo
+with open(archivo_salida, "w", encoding="utf-8") as f:
+    json.dump(ResultadoErroresRaros, f, indent=4, ensure_ascii=False)
 
 print(f"Errores guardados en {archivo_salida}")

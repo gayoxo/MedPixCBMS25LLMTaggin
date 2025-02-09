@@ -10,32 +10,51 @@ def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}):
         return None
 
     content_text = (
-        f"""Extract all **clinically relevant findings and diseases** from the following medical text.
+        f"""
+        
+        Assuming you are in a medical enviroment.
+        
+        Extract only **clinically significant findings and diseases** from the following medical text whit apear as 
+        positive in the description of the patient record.
 
-        Return **only** a valid JSON array, ensuring that only **clinically significant findings and diseases** are included, while excluding general observations, normal findings, and anatomical descriptions.
+        **Strictly return only a valid JSON array** with clinically relevant conditions appear in the text with 
+        expecial detail in not include terms about normal situations in the human body. Remove absent or in 
+        normal limit findings and diseases from the result.  Take care to not include terms not presents or appear in the text.
 
-        ### Input:
-        1. `jsonIni`: {jsonIni}  # Initial list of findings and diseases.
-        2. Text to analyze:
-           {valor_texto}
+        ### **Rules:**
+        1. **Only include findings or diseases that indicate pathology**.
+        2. **Exclude normal findings, general observations, and anatomical descriptions**, including:
+           - Normal anatomical structures
+           - Expected age-related changes
+           - Terms indicating **absence of disease**, such as:
+             - "No abnormality detected"
+             - "Unremarkable"
+             - "Within normal limits"
+            -Remove absent terms or in normal limits of findings and diseases from the result.
+            -Take care to not include terms not presents or appear in the text.
+        3. **Ensure clinical relevance** by only including terms present in `jsonIni`and not absent or in normal limits.
 
-        ### Output format:
-        - Each object in the JSON array must include:
-          - `"finding"`: the **clinically significant finding or disease** identified in the text.
+        ### **Input:**
+        - `jsonIni`: {jsonIni}  # List of clinically relevant findings and diseases.
+        - Medical text to analyze:
+          {valor_texto}
 
-        ### Important:
-        - Ensure all values are **clinically relevant**.
-        - Exclude **normal findings**, general descriptions, and anatomical observations such as:
-          - "Unremarkable structures"
-          - "Normal appearance"
-          - "No abnormalities detected"
-          - "Mild age-related changes"
-          - "Typical anatomy"
-        - Maintain lowercase `"true"` for boolean values.
-        - **DO NOT** include any explanations, code, or additional text—return **only** the JSON array."""
+        ### **Output Format (JSON Array):**
+        - Each object in the JSON array **must include**:
+          - `"finding"`: the **clinically significant** term extracted from the text.
+
+        ### **Additional Constraints:**
+        - **DO NOT return normal findings, anatomical structures, or mild changes.**
+        - **DO NOT add extra text, explanations, or invalid JSON.**
+        - Ensure the output is a **well-formatted JSON array**.
+        - Be care to include information not-well sure about finding appear in the text, only return elemento cleary 
+        apear in the medical text.
+        """
     )
 
     #print(content_text)
+
+    print(valor_texto)
 
     response = client.chat(model='llama3.2', messages=[
         {
@@ -49,7 +68,7 @@ def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}):
                 'role': 'assistant',
                 'content': response['message']['content']
                 })
-        # print(response)
+        print(response['message']['content'])
         return historial_mensajes, response
     else:
         #  print("No se recibió respuesta")

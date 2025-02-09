@@ -1,102 +1,29 @@
 [
     {
-        "finding": "cardiomediastinal silhouette within normal limits",
-        "absent": true
+        "finding": "hyperinflated lungs"
     },
     {
-        "finding": "hilar prominence appears stable",
-        "absent": true
+        "finding": "flattened diaphragm"
     },
     {
-        "finding": "thoracic aorta is tortuous",
-        "absent": false
+        "finding": "increased retrosternal airspace"
     },
     {
-        "finding": "mild degenerative changes and osteopenia of the thoracic spine",
-        "absent": false
+        "finding": "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
     },
     {
-        "finding": "lumbar degenerative disc disease",
-        "absent": false
+        "finding": "spine dextrocurvature"
     },
     {
-        "finding": "multilevel degenerative changes in the lumbar spine",
-        "absent": false
+        "finding": "bronchiectasis"
     },
     {
-        "finding": "moderate degenerative changes of the thoracic spine",
-        "absent": false
+        "finding": "fibrotic scarring"
     },
     {
-        "finding": "arthritic changes of the spine",
-        "absent": false
+        "finding": "infiltrate in the right middle lobe"
     },
     {
-        "finding": "bilateral apical scarring",
-        "absent": false
-    },
-    {
-        "finding": "ascending aortic dilatation",
-        "absent": true
-    },
-    {
-        "finding": "mild tortuosity of the thoracic aorta",
-        "absent": true
-    },
-    {
-        "finding": "thoracic aortic dilatation",
-        "absent": true
-    },
-    {
-        "finding": "stable appearance of the left upper lung lobe with fibrosis, volume loss, and pleural fibrosis",
-        "absent": false
-    },
-    {
-        "finding": "volume loss in the left lung",
-        "absent": false
-    },
-    {
-        "finding": "mild scarring at the right apex",
-        "absent": true
-    },
-    {
-        "finding": "minimal right middle lobe atelectasis",
-        "absent": true
-    },
-    {
-        "finding": "prior anterior cervical fusion",
-        "absent": false
-    },
-    {
-        "finding": "right pleural effusion with associated atelectatic collapse of the right middle lobe and partial collapse of the right lower lobe",
-        "absent": true
-    },
-    {
-        "finding": "subsegmental atelectasis",
-        "absent": false
-    },
-    {
-        "finding": "the lungs are mildly hyperexpanded",
-        "absent": false
-    },
-    {
-        "finding": "stable appearance with chronic asymmetric elevation of the right hemidiaphragm",
-        "absent": false
-    },
-    {
-        "finding": "mildly increased streaky airspace disease in the right lung base",
-        "absent": false
-    },
-    {
-        "finding": "chronic obstructive pulmonary disease (copd)",
-        "absent": true
-    },
-    {
-        "finding": "bibasilar atelectasis/infiltrate",
-        "absent": false
-    },
-    {
-        "finding": "left chest infiltration with associated central venous catheter tip overlying the cavoatrial junction",
-        "absent": false
+        "finding": "lumbar degenerative disc disease"
     }
 ]

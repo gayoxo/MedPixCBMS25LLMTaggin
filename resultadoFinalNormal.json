@@ -1,78 +1,117 @@
 [
     {
-        "finding": "prior anterior cervical fusion",
-        "absent": "None"
+        "finding": "pulmonary edema"
     },
     {
-        "finding": "minimal right middle lobe atelectasis",
-        "absent": "None"
+        "finding": "hyperinflated lungs"
     },
     {
-        "finding": "chronic asymmetric elevation of the right hemidiaphragm",
-        "absent": "False"
+        "finding": "increased retrosternal airspace"
     },
     {
-        "finding": "degenerative endplate changes of the spine",
-        "absent": "False"
+        "finding": "mild spine dextrocurvature"
     },
     {
-        "finding": "arthritic changes of the spine",
-        "absent": "False"
+        "finding": "chronic pleural-parenchymal scarring"
     },
     {
-        "finding": "biapical scarring",
-        "absent": "False"
+        "finding": "obstructive pulmonary disease and emphysema"
     },
     {
-        "finding": "thoracic spondylosis",
-        "absent": "False"
+        "finding": "streaky bibasilar airspace opacities"
     },
     {
-        "finding": "volume loss in the left lung",
-        "absent": "True"
+        "finding": "vagal nerve stimulator"
     },
     {
-        "finding": "left hemidiaphragm elevation",
-        "absent": "False"
+        "finding": "thoracic aortic atherosclerotic calcifications"
     },
     {
-        "finding": "emphysema",
-        "absent": "True"
+        "finding": "XXXX atelectasis or scar is noted within the left midlung",
+        "type": ""
     },
     {
-        "finding": "hyperinflated lungs",
-        "absent": "True"
+        "finding": "tortuous thoracic aorta"
     },
     {
-        "finding": "mild hyperexpansion of the lungs",
-        "absent": "False"
+        "finding": "anterior mediastinal mass"
     },
     {
-        "finding": "pleural effusion",
-        "absent": "True"
+        "finding": "aortic calcifications"
     },
     {
-        "finding": "pneumothorax",
-        "absent": "True"
+        "finding": "calcified hilar XXXX"
     },
     {
-        "finding": "right lung is clear",
-        "absent": "True"
+        "finding": "degenerative changes thoracic spine"
     },
     {
-        "finding": "stable appearance of the left upper lung lobe with scarring",
-        "absent": "False"
+        "finding": "right-sided pleural effusion"
     },
     {
-        "finding": "minimal right middle lobe atelectasis",
-        "absent": "None"
+        "finding": "vague opacities in the right upper lobe",
+        "type": ""
     },
     {
-        "finding": "prior anterior cervical fusion",
-        "absent": "None"
+        "finding": "calcified granuloma left upper lobe"
     },
     {
-        "finding": "bibasilar atelectasis/infiltrate",
-        "absent": "True"
+        "finding": "cardiomegaly"
+    },
+    {
+        "finding": "obstructive lung disease"
+    },
+    {
+        "finding": "air space disease and/or atelectasis"
+    },
+    {
+        "finding": "XXXX streaky opacity in the left base",
+        "type": ""
+    },
+    {
+        "finding": "streaky opacity in the left base",
+        "type": ""
+    },
+    {
+        "finding": "calcified hilar calcification"
+    },
+    {
+        "finding": "bilateral bibasilar airspace opacities"
+    },
+    {
+        "finding": "emphysema"
+    },
+    {
+        "finding": "calcified left hilar lymph node"
+    },
+    {
+        "finding": "diffuse right lower lobe airspace opacity"
+    },
+    {
+        "finding": "left lower lobe air space opacity"
+    },
+    {
+        "finding": "atelectasis"
+    },
+    {
+        "finding": "postop changes of CABG with mild cardiomegaly"
+    },
+    {
+        "finding": "infiltrate in the right lower lobe"
+    },
+    {
+        "finding": "multilevel degenerative changes in the spine"
+    },
+    {
+        "finding": "degenerative endplate changes of the spine"
+    },
+    {
+        "finding": "calcified hilar lymph node"
+    },
+    {
+        "finding": "pleural effusion"
+    },
+    {
+        "finding": "small left-sided pleural effusion"
     }
 ]
