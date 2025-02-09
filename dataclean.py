@@ -49,7 +49,7 @@ for archivo, datos in resultados.items():
 resultados_reestructurados = {datos["Etiqueta"]: datos["Texto"] for datos in resultados.values()}
 
 # Guardar resultados en un archivo JSON
-archivo_resultado = "datacleanOld.json"
+archivo_resultado = "dataclean.json"
 with open(archivo_resultado, "w", encoding="utf-8") as f:
     json.dump(resultados_reestructurados, f, indent=4, ensure_ascii=False)
 
