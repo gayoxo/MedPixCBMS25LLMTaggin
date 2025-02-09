@@ -1,0 +1,78 @@
+[
+    {
+        "finding": "prior anterior cervical fusion",
+        "absent": "None"
+    },
+    {
+        "finding": "minimal right middle lobe atelectasis",
+        "absent": "None"
+    },
+    {
+        "finding": "chronic asymmetric elevation of the right hemidiaphragm",
+        "absent": "False"
+    },
+    {
+        "finding": "degenerative endplate changes of the spine",
+        "absent": "False"
+    },
+    {
+        "finding": "arthritic changes of the spine",
+        "absent": "False"
+    },
+    {
+        "finding": "biapical scarring",
+        "absent": "False"
+    },
+    {
+        "finding": "thoracic spondylosis",
+        "absent": "False"
+    },
+    {
+        "finding": "volume loss in the left lung",
+        "absent": "True"
+    },
+    {
+        "finding": "left hemidiaphragm elevation",
+        "absent": "False"
+    },
+    {
+        "finding": "emphysema",
+        "absent": "True"
+    },
+    {
+        "finding": "hyperinflated lungs",
+        "absent": "True"
+    },
+    {
+        "finding": "mild hyperexpansion of the lungs",
+        "absent": "False"
+    },
+    {
+        "finding": "pleural effusion",
+        "absent": "True"
+    },
+    {
+        "finding": "pneumothorax",
+        "absent": "True"
+    },
+    {
+        "finding": "right lung is clear",
+        "absent": "True"
+    },
+    {
+        "finding": "stable appearance of the left upper lung lobe with scarring",
+        "absent": "False"
+    },
+    {
+        "finding": "minimal right middle lobe atelectasis",
+        "absent": "None"
+    },
+    {
+        "finding": "prior anterior cervical fusion",
+        "absent": "None"
+    },
+    {
+        "finding": "bibasilar atelectasis/infiltrate",
+        "absent": "True"
+    }
+]
