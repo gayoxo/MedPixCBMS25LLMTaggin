@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2968>
+<Texto>Right paratracheal stripe is denser and XXXX than normal. The XXXX are normal. Heart size normal. Lungs clear and expanded with no infiltrates.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/161/2968/CXR2968_IM-1360-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/161/2968/CXR2968_IM-1360-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Heart size normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The XXXX are normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Lungs clear and expanded with no infiltrates.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0235896</CUI>
+<TermValue>Pulmonary Infiltrate</TermValue>
+<Words>
+<Word>lung_infiltrate</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Right paratracheal stripe is denser and XXXX than normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR2968>

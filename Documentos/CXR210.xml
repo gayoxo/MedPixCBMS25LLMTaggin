@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR210>
+<Texto>There are numerous surgical clips at the thoracic inlet. Small areas of XXXX scarring are seen in the left base. The lungs are otherwise clear. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/210/210/CXR210_IM-0730-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/210/210/CXR210_IM-0730-4001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/210/210/CXR210_IM-0730-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The heart and mediastinum are normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are otherwise clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Small areas of XXXX scarring are seen in the left base.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0008767</CUI>
+<TermValue>Cicatrization</TermValue>
+<Words>
+<Word>scarring</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C2004491</CUI>
+<TermValue>Cicatrix</TermValue>
+<Words>
+<Word>scarring</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The skeletal structures are normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR210>

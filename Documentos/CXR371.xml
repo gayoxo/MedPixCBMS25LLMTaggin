@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR371>
+<Texto>The lungs are clear. There is hyperinflation. Calcification is seen over the anterior mediastinum XXXX a calcified lymph node at is not identified on the PA projection. The heart is normal. Arthritic changes the spine are seen.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/371/371/CXR371_IM-1852-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/371/371/CXR371_IM-1852-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Arthritic changes the spine are seen.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0741221</CUI>
+<TermValue>arthritic change</TermValue>
+<Words>
+<Word>arthritic_changes</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is hyperinflation.</PhraseText>
+<Terms>
+<Term>
+<SemType>Anatomical Abnormality</SemType>
+<CUI>C0020449</CUI>
+<TermValue>Hyperdistention</TermValue>
+<Words>
+<Word>hyperinflation</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Calcification is seen over the anterior mediastinum XXXX a calcified lymph node at is not identified on the PA projection.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The heart is normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR371>

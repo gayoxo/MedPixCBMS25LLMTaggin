@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3324>
+<Texto>The heart is normal in size. Atherosclerotic calcifications of the aorta. The mediastinum is stable. There is again soft tissue density projected over the right mid chest, XXXX patient's known large breast mass. The appearance is grossly stable to decreased from prior study. The lateral projection is suboptimal as patient could not raise XXXX. There is no pleural effusion.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/116/3324/CXR3324_IM-1590-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/116/3324/CXR3324_IM-1590-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/116/3324/CXR3324_IM-1590-3001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The appearance is grossly stable to decreased from prior study.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442797</CUI>
+<TermValue>Decreasing</TermValue>
+<Words>
+<Word>decreased</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The heart is normal in size.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_normal_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is again soft tissue density projected over the right mid chest, XXXX patient's known large breast mass.</PhraseText>
+<Terms>
+<Term>
+<SemType>Anatomical Abnormality</SemType>
+<CUI>C0457193</CUI>
+<TermValue>Soft tissue mass</TermValue>
+<Words>
+<Word>soft_tissue_mass</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>4</Position>
+<Position>18</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Atherosclerotic calcifications of the aorta.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1096249</CUI>
+<TermValue>Calcification of the aorta</TermValue>
+<Words>
+<Word>calcifications_of_the_aorta</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>5</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3324>

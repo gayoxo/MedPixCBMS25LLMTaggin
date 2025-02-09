@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3995>
+<Texto>The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are mildly hyperinflated with flattening of the diaphragms and expansion of the retrosternal clear space. Compared with prior exam, there has been interval resolution of previously demonstrated bibasilar infiltrates. There is minimal XXXX scarring or atelectasis in the right midlung. There is no XXXX focal airspace disease. There is no pneumothorax or pleural effusion. There are no acute bony findings.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/386/3995/CXR3995_IM-2046-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/386/3995/CXR3995_IM-2046-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>There is no XXXX focal airspace disease.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Compared with prior exam, there has been interval resolution of previously demonstrated bibasilar infiltrates.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0332448</CUI>
+<TermValue>Infiltration</TermValue>
+<Words>
+<Word>infiltrates</Word>
+</Words>
+<Positions>
+<Position>14</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1514893</CUI>
+<TermValue>physiologic resolution</TermValue>
+<Words>
+<Word>resolution</Word>
+</Words>
+<Positions>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no pneumothorax or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There is minimal XXXX scarring or atelectasis in the right midlung.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1962948</CUI>
+<TermValue>Atelectasis Adverse Event</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0004144</CUI>
+<TermValue>Atelectasis</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0008767</CUI>
+<TermValue>Cicatrization</TermValue>
+<Words>
+<Word>scarring</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C2004491</CUI>
+<TermValue>Cicatrix</TermValue>
+<Words>
+<Word>scarring</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are mildly hyperinflated with flattening of the diaphragms and expansion of the retrosternal clear space.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>16</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1167782</CUI>
+<TermValue>Lung hyperinflation</TermValue>
+<Words>
+<Word>lung_hyperinflation</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There are no acute bony findings.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3995>

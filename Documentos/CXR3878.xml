@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3878>
+<Texto>Postop changes of CABG with mild cardiomegaly. There is an infiltrate in the right lower lobe. Thoracic spondylosis.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/269/3878/CXR3878_IM-1968-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/269/3878/CXR3878_IM-1968-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Thoracic spondylosis.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1261380</CUI>
+<TermValue>Thoracic spondylosis</TermValue>
+<Words>
+<Word>thoracic_spondylosis</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Postop changes of CABG with mild cardiomegaly.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>cardiomegaly</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is an infiltrate in the right lower lobe.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0332448</CUI>
+<TermValue>Infiltration</TermValue>
+<Words>
+<Word>infiltrate</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1692321</CUI>
+<TermValue>Cellular infiltrate</TermValue>
+<Words>
+<Word>infiltrate</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3878>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1465>
+<Texto>The heart is normal in size. Stable appearance of coronary stent. XXXX sternotomy changes are present. No focal consolidation, pneumothorax or pleural effusion. Mild degenerative changes of the thoracic spine.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/262/1465/CXR1465_IM-0302-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/262/1465/CXR1465_IM-0302-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The heart is normal in size.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_normal_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Mild degenerative changes of the thoracic spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degeneration_of_spine</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal consolidation, pneumothorax or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>XXXX sternotomy changes are present.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0150312</CUI>
+<TermValue>Present</TermValue>
+<Words>
+<Word>present</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1465>

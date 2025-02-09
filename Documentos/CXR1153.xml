@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1153>
+<Texto>No pneumothorax, pleural effusion or airspace consolidation. Heart size and pulmonary vasculature appear within normal limits. XXXX XXXX are intact.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/351/1153/CXR1153_IM-0104-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/351/1153/CXR1153_IM-0104-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>XXXX XXXX are intact.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1554187</CUI>
+<TermValue>Gender Status - Intact</TermValue>
+<Words>
+<Word>intact</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size and pulmonary vasculature appear within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax, pleural effusion or airspace consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR1153>

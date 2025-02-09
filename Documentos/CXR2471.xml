@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2471>
+<Texto>The trachea is midline. The cardiomediastinal silhouette is normal and unchanged compared to prior examination. Lungs are clear, without evidence of acute infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/65/2471/CXR2471_IM-1002-1002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/65/2471/CXR2471_IM-1002-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>There is no pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Lungs are clear, without evidence of acute infiltrate or effusion.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0235896</CUI>
+<TermValue>Pulmonary Infiltrate</TermValue>
+<Words>
+<Word>lung_infiltrate</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The visualized bony structures reveal no acute abnormalities.</PhraseText>
+<Terms>
+<Term>
+<SemType>Anatomical Abnormality</SemType>
+<CUI>C0410719</CUI>
+<TermValue>Deformity of bone</TermValue>
+<Words>
+<Word>bone_abnormalities</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The cardiomediastinal silhouette is normal and unchanged compared to prior examination.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442739</CUI>
+<TermValue>No status change</TermValue>
+<Words>
+<Word>unchanged</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR2471>

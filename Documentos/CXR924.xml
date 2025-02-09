@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR924>
+<Texto>Cardiac silhouette is within normal limits. Bibasilar atelectasis/infiltrate. There is no pleural effusion or pneumothorax. Left chest XXXX with associated central venous catheter tip overlying the cavoatrial junction.</Texto>
+<Imagenes/>
+<Utterances>
+<Utterance>
+<PhraseText>Cardiac silhouette is within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Bibasilar atelectasis/infiltrate.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1962948</CUI>
+<TermValue>Atelectasis Adverse Event</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0004144</CUI>
+<TermValue>Atelectasis</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0332448</CUI>
+<TermValue>Infiltration</TermValue>
+<Words>
+<Word>infiltrate</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1692321</CUI>
+<TermValue>Cellular infiltrate</TermValue>
+<Words>
+<Word>infiltrate</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR924>

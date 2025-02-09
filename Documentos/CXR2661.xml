@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2661>
+<Texto>Mild cardiomegaly. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/255/2661/CXR2661_IM-1142-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/255/2661/CXR2661_IM-1142-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Mild cardiomegaly.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>cardiomegaly</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Low lung volumes without focal consolidation, pneumothorax or large pleural effusion.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0521530</CUI>
+<TermValue>Lung consolidation</TermValue>
+<Words>
+<Word>lung_consolidation</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Negative for acute bone abnormality.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1513916</CUI>
+<TermValue>Negative Finding</TermValue>
+<Words>
+<Word>negative</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0205160</CUI>
+<TermValue>Negative</TermValue>
+<Words>
+<Word>negative</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR2661>

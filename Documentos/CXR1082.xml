@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1082>
+<Texto>Stable cardiomegaly. Stable tortuosity of the aorta. No focal airspace opacities, pneumothorax or pleural effusion. Mild degenerative changes of the thoracic spine.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/280/1082/CXR1082_IM-0058-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Mild degenerative changes of the thoracic spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degeneration_of_spine</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Stable cardiomegaly.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>cardiomegaly</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Stable tortuosity of the aorta.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0741171</CUI>
+<TermValue>tortuous aorta</TermValue>
+<Words>
+<Word>tortuous_aorta</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal airspace opacities, pneumothorax or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR1082>

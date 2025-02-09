@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1089>
+<Texto>The heart size and pulmonary vascularity appear within normal limits. The descending thoracic aorta is tortuous. Central venous catheter is again noted. The lungs are free of focal airspace disease. The left hemidiaphragm remains elevated. No pneumothorax or pleural effusion is seen.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/287/1089/CXR1089_IM-0061-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/287/1089/CXR1089_IM-0061-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The lungs are free of focal airspace disease.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0024115</CUI>
+<TermValue>Lung diseases</TermValue>
+<Words>
+<Word>lung_disease</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The heart size and pulmonary vascularity appear within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4068833</CUI>
+<TermValue>Vascularity</TermValue>
+<Words>
+<Word>vascularity</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4522268</CUI>
+<TermValue>Pulmonary (intended site)</TermValue>
+<Words>
+<Word>pulmonary</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax or pleural effusion is seen.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The descending thoracic aorta is tortuous.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4068863</CUI>
+<TermValue>Tortuous</TermValue>
+<Words>
+<Word>tortuous</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1089>

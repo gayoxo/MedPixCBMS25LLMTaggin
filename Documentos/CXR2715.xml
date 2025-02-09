@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2715>
+<Texto>Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. There is a 9 mm right lower lobe pulmonary nodule, not seen on prior exams. There are posttraumatic deformities of the right posterior ribs. No focal airspace consolidation or effusion. No pneumothorax.</Texto>
+<Utterances>
+<Utterance>
+<PhraseText>No focal airspace consolidation or effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There are posttraumatic deformities of the right posterior ribs.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0575507</CUI>
+<TermValue>Deformity of rib</TermValue>
+<Words>
+<Word>deformity_of_rib</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>4</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size and mediastinal contour are normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Pulmonary vascularity is normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is a 9 mm right lower lobe pulmonary nodule, not seen on prior exams.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR2715>

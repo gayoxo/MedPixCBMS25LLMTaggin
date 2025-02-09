@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR715>
+<Texto>There is chronic asymmetric elevation of the right hemidiaphragm. Compared with the prior study, there is mildly increased streaky airspace disease in the right lung base. Hilar prominence appears stable. There is no pneumothorax or large pleural effusion. Heart size is stable and grossly normal. There no acute bony findings.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/314/715/CXR715_IM-2277-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/314/715/CXR715_IM-2277-3001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>There no acute bony findings.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There is chronic asymmetric elevation of the right hemidiaphragm.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C3554250</CUI>
+<TermValue>Elevated right hemidiaphragm</TermValue>
+<Words>
+<Word>elevated_right_hemidiaphragm</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>9</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size is stable and grossly normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no pneumothorax or large pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR715>

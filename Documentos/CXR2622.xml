@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2622>
+<Texto>Normal heart size and mediastinal contours. No focal airspace consolidation. Tracheostomy tip approximately 5 cm above the carina. No pleural effusion or pneumothorax.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/216/2622/CXR2622_IM-1110-1002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/216/2622/CXR2622_IM-1110-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Normal heart size and mediastinal contours.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>normal_heart_size</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal airspace consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR2622>

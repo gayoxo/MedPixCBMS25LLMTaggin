@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1235>
+<Texto>Lung volumes are XXXX. XXXX opacities are present in the angulate. No focal infiltrates. Heart size normal.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/32/1235/CXR1235_IM-0158-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/32/1235/CXR1235_IM-0158-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Heart size normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>XXXX opacities are present in the angulate.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0150312</CUI>
+<TermValue>Present</TermValue>
+<Words>
+<Word>present</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal infiltrates.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR1235>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR549>
+<Texto>Stable appearance of the left upper lung lobe with scarring, volume loss, and pleural thickening. Cardiomediastinal silhouette is within normal limits normal appearance, similar to prior. Volume loss in the left lung, stable. Right lung is clear. There is no XXXX focal airspace disease, pleural effusion, or pneumothorax. Mild scarring at the right apex. No acute bony abnormality.</Texto>
+<Utterances>
+<Utterance>
+<PhraseText>No acute bony abnormality.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Stable appearance of the left upper lung lobe with scarring, volume loss, and pleural thickening.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0264545</CUI>
+<TermValue>Thickening of pleura</TermValue>
+<Words>
+<Word>pleural_thickening</Word>
+</Words>
+<Positions>
+<Position>15</Position>
+<Position>14</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0008767</CUI>
+<TermValue>Cicatrization</TermValue>
+<Words>
+<Word>scarring</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C2004491</CUI>
+<TermValue>Cicatrix</TermValue>
+<Words>
+<Word>scarring</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Mild scarring at the right apex.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1844594</CUI>
+<TermValue>Mild scarring</TermValue>
+<Words>
+<Word>mild_scarring</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no XXXX focal airspace disease, pleural effusion, or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Right lung is clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Cardiomediastinal silhouette is within normal limits normal appearance, similar to prior.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1271005</CUI>
+<TermValue>Normal appearance (finding)</TermValue>
+<Words>
+<Word>normal_appearance</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0332441</CUI>
+<TermValue>Normal tissue morphology</TermValue>
+<Words>
+<Word>normal_appearance</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR549>

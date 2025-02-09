@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3148>
+<Texto>Stable cardiomediastinal contour is mild cardiomegaly. No pneumothorax or significant pulmonary edema. Small left pleural effusion. No focal lung consolidation. Mildly low lung volumes.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/341/3148/CXR3148_IM-1480-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/341/3148/CXR3148_IM-1480-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Small left pleural effusion.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0032227</CUI>
+<TermValue>Pleural effusion disorder</TermValue>
+<Words>
+<Word>pleural_effusion</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Stable cardiomediastinal contour is mild cardiomegaly.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>cardiomegaly</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal lung consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax or significant pulmonary edema.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR3148>

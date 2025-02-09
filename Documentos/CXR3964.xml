@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3964>
+<Texto>The heart is normal in size. The mediastinum is unremarkable. The lungs are hyperinflated compatible with emphysema. There is biapical scarring. No acute infiltrate is seen.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/355/3964/CXR3964_IM-2028-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/355/3964/CXR3964_IM-2028-2002.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The heart is normal in size.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_normal_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No acute infiltrate is seen.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There is biapical scarring.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0008767</CUI>
+<TermValue>Cicatrization</TermValue>
+<Words>
+<Word>scarring</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C2004491</CUI>
+<TermValue>Cicatrix</TermValue>
+<Words>
+<Word>scarring</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are hyperinflated compatible with emphysema.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1167782</CUI>
+<TermValue>Lung hyperinflation</TermValue>
+<Words>
+<Word>lung_hyperinflation</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0034067</CUI>
+<TermValue>Pulmonary Emphysema</TermValue>
+<Words>
+<Word>emphysema</Word>
+<Word>lung_emphysema</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Anatomical Abnormality</SemType>
+<CUI>C0020449</CUI>
+<TermValue>Hyperdistention</TermValue>
+<Words>
+<Word>hyperinflation</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0013990</CUI>
+<TermValue>Pathological accumulation of air in tissues</TermValue>
+<Words>
+<Word>emphysema</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3964>

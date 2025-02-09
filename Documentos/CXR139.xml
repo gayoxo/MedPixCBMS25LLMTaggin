@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR139>
+<Texto>The cardiac silhouette is mildly enlarged. A lobulated opacity is identified superior to the heart, in the anterior mediastinum on the lateral view, possibly consistent with a tortuous/ectatic thoracic aorta versus an anterior mediastinal mass. The thoracic aorta is tortuous and calcified. No focal areas of pulmonary consolidation. The lungs are hyperexpanded with flattening of the bilateral hemidiaphragms. No pneumothorax or pleural effusion. Severe degenerative changes of the thoracic spine.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/139/139/CXR139_IM-0248-3003.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/139/139/CXR139_IM-0248-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Severe degenerative changes of the thoracic spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0205082</CUI>
+<TermValue>Severe (severity modifier)</TermValue>
+<Words>
+<Word>severe</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degeneration_of_spine</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are hyperexpanded with flattening of the bilateral hemidiaphragms.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1167782</CUI>
+<TermValue>Lung hyperinflation</TermValue>
+<Words>
+<Word>lung_hyperexpansion</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Anatomical Abnormality</SemType>
+<CUI>C0020449</CUI>
+<TermValue>Hyperdistention</TermValue>
+<Words>
+<Word>hyperexpansion</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The thoracic aorta is tortuous and calcified.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4068863</CUI>
+<TermValue>Tortuous</TermValue>
+<Words>
+<Word>tortuous</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1969292</CUI>
+<TermValue>Thoracic aorta calcification</TermValue>
+<Words>
+<Word>thoracic_aorta_calcification</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal areas of pulmonary consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>A lobulated opacity is identified superior to the heart, in the anterior mediastinum on the lateral view, possibly consistent with a tortuous/ectatic thoracic aorta versus an anterior mediastinal mass.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1550043</CUI>
+<TermValue>Container status - Identified</TermValue>
+<Words>
+<Word>identified</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacity</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0577725</CUI>
+<TermValue>Anterior mediastinum mass</TermValue>
+<Words>
+<Word>anterior_mediastinum_mass</Word>
+</Words>
+<Positions>
+<Position>30</Position>
+<Position>13</Position>
+<Position>12</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacity</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0265004</CUI>
+<TermValue>Dilatation of aorta</TermValue>
+<Words>
+<Word>ectatic_aorta</Word>
+</Words>
+<Positions>
+<Position>23</Position>
+<Position>25</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR139>

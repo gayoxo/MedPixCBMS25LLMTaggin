@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3586>
+<Texto>The heart is mildly enlarged. The mediastinal contours are stable. The lungs are clear.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/378/3586/CXR3586_IM-1764-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/378/3586/CXR3586_IM-1764-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The lungs are clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The heart is mildly enlarged.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>heart_enlargement</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1383860</CUI>
+<TermValue>Cardiac Hypertrophy</TermValue>
+<Words>
+<Word>heart_enlargements</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3586>

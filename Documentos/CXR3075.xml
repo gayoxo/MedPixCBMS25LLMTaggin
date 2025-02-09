@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3075>
+<Texto>The heart is mildly enlarged. Lung volumes are low. There is no focal consolidation, pneumothorax, or large pleural effusion. Bony structures are within normal limits. There is no free air under the diaphragm. There is a mild amount of XXXX seen in the transverse colon.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/268/3075/CXR3075_IM-1436-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/268/3075/CXR3075_IM-1436-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Bony structures are within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The heart is mildly enlarged.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>heart_enlargement</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1383860</CUI>
+<TermValue>Cardiac Hypertrophy</TermValue>
+<Words>
+<Word>heart_enlargements</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no focal consolidation, pneumothorax, or large pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR3075>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1135>
+<Texto>Heart XXXX, mediastinum, XXXX, bony structures and lung XXXX are unremarkable. Stable small calcified granuloma left base. No XXXX acute findings/opacities/infiltrates noted.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/333/1135/CXR1135_IM-0091-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/333/1135/CXR1135_IM-0091-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Stable small calcified granuloma left base.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0333404</CUI>
+<TermValue>Calcified granuloma</TermValue>
+<Words>
+<Word>calcified_granuloma</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No XXXX acute findings/opacities/infiltrates noted.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR1135>

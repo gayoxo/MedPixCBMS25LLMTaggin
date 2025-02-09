@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR702>
+<Texto>The left lung is grossly clear. The right lung demonstrates a large right pleural effusion with associated atelectatic collapse of the right middle lobe and partial collapse of the right lower lobe. XXXX opacities are seen within the aerated right lung, XXXX subsegmental atelectasis. No focal consolidation or pneumothorax identified. No acute osseous abnormality. Cardio mediastinal silhouette is stable compared to prior examinations.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/301/702/CXR702_IM-2267-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The left lung is grossly clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No acute osseous abnormality.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No focal consolidation or pneumothorax identified.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The right lung demonstrates a large right pleural effusion with associated atelectatic collapse of the right middle lobe and partial collapse of the right lower lobe.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0344329</CUI>
+<TermValue>Collapse (finding)</TermValue>
+<Words>
+<Word>collapse</Word>
+</Words>
+<Positions>
+<Position>13</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0032227</CUI>
+<TermValue>Pleural effusion disorder</TermValue>
+<Words>
+<Word>pleural_effusion</Word>
+</Words>
+<Positions>
+<Position>9</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0036974</CUI>
+<TermValue>Shock</TermValue>
+<Words>
+<Word>collapse</Word>
+</Words>
+<Positions>
+<Position>13</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0013687</CUI>
+<TermValue>effusion</TermValue>
+<Words>
+<Word>effusion</Word>
+</Words>
+<Positions>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>XXXX opacities are seen within the aerated right lung, XXXX subsegmental atelectasis.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1962948</CUI>
+<TermValue>Atelectasis Adverse Event</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>12</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0004144</CUI>
+<TermValue>Atelectasis</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>12</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR702>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3401>
+<Texto>No focal consolidation, pneumothorax, or pleural effusion. Cardiomediastinal silhouette unremarkable. Stable bilateral calcified granulomas/lymph XXXX. A bullet is present in the posterior soft tissues of the left chest wall, stable compared to prior examination.</Texto>
+<Utterances>
+<Utterance>
+<PhraseText>No focal consolidation, pneumothorax, or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>A bullet is present in the posterior soft tissues of the left chest wall, stable compared to prior examination.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0150312</CUI>
+<TermValue>Present</TermValue>
+<Words>
+<Word>present</Word>
+</Words>
+<Positions>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Stable bilateral calcified granulomas/lymph XXXX.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0333404</CUI>
+<TermValue>Calcified granuloma</TermValue>
+<Words>
+<Word>calcified_granulomas</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3401>

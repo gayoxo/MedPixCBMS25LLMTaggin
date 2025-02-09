@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR693>
+<Texto>Cardiomediastinal silhouettes are within normal limits. Lungs are without focal consolidation, pneumothorax, or pleural effusion. Grossly unchanged appearance of calcified hilar lymph XXXX and scattered calcified granulomas. Stable degenerative changes in the spine.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/292/693/CXR693_IM-2259-1002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/292/693/CXR693_IM-2259-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Stable degenerative changes in the spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degenerative_spine</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Lungs are without focal consolidation, pneumothorax, or pleural effusion.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0521530</CUI>
+<TermValue>Lung consolidation</TermValue>
+<Words>
+<Word>lung_consolidation</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Grossly unchanged appearance of calcified hilar lymph XXXX and scattered calcified granulomas.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442739</CUI>
+<TermValue>No status change</TermValue>
+<Words>
+<Word>unchanged</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0333404</CUI>
+<TermValue>Calcified granuloma</TermValue>
+<Words>
+<Word>calcified_granulomas</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>12</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Cardiomediastinal silhouettes are within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR693>

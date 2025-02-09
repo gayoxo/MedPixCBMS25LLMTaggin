@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3038>
+<Texto>The heart and mediastinum are unremarkable. There is a calcified granuloma within the left upper lobe. The lungs are clear without infiltrate. There is no effusion or pneumothorax. There are acute mild anterior XXXX deformities identified at L1-L2. There is retropulsion of the posterior vertebral body of L1. A CT of the lumbar spine was already ordered at the time of this dictation.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/231/3038/CXR3038_IM-1411-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/231/3038/CXR3038_IM-1411-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>There are acute mild anterior XXXX deformities identified at L1-L2.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0441918</CUI>
+<TermValue>L1 stage</TermValue>
+<Words>
+<Word>l1</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1550043</CUI>
+<TermValue>Container status - Identified</TermValue>
+<Words>
+<Word>identified</Word>
+</Words>
+<Positions>
+<Position>8</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C2675896</CUI>
+<TermValue>Mild dysmorphism</TermValue>
+<Words>
+<Word>mild_deformities</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is a calcified granuloma within the left upper lobe.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0333404</CUI>
+<TermValue>Calcified granuloma</TermValue>
+<Words>
+<Word>calcified_granuloma</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is retropulsion of the posterior vertebral body of L1.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0441918</CUI>
+<TermValue>L1 stage</TermValue>
+<Words>
+<Word>l1</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Sign or Symptom</SemType>
+<CUI>C0277845</CUI>
+<TermValue>Retropulsion</TermValue>
+<Words>
+<Word>retropulsion</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are clear without infiltrate.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0235896</CUI>
+<TermValue>Pulmonary Infiltrate</TermValue>
+<Words>
+<Word>lung_infiltrate</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR3038>

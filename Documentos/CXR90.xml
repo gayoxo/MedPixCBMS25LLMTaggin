@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR90>
+<Texto>The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour are within normal limits. There are degenerative changes of the spine.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/90/90/CXR90_IM-2407-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/90/90/CXR90_IM-2407-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The lungs are clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There are degenerative changes of the spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degeneration_of_spine</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>7</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size and mediastinal contour are within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no focal airspace consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR90>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR624>
+<Texto>The cardiac contours are normal. The lungs are hyperinflated with flattening of the diaphragms and tapering of the distal pulmonary vasculature. There is no focal consolidation. Thoracic spondylosis. Mild dextroscoliosis of the spine. Prior anterior cervical fusion.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/223/624/CXR624_IM-2206-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/223/624/CXR624_IM-2206-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The lungs are hyperinflated with flattening of the diaphragms and tapering of the distal pulmonary vasculature.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1167782</CUI>
+<TermValue>Lung hyperinflation</TermValue>
+<Words>
+<Word>lung_hyperinflation</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Thoracic spondylosis.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1261380</CUI>
+<TermValue>Thoracic spondylosis</TermValue>
+<Words>
+<Word>thoracic_spondylosis</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The cardiac contours are normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Prior anterior cervical fusion.</PhraseText>
+<Terms>
+<Term>
+<SemType>Congenital Abnormality</SemType>
+<CUI>C3887527</CUI>
+<TermValue>Fused cervical vertebrae</TermValue>
+<Words>
+<Word>cervical_fusion</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no focal consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Mild dextroscoliosis of the spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C3494893</CUI>
+<TermValue>Dextroscoliosis</TermValue>
+<Words>
+<Word>dextroscoliosis</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR624>

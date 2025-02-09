@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3411>
+<Texto>There are low lung volumes with bronchovascular crowding. There is patchy left lower lobe airspace disease. There are XXXX opacities in the right mid lung, XXXX subsegmental atelectasis. No significant pleural effusion. No pneumothorax. Heart size is within normal limits. There is aortic atherosclerotic vascular calcification.</Texto>
+<Utterances>
+<Utterance>
+<PhraseText>There is patchy left lower lobe airspace disease.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0012634</CUI>
+<TermValue>Disease</TermValue>
+<Words>
+<Word>disease</Word>
+</Words>
+<Positions>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size is within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is aortic atherosclerotic vascular calcification.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1558950</CUI>
+<TermValue>Adverse Event Associated with Vascular</TermValue>
+<Words>
+<Word>vascular</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1096249</CUI>
+<TermValue>Calcification of the aorta</TermValue>
+<Words>
+<Word>aortic_calcification</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>6</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0342649</CUI>
+<TermValue>Vascular calcification</TermValue>
+<Words>
+<Word>vascular_calcification</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There are XXXX opacities in the right mid lung, XXXX subsegmental atelectasis.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1962948</CUI>
+<TermValue>Atelectasis Adverse Event</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>12</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0004144</CUI>
+<TermValue>Atelectasis</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>12</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No significant pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There are low lung volumes with bronchovascular crowding.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0040433</CUI>
+<TermValue>Tooth Crowding</TermValue>
+<Words>
+<Word>crowding</Word>
+</Words>
+<Positions>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3411>

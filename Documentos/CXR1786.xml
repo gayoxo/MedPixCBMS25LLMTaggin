@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1786>
+<Texto>The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion. Cardio mediastinal silhouette is unremarkable. Stable XXXX foreign body over the left breast (XXXX nipple piercing). Visualized osseous structures of the thorax are without acute abnormality.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/182/1786/CXR1786_IM-0512-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/182/1786/CXR1786_IM-0512-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The lungs are clear bilaterally.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Visualized osseous structures of the thorax are without acute abnormality.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Stable XXXX foreign body over the left breast (XXXX nipple piercing).</PhraseText>
+<Terms>
+<Term>
+<SemType>Injury or Poisoning</SemType>
+<CUI>C0016542</CUI>
+<TermValue>Foreign Bodies</TermValue>
+<Words>
+<Word>foreign_body</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1449587</CUI>
+<TermValue>Nipple Piercing</TermValue>
+<Words>
+<Word>nipple_piercing</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+<Position>11</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1786>

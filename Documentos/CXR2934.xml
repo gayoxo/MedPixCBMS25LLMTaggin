@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2934>
+<Texto>The heart is normal in size. The mediastinum is unremarkable. The lungs are mildly hyperlucent but clear. There is denser lumbar scoliosis.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/127/2934/CXR2934_IM-1337-1002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/127/2934/CXR2934_IM-1337-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The heart is normal in size.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_normal_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are mildly hyperlucent but clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is denser lumbar scoliosis.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C2748518</CUI>
+<TermValue>Lumbar scoliosis</TermValue>
+<Words>
+<Word>lumbar_scoliosis</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR2934>

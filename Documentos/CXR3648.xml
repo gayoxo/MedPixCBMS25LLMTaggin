@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3648>
+<Texto>The heart and cardiomediastinal silhouette are normal in size and contour. There is no focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are intact.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/39/3648/CXR3648_IM-1810-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/39/3648/CXR3648_IM-1810-3001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>There is no focal airspace opacity, pleural effusion, or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The osseous structures are intact.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1554187</CUI>
+<TermValue>Gender Status - Intact</TermValue>
+<Words>
+<Word>intact</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The heart and cardiomediastinal silhouette are normal in size and contour.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_normal_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3648>

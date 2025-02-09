@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3732>
+<Texto>Calcified left hilar lymph node. Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. XXXX and soft tissues are unremarkable.</Texto>
+<Utterances>
+<Utterance>
+<PhraseText>Cardiomediastinal silhouette is within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0747635</CUI>
+<TermValue>Bilateral pleural effusion</TermValue>
+<Words>
+<Word>bilateral_pleural_effusion</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3732>

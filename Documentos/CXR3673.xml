@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3673>
+<Texto>The heart is normal in size. The mediastinal contours are stable. Aortic calcifications are noted. There are small calcified lymph XXXX. Emphysema and chronic changes are identified. There is XXXX opacity in the left perihilar upper lobe. There is questionable XXXX extension to the pleural surface. This may represent acute infiltrate or developing density. There is no pleural effusion or pneumothorax.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/64/3673/CXR3673_IM-1828-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/64/3673/CXR3673_IM-1828-1002.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The heart is normal in size.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_normal_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>This may represent acute infiltrate or developing density.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0332448</CUI>
+<TermValue>Infiltration</TermValue>
+<Words>
+<Word>infiltrate</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1692321</CUI>
+<TermValue>Cellular infiltrate</TermValue>
+<Words>
+<Word>infiltrate</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Emphysema and chronic changes are identified.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1550043</CUI>
+<TermValue>Container status - Identified</TermValue>
+<Words>
+<Word>identified</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0034067</CUI>
+<TermValue>Pulmonary Emphysema</TermValue>
+<Words>
+<Word>emphysema</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0013990</CUI>
+<TermValue>Pathological accumulation of air in tissues</TermValue>
+<Words>
+<Word>emphysema</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Aortic calcifications are noted.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1096249</CUI>
+<TermValue>Calcification of the aorta</TermValue>
+<Words>
+<Word>aortic_calcifications</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is XXXX opacity in the left perihilar upper lobe.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacity</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacity</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3673>

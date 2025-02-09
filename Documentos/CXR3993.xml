@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3993>
+<Texto>The heart is mildly enlarged. Left hemidiaphragm is elevated. There is no acute infiltrate or pleural effusion. The mediastinum is unremarkable.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/384/3993/CXR3993_IM-2044-1002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/384/3993/CXR3993_IM-2044-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>There is no acute infiltrate or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The heart is mildly enlarged.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>heart_enlargement</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1383860</CUI>
+<TermValue>Cardiac Hypertrophy</TermValue>
+<Words>
+<Word>heart_enlargements</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3993>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1292>
+<Texto>Borderline enlarged heart. Torturous/ectatic thoracic aorta. No focal pulmonary opacity, pleural effusion or pneumothorax. There are degenerative changes of the spine. There is fracture of distal right clavicle, better seen on the right shoulder radiographs dated XXXX. Small round lucency in the distal left clavicle, appears benign. Degenerative changes of both XXXX joints.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/89/1292/CXR1292_IM-0191-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/89/1292/CXR1292_IM-0191-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Small round lucency in the distal left clavicle, appears benign.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0575534</CUI>
+<TermValue>Small clavicle</TermValue>
+<Words>
+<Word>small_clavicle</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal pulmonary opacity, pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There is fracture of distal right clavicle, better seen on the right shoulder radiographs dated XXXX.</PhraseText>
+<Terms>
+<Term>
+<SemType>Injury or Poisoning</SemType>
+<CUI>C0159658</CUI>
+<TermValue>Fracture of clavicle</TermValue>
+<Words>
+<Word>fracture_of_clavicle</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>7</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Injury or Poisoning</SemType>
+<CUI>C0037006</CUI>
+<TermValue>Shoulder Fractures</TermValue>
+<Words>
+<Word>fracture_of_shoulder</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>4</Position>
+<Position>13</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4522046</CUI>
+<TermValue>Better than Others</TermValue>
+<Words>
+<Word>better</Word>
+</Words>
+<Positions>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Torturous/ectatic thoracic aorta.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0265004</CUI>
+<TermValue>Dilatation of aorta</TermValue>
+<Words>
+<Word>ectatic_aorta</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There are degenerative changes of the spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degeneration_of_spine</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>7</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Borderline enlarged heart.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>enlarged_heart</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Degenerative changes of both XXXX joints.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0011164</CUI>
+<TermValue>Abnormal degeneration</TermValue>
+<Words>
+<Word>degenerative_change</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1292>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2806>
+<Texto>Heart size is normal lungs are clear. No edema or effusions.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/400/2806/CXR2806_IM-1236-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/400/2806/CXR2806_IM-1236-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Heart size is normal lungs are clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No edema or effusions.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR2806>

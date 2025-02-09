@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3042>
+<Texto>Stable appearance bipolar dual-XXXX cardiac pacemaker overlying the left hemithorax. No interval change in XXXX position. Cardiomediastinal silhouette appears within normal limits. Lungs are well-aerated. No areas of parenchymal consolidation or pleural effusion.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/235/3042/CXR3042_IM-1416-5001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>No areas of parenchymal consolidation or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No interval change in XXXX position.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0580859</CUI>
+<TermValue>Does change position</TermValue>
+<Words>
+<Word>change_in_position</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Cardiomediastinal silhouette appears within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3042>

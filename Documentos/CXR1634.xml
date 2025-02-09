@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1634>
+<Texto>Calcified granulomas. Calcified hilar XXXX. No focal areas of consolidation. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Question large pulmonary arteries. Lung XXXX are hyperexpanded. Prominent substernal air space. Aortic calcifications. Degenerative changes thoracic spine.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/30/1634/CXR1634_IM-0414-2002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/30/1634/CXR1634_IM-0414-3003.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Degenerative changes thoracic spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0011164</CUI>
+<TermValue>Abnormal degeneration</TermValue>
+<Words>
+<Word>degenerative_change</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Aortic calcifications.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1096249</CUI>
+<TermValue>Calcification of the aorta</TermValue>
+<Words>
+<Word>aortic_calcifications</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No evidence of pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Lung XXXX are hyperexpanded.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1167782</CUI>
+<TermValue>Lung hyperinflation</TermValue>
+<Words>
+<Word>lung_hyperexpansion</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Question large pulmonary arteries.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4522268</CUI>
+<TermValue>Pulmonary (intended site)</TermValue>
+<Words>
+<Word>pulmonary</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pleural effusions.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No focal areas of consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Calcified granulomas.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0333404</CUI>
+<TermValue>Calcified granuloma</TermValue>
+<Words>
+<Word>calcified_granulomas</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1634>

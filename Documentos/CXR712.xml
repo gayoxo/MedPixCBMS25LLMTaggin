@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR712>
+<Texto>The lungs are mildly hyperexpanded. There is no focal airspace consolidation to suggest pneumonia. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/311/712/CXR712_IM-2274-0001-0002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/311/712/CXR712_IM-2274-0001-0003.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/311/712/CXR712_IM-2274-0001-0001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The lungs are mildly hyperexpanded.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1167782</CUI>
+<TermValue>Lung hyperinflation</TermValue>
+<Words>
+<Word>lung_hyperexpansion</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Normal heart size and mediastinal contour.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>normal_heart_size</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no focal airspace consolidation to suggest pneumonia.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR712>

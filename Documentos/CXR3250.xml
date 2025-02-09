@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3250>
+<Texto>Lungs are relatively clear. Heart size normal. Unfolded aorta. Moderate hiatal hernia. T-spine osteophytes and DISH.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/42/3250/CXR3250_IM-1540-1001-0002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/42/3250/CXR3250_IM-1540-1001-0001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/42/3250/CXR3250_IM-1540-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Heart size normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Moderate hiatal hernia.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4321335</CUI>
+<TermValue>Moderate Level</TermValue>
+<Words>
+<Word>moderate</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C3489393</CUI>
+<TermValue>Hiatal Hernia</TermValue>
+<Words>
+<Word>hiatal_hernia</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>T-spine osteophytes and DISH.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1956089</CUI>
+<TermValue>Osteophyte</TermValue>
+<Words>
+<Word>osteophytes</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0015302</CUI>
+<TermValue>External exotoses</TermValue>
+<Words>
+<Word>osteophytes</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0020498</CUI>
+<TermValue>Hyperostosis, Diffuse Idiopathic Skeletal</TermValue>
+<Words>
+<Word>dish</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Lungs are relatively clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3250>

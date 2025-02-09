@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3391>
+<Texto>There are no focal areas of consolidation. No suspicious pulmonary opacities. Heart size within normal limits. No pleural effusions. There is no evidence of pneumothorax. Stable left mid lung granuloma.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/183/3391/CXR3391_IM-1637-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/183/3391/CXR3391_IM-1637-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>There is no evidence of pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No pleural effusions.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No suspicious pulmonary opacities.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4050405</CUI>
+<TermValue>Suspicious for Malignancy</TermValue>
+<Words>
+<Word>suspicious</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Stable left mid lung granuloma.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0235557</CUI>
+<TermValue>Pulmonary granuloma</TermValue>
+<Words>
+<Word>lung_granuloma</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0018188</CUI>
+<TermValue>Granuloma</TermValue>
+<Words>
+<Word>granuloma</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There are no focal areas of consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3391>

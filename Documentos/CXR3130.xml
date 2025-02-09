@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3130>
+<Texto>2 images. Heart size is enlarged, stable. Thoracic aortic atherosclerotic calcifications are present. There is XXXX dense consolidation within the retrocardiac left lower lobe. There is also patchy airspace opacity within the perihilar right lung. No pleural effusion or pneumothorax.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/323/3130/CXR3130_IM-1472-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/323/3130/CXR3130_IM-1472-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>2 images.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C3833492</CUI>
+<TermValue>2+</TermValue>
+<Words>
+<Word>2</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size is enlarged, stable.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0744689</CUI>
+<TermValue>heart size</TermValue>
+<Words>
+<Word>heart_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There is also patchy airspace opacity within the perihilar right lung.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacity</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacity</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is XXXX dense consolidation within the retrocardiac left lower lobe.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0521530</CUI>
+<TermValue>Lung consolidation</TermValue>
+<Words>
+<Word>consolidation</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Thoracic aortic atherosclerotic calcifications are present.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0150312</CUI>
+<TermValue>Present</TermValue>
+<Words>
+<Word>present</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1969292</CUI>
+<TermValue>Thoracic aorta calcification</TermValue>
+<Words>
+<Word>thoracic_aorta_calcification</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3130>

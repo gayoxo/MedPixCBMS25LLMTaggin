@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3910>
+<Texto>Heart size and cardiomediastinal contours are normal. Low lung volumes without focal airspace opacity, pleural effusion, or pneumothorax. Multilevel degenerative changes in the spine.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/301/3910/CXR3910_IM-1987-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/301/3910/CXR3910_IM-1987-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Heart size and cardiomediastinal contours are normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Multilevel degenerative changes in the spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degenerative_spine</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Low lung volumes without focal airspace opacity, pleural effusion, or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR3910>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR816>
+<Texto>XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. Cardiac pacemaker leads are within right atrium and ventricle. There is stable XXXX tube. Lungs demonstrate left lower lobe of he states he may be atelectasis or pneumonia. There is small left-sided effusion. No pneumothorax.</Texto>
+<Imagenes/>
+<Utterances>
+<Utterance>
+<PhraseText>No pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There is small left-sided effusion.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0013687</CUI>
+<TermValue>effusion</TermValue>
+<Words>
+<Word>effusion</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Lungs demonstrate left lower lobe of he states he may be atelectasis or pneumonia.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1962948</CUI>
+<TermValue>Atelectasis Adverse Event</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>12</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0004144</CUI>
+<TermValue>Atelectasis</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>12</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR816>

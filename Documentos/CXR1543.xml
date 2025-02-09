@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1543>
+<Texto>The cardiomediastinal silhouette is within normal limits. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute osseus abnormality. Large hiatal hernia.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/340/1543/CXR1543_IM-0353-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/340/1543/CXR1543_IM-0353-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The cardiomediastinal silhouette is within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Large hiatal hernia.</PhraseText>
+<Terms>
+<Term>
+<SemType>Anatomical Abnormality</SemType>
+<CUI>C0744895</CUI>
+<TermValue>hiatal hernia large</TermValue>
+<Words>
+<Word>large_hiatal_hernia</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No acute osseus abnormality.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231162</CUI>
+<TermValue>Normal general body function</TermValue>
+<Words>
+<Word>normal_disease</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+<Position>11</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1543>

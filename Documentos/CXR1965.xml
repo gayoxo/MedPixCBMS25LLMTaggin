@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1965>
+<Texto>There is moderate cardiomegaly. There are bilateral interstitial opacities, increased since the previous exam. No focal airspace consolidation, pleural effusions or pneumothorax. No acute bony abnormalities.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/361/1965/CXR1965_IM-0629-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/361/1965/CXR1965_IM-0629-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>No acute bony abnormalities.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No focal airspace consolidation, pleural effusions or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There is moderate cardiomegaly.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4321335</CUI>
+<TermValue>Moderate Level</TermValue>
+<Words>
+<Word>moderate</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>cardiomegaly</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There are bilateral interstitial opacities, increased since the previous exam.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1965>

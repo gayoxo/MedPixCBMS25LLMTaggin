@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1042>
+<Texto>The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/240/1042/CXR1042_IM-0034-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/240/1042/CXR1042_IM-0034-3001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The cardiomediastinal silhouette and vasculature are within normal limits for size and contour.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>9</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Osseous structures are within normal limits for patient age.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C3842316</CUI>
+<TermValue>Normal for age</TermValue>
+<Words>
+<Word>normal_for_age</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+<Position>5</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are normally inflated and clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1042>

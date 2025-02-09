@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1218>
+<Texto>Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. No acute bony or soft tissue abnormality.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/15/1218/CXR1218_IM-0146-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/15/1218/CXR1218_IM-0146-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>No acute bony or soft tissue abnormality.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Cardiomediastinal silhouette is within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0747635</CUI>
+<TermValue>Bilateral pleural effusion</TermValue>
+<Words>
+<Word>bilateral_pleural_effusion</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+<Position>4</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1218>

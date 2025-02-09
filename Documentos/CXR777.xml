@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR777>
+<Texto>The cardiomediastinal silhouette is within normal limits for appearance. The thoracic aorta is tortuous. No focal areas of pulmonary consolidation. No pneumothorax. No large pleural effusion. Mild degenerative changes and osteopenia of the thoracic spine. Overlying EKG leads.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/376/777/CXR777_IM-2320-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/376/777/CXR777_IM-2320-4004.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Overlying EKG leads.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0013798</CUI>
+<TermValue>Electrocardiogram</TermValue>
+<Words>
+<Word>ekg</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The cardiomediastinal silhouette is within normal limits for appearance.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1271005</CUI>
+<TermValue>Normal appearance (finding)</TermValue>
+<Words>
+<Word>normal_appearance</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0332441</CUI>
+<TermValue>Normal tissue morphology</TermValue>
+<Words>
+<Word>normal_appearance</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Mild degenerative changes and osteopenia of the thoracic spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1849057</CUI>
+<TermValue>Mild osteopenia</TermValue>
+<Words>
+<Word>mild_osteopenia</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0011164</CUI>
+<TermValue>Abnormal degeneration</TermValue>
+<Words>
+<Word>degenerative_change</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No large pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The thoracic aorta is tortuous.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4068863</CUI>
+<TermValue>Tortuous</TermValue>
+<Words>
+<Word>tortuous</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal areas of pulmonary consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR777>

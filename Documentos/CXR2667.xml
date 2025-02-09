@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2667>
+<Texto>Heart size normal. No focal airspace disease. No pneumothorax or effusions. No bony abnormalities.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/261/2667/CXR2667_IM-1146-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/261/2667/CXR2667_IM-1146-1002.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Heart size normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax or effusions.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No focal airspace disease.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No bony abnormalities.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR2667>

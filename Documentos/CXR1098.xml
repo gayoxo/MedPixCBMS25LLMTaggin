@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1098>
+<Texto>The lungs are hyperinflated with coarse interstitial markings compatible with obstructive pulmonary disease and emphysema. There is chronic pleural-parenchymal scarring within the lung bases. No lobar consolidation is seen. No pleural effusion or pneumothorax. Heart size is normal.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/296/1098/CXR1098_IM-0067-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The lungs are hyperinflated with coarse interstitial markings compatible with obstructive pulmonary disease and emphysema.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1167782</CUI>
+<TermValue>Lung hyperinflation</TermValue>
+<Words>
+<Word>lung_hyperinflation</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0600260</CUI>
+<TermValue>Lung Diseases, Obstructive</TermValue>
+<Words>
+<Word>obstructive_pulmonary_disease</Word>
+</Words>
+<Positions>
+<Position>13</Position>
+<Position>11</Position>
+<Position>12</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C1370824</CUI>
+<TermValue>Interstitial emphysema</TermValue>
+<Words>
+<Word>pulmonary_interstitial_emphysema</Word>
+<Word>interstitial_emphysema</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+<Position>15</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Anatomical Abnormality</SemType>
+<CUI>C0020449</CUI>
+<TermValue>Hyperdistention</TermValue>
+<Words>
+<Word>hyperinflation</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No lobar consolidation is seen.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size is normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is chronic pleural-parenchymal scarring within the lung bases.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0577703</CUI>
+<TermValue>Pleural scarring</TermValue>
+<Words>
+<Word>pleural_scarring</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR1098>

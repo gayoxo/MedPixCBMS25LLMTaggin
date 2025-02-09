@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR488>
+<Texto>Broken of the 4XXXX XXXX XXXX, similar to the prior study. Stable multiple surgical clips in the left hilar area. Stable cardiomediastinal silhouette. Pulmonary vasculatures are within normal limits. No XXXX focal consolidation, pleural effusion or pneumothorax. Unremarkable bony structure.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/87/488/CXR488_IM-2110-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Pulmonary vasculatures are within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No XXXX focal consolidation, pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR488>

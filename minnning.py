@@ -62,7 +62,7 @@ Return **only** a valid JSON array, merging the findings with the existing list 
         content_text = error +". "+content_text
     #print(content_text)
 
-    response = client.chat(model='llama3.2', messages=historial_mensajes+
+    response = client.chat(model='deepseek-r1', messages=historial_mensajes+
     [
         {
             'role': 'user',

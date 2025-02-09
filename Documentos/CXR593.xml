@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR593>
+<Texto>No acute cardiopulmonary abnormality. Extensive degenerative changes of the thoracic spine. Mildly enlarged heart. Tortuous aorta. Aortic calcifications. No focal area of consolidation, pleural effusion or pneumothorax.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/192/593/CXR593_IM-2186-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/192/593/CXR593_IM-2186-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Aortic calcifications.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1096249</CUI>
+<TermValue>Calcification of the aorta</TermValue>
+<Words>
+<Word>aortic_calcifications</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No acute cardiopulmonary abnormality.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Mildly enlarged heart.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>enlarged_heart</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Extensive degenerative changes of the thoracic spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degeneration_of_spine</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Tortuous aorta.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0741171</CUI>
+<TermValue>tortuous aorta</TermValue>
+<Words>
+<Word>tortuous_aorta</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal area of consolidation, pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR593>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2960>
+<Texto>Normal cardiac contours. Clear lung XXXX bilaterally. No pneumothorax or pleural effusion.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/153/2960/CXR2960_IM-1354-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/153/2960/CXR2960_IM-1354-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Clear lung XXXX bilaterally.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Normal cardiac contours.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C2349205</CUI>
+<TermValue>Normal heart</TermValue>
+<Words>
+<Word>normal_cardiac</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR2960>

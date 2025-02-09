@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3455>
+<Texto>Central vascular prominence and diffuse bilateral interstitial and alveolar opacities. Left basilar airspace opacities. No pneumothorax. Heart size XXXX large. XXXX unremarkable. No large pleural effusion.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/247/3455/CXR3455_IM-1677-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/247/3455/CXR3455_IM-1677-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Left basilar airspace opacities.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size XXXX large.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0744689</CUI>
+<TermValue>heart size</TermValue>
+<Words>
+<Word>heart_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No large pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Central vascular prominence and diffuse bilateral interstitial and alveolar opacities.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1558950</CUI>
+<TermValue>Adverse Event Associated with Vascular</TermValue>
+<Words>
+<Word>vascular</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3455>

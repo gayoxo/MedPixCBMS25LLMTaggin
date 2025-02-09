@@ -22,7 +22,6 @@ def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}):
         ### Output format:
         - Each object in the JSON array must include:
           - `"finding"`: the **clinically significant finding or disease** identified in the text.
-          - `"absent"` : if the term is identified as absent
 
         ### Important:
         - Ensure all values are **clinically relevant**.
@@ -39,7 +38,7 @@ def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}):
 
     #print(content_text)
 
-    response = client.chat(model='llama3.2', messages=[
+    response = client.chat(model='deepseek-r1', messages=[
         {
             'role': 'user',
             'content': content_text,

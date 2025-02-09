@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1846>
+<Texto>2 images. Calcified granuloma left upper lobe. Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No focal consolidation, pleural effusion, or pneumothorax identified. No convincing acute bony findings.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/242/1846/CXR1846_IM-0549-3001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/242/1846/CXR1846_IM-0549-4001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Heart size and pulmonary vascular engorgement appear within limits of normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4522268</CUI>
+<TermValue>Pulmonary (intended site)</TermValue>
+<Words>
+<Word>pulmonary</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>11</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0020452</CUI>
+<TermValue>Hyperemia</TermValue>
+<Words>
+<Word>engorgement</Word>
+<Word>vascular_engorgement</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Calcified granuloma left upper lobe.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0333404</CUI>
+<TermValue>Calcified granuloma</TermValue>
+<Words>
+<Word>calcified_granuloma</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal consolidation, pleural effusion, or pneumothorax identified.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>2 images.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C3833492</CUI>
+<TermValue>2+</TermValue>
+<Words>
+<Word>2</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No convincing acute bony findings.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR1846>

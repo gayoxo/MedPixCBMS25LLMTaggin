@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2310>
+<Texto>No focal consolidation. No visualized pneumothorax. The heart size is normal. There are no large pleural effusions.</Texto>
+<Utterances>
+<Utterance>
+<PhraseText>No focal consolidation.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No visualized pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The heart size is normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There are no large pleural effusions.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR2310>

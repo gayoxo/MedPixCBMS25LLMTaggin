@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2151>
+<Texto>Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace. No focal alveolar consolidation, no definite pleural effusion seen. Heart size within normal limits, the typical findings of pulmonary edema. Mild spine dextrocurvature noted.</Texto>
+<Imagenes>
+<Imagen>peop</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/146/2151/CXR2151_IM-0771-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0743169</CUI>
+<TermValue>diaphragm flattened</TermValue>
+<Words>
+<Word>flattened_diaphragm</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4315216</CUI>
+<TermValue>Hyperinflated lungs</TermValue>
+<Words>
+<Word>hyperinflated_lungs</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal alveolar consolidation, no definite pleural effusion seen.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size within normal limits, the typical findings of pulmonary edema.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0034063</CUI>
+<TermValue>Pulmonary Edema</TermValue>
+<Words>
+<Word>pulmonary_oedema</Word>
+</Words>
+<Positions>
+<Position>10</Position>
+<Position>11</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR2151>

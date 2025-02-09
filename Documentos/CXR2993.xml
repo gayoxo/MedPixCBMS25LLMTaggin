@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2993>
+<Texto>The lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues grossly unremarkable.</Texto>
+<Utterances>
+<Utterance>
+<PhraseText>Normal heart size.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>normal_heart_size</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Bony thorax and soft tissues grossly unremarkable.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C3542022</CUI>
+<TermValue>SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME</TermValue>
+<Words>
+<Word>soft</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are clear without focal consolidation, effusion, or pneumothorax.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0521530</CUI>
+<TermValue>Lung consolidation</TermValue>
+<Words>
+<Word>lung_consolidation</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR2993>

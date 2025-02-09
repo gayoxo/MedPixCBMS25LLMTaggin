@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1678>
+<Texto>The heart is normal in size. The mediastinum is stable. Right chest XXXX tip is again seen at the cavoatrial junction. There is no pneumothorax. There is again elevation of right hemidiaphragm with right-sided pleural effusion. Vague opacities are noted in the right upper lobe, XXXX from prior study. These may be related to overlying rib lesions versus true pulmonary nodules. The left lung appears grossly clear. Drainage catheter seen overlying the right upper quadrant.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/74/1678/CXR1678_IM-0447-0001-0001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/74/1678/CXR1678_IM-0447-0001-0002.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The heart is normal in size.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_normal_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>These may be related to overlying rib lesions versus true pulmonary nodules.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1562042</CUI>
+<TermValue>Somatic dysfunction of rib</TermValue>
+<Words>
+<Word>rib_lesion</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0748164</CUI>
+<TermValue>Multiple Pulmonary Nodules</TermValue>
+<Words>
+<Word>pulmonary_nodules</Word>
+</Words>
+<Positions>
+<Position>11</Position>
+<Position>12</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0445223</CUI>
+<TermValue>Related personal status</TermValue>
+<Words>
+<Word>related</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The left lung appears grossly clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Vague opacities are noted in the right upper lobe, XXXX from prior study.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is again elevation of right hemidiaphragm with right-sided pleural effusion.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C3554250</CUI>
+<TermValue>Elevated right hemidiaphragm</TermValue>
+<Words>
+<Word>elevated_right_hemidiaphragm</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0032227</CUI>
+<TermValue>Pleural effusion disorder</TermValue>
+<Words>
+<Word>pleural_effusion</Word>
+</Words>
+<Positions>
+<Position>11</Position>
+<Position>12</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1678>

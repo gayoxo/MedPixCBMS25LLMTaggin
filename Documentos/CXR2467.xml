@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2467>
+<Texto>Negative for cardiac enlargement. Negative for vascular congestion. There are several small circular opacities in the right upper lung, some of which are centrally lucent. Negative for bony abnormality.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/61/2467/CXR2467_IM-0997-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/61/2467/CXR2467_IM-0997-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Negative for vascular congestion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Negative for cardiac enlargement.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1513916</CUI>
+<TermValue>Negative Finding</TermValue>
+<Words>
+<Word>negative</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0205160</CUI>
+<TermValue>Negative</TermValue>
+<Words>
+<Word>negative</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There are several small circular opacities in the right upper lung, some of which are centrally lucent.</PhraseText>
+<Terms>
+<Term>
+<SemType>Congenital Abnormality</SemType>
+<CUI>C0265783</CUI>
+<TermValue>Congenital hypoplasia of lung</TermValue>
+<Words>
+<Word>small_lung</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+<Position>11</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Negative for bony abnormality.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1513916</CUI>
+<TermValue>Negative Finding</TermValue>
+<Words>
+<Word>negative</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0205160</CUI>
+<TermValue>Negative</TermValue>
+<Words>
+<Word>negative</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR2467>

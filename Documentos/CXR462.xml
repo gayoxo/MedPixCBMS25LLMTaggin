@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR462>
+<Texto>Mild cardiomegaly. Mild unfolding of the thoracic aorta. No focal air space opacity. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable in appearance.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/61/462/CXR462_IM-2090-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/61/462/CXR462_IM-2090-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Mild cardiomegaly.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>cardiomegaly</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal air space opacity.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR462>

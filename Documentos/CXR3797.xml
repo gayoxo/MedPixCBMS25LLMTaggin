@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3797>
+<Texto>XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. Lungs demonstrate left lower lobe air space opacity with XXXX atelectasis without significant change. There is no effusion or pneumothorax.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/188/3797/CXR3797_IM-1910-0001-0003.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/188/3797/CXR3797_IM-1910-0001-0002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/188/3797/CXR3797_IM-1910-0001-0001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Lungs demonstrate left lower lobe air space opacity with XXXX atelectasis without significant change.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There is no effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR3797>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR470>
+<Texto>The cardiac and mediastinal contours are within normal limits. The lungs are well-inflated and clear. There is no focal consolidation, pneumothorax, or effusion. The bony structures of the thorax are unremarkable.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/69/470/CXR470_IM-2099-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/69/470/CXR470_IM-2099-3001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The cardiac and mediastinal contours are within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>9</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are well-inflated and clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no focal consolidation, pneumothorax, or effusion.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR470>

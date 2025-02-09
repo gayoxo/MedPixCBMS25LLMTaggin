@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3470>
+<Texto>The patient is rotated. The heart is normal in size. The pulmonary vascularity is within normal limits in appearance. No pneumothorax or pleural effusion. No focal airspace opacities. Mild degenerative changes of the thoracic spine.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/262/3470/CXR3470_IM-1686-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/262/3470/CXR3470_IM-1686-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The pulmonary vascularity is within normal limits in appearance.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1271005</CUI>
+<TermValue>Normal appearance (finding)</TermValue>
+<Words>
+<Word>normal_appearance</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0332441</CUI>
+<TermValue>Normal tissue morphology</TermValue>
+<Words>
+<Word>normal_appearance</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The heart is normal in size.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_normal_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Mild degenerative changes of the thoracic spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degeneration_of_spine</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal airspace opacities.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR3470>

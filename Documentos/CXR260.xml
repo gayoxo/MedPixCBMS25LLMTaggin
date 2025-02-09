@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR260>
+<Texto>Lungs are clear bilaterally. Cardiac and mediastinal silhouettes are normal. Pulmonary vasculature is normal. No pneumothorax or pleural effusion. No acute bony abnormality. There is a stable the electronic device any left anterior chest wall. There are advanced degenerative changes in the XXXX bilaterally. There is a 38 mm lucency in the right humeral head with geographic 1A margins.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/260/260/CXR260_IM-1090-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/260/260/CXR260_IM-1090-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>No acute bony abnormality.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>There is a 38 mm lucency in the right humeral head with geographic 1A margins.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1269830</CUI>
+<TermValue>Tumor margin status</TermValue>
+<Words>
+<Word>margin</Word>
+</Words>
+<Positions>
+<Position>15</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There are advanced degenerative changes in the XXXX bilaterally.</PhraseText>
+<Terms>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0011164</CUI>
+<TermValue>Abnormal degeneration</TermValue>
+<Words>
+<Word>degenerative_change</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Cardiac and mediastinal silhouettes are normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Pulmonary vasculature is normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Lungs are clear bilaterally.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR260>

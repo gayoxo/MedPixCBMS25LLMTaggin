@@ -15,18 +15,20 @@ def desanonimizar_informe_medico(texto_anonimizado):
         "These replacements should reflect realistic medical scenarios but have no real-world or clinical value.\n\n"
         f"Original medical report: {texto_anonimizado}\n\n"
         "Please provide the modified report with replacements for 'XXX':"
-        "Return only the modified report without any explanations or additional text.\n\n"
+        "Return only the modified report without any explanations or additional text."
+        "Do not change the statements, only replace XXX if apear with the replacement\n\n"
     )
 
     # Enviar la solicitud al modelo
-    response = client.chat(model='llama3.2', messages=[
+    response = client.chat(model='deepseek-r1', messages=[
         {
             'role': 'user',
             'content': content_text,
         },
     ])
 
-    # print(response)
+    print(texto_anonimizado)
+    print(response)
 
     if response:
         return response['message']['content']

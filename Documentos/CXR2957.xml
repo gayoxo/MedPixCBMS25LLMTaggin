@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2957>
+<Texto>The heart is mildly enlarged. Pulmonary vascularity is increased. There is again mild elevation of the right hemidiaphragm. Air space disease and/or atelectasis is noted in right lung base. There is also XXXX streaky opacity in the left base. The costophrenic XXXX are blunted.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/150/2957/CXR2957_IM-1354-1002.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/150/2957/CXR2957_IM-1354-1003.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>There is also XXXX streaky opacity in the left base.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacity</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacity</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The heart is mildly enlarged.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0018800</CUI>
+<TermValue>Cardiomegaly</TermValue>
+<Words>
+<Word>heart_enlargement</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1383860</CUI>
+<TermValue>Cardiac Hypertrophy</TermValue>
+<Words>
+<Word>heart_enlargements</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>5</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is again mild elevation of the right hemidiaphragm.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C3554250</CUI>
+<TermValue>Elevated right hemidiaphragm</TermValue>
+<Words>
+<Word>elevated_right_hemidiaphragm</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+<Position>9</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Air space disease and/or atelectasis is noted in right lung base.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1962948</CUI>
+<TermValue>Atelectasis Adverse Event</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0004144</CUI>
+<TermValue>Atelectasis</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR2957>

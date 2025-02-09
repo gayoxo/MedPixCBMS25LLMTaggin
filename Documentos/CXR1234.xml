@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1234>
+<Texto>2 images. The cardiac silhouette is enlarged. Thoracic aortic atherosclerotic calcifications are present. There are finding status post sternotomy and CABG. XXXX atelectasis or scar is noted within the left midlung. There is blunting of the left costophrenic XXXX. No pneumothorax.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/31/1234/CXR1234_IM-0157-4004.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/31/1234/CXR1234_IM-0157-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>2 images.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C3833492</CUI>
+<TermValue>2+</TermValue>
+<Words>
+<Word>2</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>XXXX atelectasis or scar is noted within the left midlung.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1962948</CUI>
+<TermValue>Atelectasis Adverse Event</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0241158</CUI>
+<TermValue>Scar Tissue</TermValue>
+<Words>
+<Word>scar</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0004144</CUI>
+<TermValue>Atelectasis</TermValue>
+<Words>
+<Word>atelectasis</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C2004491</CUI>
+<TermValue>Cicatrix</TermValue>
+<Words>
+<Word>scar</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There are finding status post sternotomy and CABG.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0243095</CUI>
+<TermValue>Finding</TermValue>
+<Words>
+<Word>finding</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C2825141</CUI>
+<TermValue>Experimental Finding</TermValue>
+<Words>
+<Word>finding</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Sign or Symptom</SemType>
+<CUI>C0037088</CUI>
+<TermValue>Signs and Symptoms</TermValue>
+<Words>
+<Word>finding</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Thoracic aortic atherosclerotic calcifications are present.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0150312</CUI>
+<TermValue>Present</TermValue>
+<Words>
+<Word>present</Word>
+</Words>
+<Positions>
+<Position>6</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1969292</CUI>
+<TermValue>Thoracic aorta calcification</TermValue>
+<Words>
+<Word>thoracic_aorta_calcification</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1234>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2103>
+<Texto>Heart size and pulmonary vascularity appear within normal limits. Lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/98/2103/CXR2103_IM-0734-0001-0001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/98/2103/CXR2103_IM-0734-0001-0002.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Lungs are free of focal airspace disease.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0024115</CUI>
+<TermValue>Lung diseases</TermValue>
+<Words>
+<Word>lung_disease</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size and pulmonary vascularity appear within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4068833</CUI>
+<TermValue>Vascularity</TermValue>
+<Words>
+<Word>vascularity</Word>
+</Words>
+<Positions>
+<Position>5</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C4522268</CUI>
+<TermValue>Pulmonary (intended site)</TermValue>
+<Words>
+<Word>pulmonary</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pleural effusion or pneumothorax is seen.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR2103>

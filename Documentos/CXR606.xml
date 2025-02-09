@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR606>
+<Texto>XXXX sternotomy XXXX are in XXXX and intact. Normal cardiomediastinal silhouette. The bilateral costophrenic XXXX are excluded from the image on the PA view. Lungs are clear without focal areas of consolidation, pleural effusion, or pneumothorax. XXXX XXXX are intact without acute osseous abnormality. Mild degenerative changes throughout the thoracic spine.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/205/606/CXR606_IM-2195-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/205/606/CXR606_IM-2195-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Mild degenerative changes throughout the thoracic spine.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0850918</CUI>
+<TermValue>Degeneration of spine</TermValue>
+<Words>
+<Word>degenerative_spine</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>XXXX XXXX are intact without acute osseous abnormality.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Normal cardiomediastinal silhouette.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Lungs are clear without focal areas of consolidation, pleural effusion, or pneumothorax.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0521530</CUI>
+<TermValue>Lung consolidation</TermValue>
+<Words>
+<Word>lung_consolidation</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>XXXX sternotomy XXXX are in XXXX and intact.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1554187</CUI>
+<TermValue>Gender Status - Intact</TermValue>
+<Words>
+<Word>intact</Word>
+</Words>
+<Positions>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR606>

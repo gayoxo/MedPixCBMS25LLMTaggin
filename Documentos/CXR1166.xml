@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1166>
+<Texto>Low lung volumes. Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Streaky bibasilar airspace opacities. No pneumothorax or pleural effusion. No acute osseous findings.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/364/1166/CXR1166_IM-0111-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/364/1166/CXR1166_IM-0111-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Streaky bibasilar airspace opacities.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0029053</CUI>
+<TermValue>Decreased translucency</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C1265876</CUI>
+<TermValue>Abnormally opaque structure (morphologic abnormality)</TermValue>
+<Words>
+<Word>opacities</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Cardiomediastinal silhouette and pulmonary vasculature are within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>9</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No pneumothorax or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR1166>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3316>
+<Texto>Heart size is normal. No focal airspace disease. Emphysema. Bibasilar pleural scarring. No pneumothorax or effusion.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/108/3316/CXR3316_IM-1586-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>No pneumothorax or effusion.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Bibasilar pleural scarring.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0577703</CUI>
+<TermValue>Pleural scarring</TermValue>
+<Words>
+<Word>pleural_scarring</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>2</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No focal airspace disease.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size is normal.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Emphysema.</PhraseText>
+<Terms>
+<Term>
+<SemType>Disease or Syndrome</SemType>
+<CUI>C0034067</CUI>
+<TermValue>Pulmonary Emphysema</TermValue>
+<Words>
+<Word>emphysema</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0013990</CUI>
+<TermValue>Pathological accumulation of air in tissues</TermValue>
+<Words>
+<Word>emphysema</Word>
+</Words>
+<Positions>
+<Position>1</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3316>

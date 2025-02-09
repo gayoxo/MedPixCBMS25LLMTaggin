@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR1118>
+<Texto>The lungs and pleural spaces show no acute abnormality. Heart size and pulmonary vascularity within normal limits.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/316/1118/CXR1118_IM-0079-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/316/1118/CXR1118_IM-0079-1001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The lungs and pleural spaces show no acute abnormality.</PhraseText>
+<Terms>
+<Term>
+<SemType>Congenital Abnormality</SemType>
+<CUI>C0158644</CUI>
+<TermValue>Congenital anomaly of lung</TermValue>
+<Words>
+<Word>pulmonary_abnormality</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Congenital Abnormality</SemType>
+<CUI>C0235915</CUI>
+<TermValue>pulmonary malformation</TermValue>
+<Words>
+<Word>pulmonary_abnormality</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size and pulmonary vascularity within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR1118>

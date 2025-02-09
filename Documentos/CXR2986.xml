@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2986>
+<Texto>The heart is normal in size and contour. There is no mediastinal widening. The lungs are clear bilaterally. No large pleural effusion or pneumothorax. Mild dextro curvature of the thoracic spine, possibly positional.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/179/2986/CXR2986_IM-1374-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/179/2986/CXR2986_IM-1374-2001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/179/2986/CXR2986_IM-1374-3001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>The lungs are clear bilaterally.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>There is no mediastinal widening.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Mild dextro curvature of the thoracic spine, possibly positional.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0240795</CUI>
+<TermValue>positional</TermValue>
+<Words>
+<Word>positional</Word>
+</Words>
+<Positions>
+<Position>9</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0037932</CUI>
+<TermValue>Curvature of spine</TermValue>
+<Words>
+<Word>curvature_of_spine</Word>
+</Words>
+<Positions>
+<Position>3</Position>
+<Position>7</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>No large pleural effusion or pneumothorax.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>The heart is normal in size and contour.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_normal_size</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>6</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR2986>

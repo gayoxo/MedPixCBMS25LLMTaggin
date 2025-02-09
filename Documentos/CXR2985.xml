@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR2985>
+<Texto>The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax demonstrate stable, mild multilevel thoracolumbar degenerative disc disease without acute abnormality. Upper abdominal midline surgical sutures are likewise stable.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/178/2985/CXR2985_IM-1373-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/178/2985/CXR2985_IM-1373-1002.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>Visualized osseous structures of the thorax demonstrate stable, mild multilevel thoracolumbar degenerative disc disease without acute abnormality.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C2675896</CUI>
+<TermValue>Mild dysmorphism</TermValue>
+<Words>
+<Word>mild_abnormality</Word>
+</Words>
+<Positions>
+<Position>17</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are clear bilaterally.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.</PhraseText>
+<Terms/>
+</Utterance>
+</Utterances>
+</CXR2985>

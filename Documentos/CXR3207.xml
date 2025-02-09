@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR3207>
+<Texto>There's been interval enlargement in the cardiac silhouette. These XXXX't contours are within normal limits. The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/400/3207/CXR3207_IM-1514-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/400/3207/CXR3207_IM-1514-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>There's been interval enlargement in the cardiac silhouette.</PhraseText>
+<Terms>
+<Term>
+<SemType>Anatomical Abnormality</SemType>
+<CUI>C2711450</CUI>
+<TermValue>Enlargement (morphologic abnormality)</TermValue>
+<Words>
+<Word>enlargement</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Pathologic Function</SemType>
+<CUI>C0020564</CUI>
+<TermValue>Hypertrophy</TermValue>
+<Words>
+<Word>enlargement</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>Osseous structures are within normal limits for patient age.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C3842316</CUI>
+<TermValue>Normal for age</TermValue>
+<Words>
+<Word>normal_for_age</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+<Position>5</Position>
+<Position>9</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>These XXXX't contours are within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0442816</CUI>
+<TermValue>Normal limits</TermValue>
+<Words>
+<Word>normal_limits</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+<Position>8</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+<Utterance>
+<PhraseText>The lungs are normally inflated and clear.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0231683</CUI>
+<TermValue>Gait normal</TermValue>
+<Words>
+<Word>normal</Word>
+</Words>
+<Positions>
+<Position>4</Position>
+</Positions>
+</Term>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C1709157</CUI>
+<TermValue>Negative Surgical Margin</TermValue>
+<Words>
+<Word>clear</Word>
+</Words>
+<Positions>
+<Position>7</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR3207>

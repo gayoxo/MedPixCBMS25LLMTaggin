@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CXR990>
+<Texto>Heart size within normal limits. No focal airspace consolidations. No pneumothorax or effusions.</Texto>
+<Imagenes>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/188/990/CXR990_IM-2476-1001.png</Imagen>
+<Imagen>https://openi.nlm.nih.gov/imgs/512/188/990/CXR990_IM-2476-2001.png</Imagen>
+</Imagenes>
+<Utterances>
+<Utterance>
+<PhraseText>No pneumothorax or effusions.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>No focal airspace consolidations.</PhraseText>
+<Terms/>
+</Utterance>
+<Utterance>
+<PhraseText>Heart size within normal limits.</PhraseText>
+<Terms>
+<Term>
+<SemType>Finding</SemType>
+<CUI>C0516868</CUI>
+<TermValue>heart size normal</TermValue>
+<Words>
+<Word>heart_size_normal</Word>
+</Words>
+<Positions>
+<Position>2</Position>
+<Position>1</Position>
+<Position>4</Position>
+</Positions>
+</Term>
+</Terms>
+</Utterance>
+</Utterances>
+</CXR990>
