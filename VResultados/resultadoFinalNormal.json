@@ -1,0 +1,320 @@
+[
+    {
+        "finding": "hyperinflated lungs"
+    },
+    {
+        "finding": "lumbar degenerative disc disease"
+    },
+    {
+        "finding": "thoracic aorta tortuosity"
+    },
+    {
+        "finding": "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+    },
+    {
+        "finding": "spine dextrocurvature"
+    },
+    {
+        "finding": "bronchiectasis"
+    },
+    {
+        "finding": "fibrotic scarring"
+    },
+    {
+        "finding": "infiltrate in the right middle lobe"
+    },
+    {
+        "finding": "vagal nerve stimulator"
+    },
+    {
+        "finding": "opacity within the right lung base"
+    },
+    {
+        "finding": "atelectasis"
+    },
+    {
+        "finding": "pleural effusion"
+    },
+    {
+        "finding": "pneumothoraces"
+    },
+    {
+        "finding": "hyperexpanded lungs"
+    },
+    {
+        "finding": "increased retrosternal airspace"
+    },
+    {
+        "finding": "mild degenerative changes of the thoracic spine"
+    },
+    {
+        "finding": "large hiatal hernia"
+    },
+    {
+        "finding": "calcified granulomas"
+    },
+    {
+        "finding": "calcified hilar XXXX"
+    },
+    {
+        "finding": "aortic calcifications"
+    },
+    {
+        "finding": "degenerative changes thoracic spine"
+    },
+    {
+        "finding": "right-sided pleural effusion"
+    },
+    {
+        "finding": "vague opacities in the right upper lobe"
+    },
+    {
+        "finding": "right chest wall pacemaker"
+    },
+    {
+        "finding": "stable cardiomegaly"
+    },
+    {
+        "finding": "calcified thoracic aorta"
+    },
+    {
+        "finding": "mild interstitial opacities"
+    },
+    {
+        "finding": "dense retrocardiac opacities"
+    },
+    {
+        "finding": "moderate cardiomegaly"
+    },
+    {
+        "finding": "bilateral interstitial opacities increased since last exam"
+    },
+    {
+        "finding": "no focal airspace consolidation, pleural effusions or pneumothorax"
+    },
+    {
+        "finding": "clear lungs"
+    },
+    {
+        "finding": "normal heart and pulmonary XXXX"
+    },
+    {
+        "finding": "clear pleural spaces"
+    },
+    {
+        "finding": "normal mediastinal contours"
+    },
+    {
+        "finding": "cardiomediastinal silhouette is normal"
+    },
+    {
+        "finding": "no focal consolidation"
+    },
+    {
+        "finding": "pneumothorax"
+    },
+    {
+        "finding": "thoracic spondylosis"
+    },
+    {
+        "finding": " bibasilar and perihilar interstitial opacities"
+    },
+    {
+        "finding": "vascular calcification"
+    },
+    {
+        "finding": "right lower lobe pulmonary nodule"
+    },
+    {
+        "finding": "air space disease and/or atelectasis is noted in right lung base"
+    },
+    {
+        "finding": "flattened diaphragm"
+    },
+    {
+        "finding": "mild multilevel thoracolumbar degenerative disc disease"
+    },
+    {
+        "finding": "calcified granuloma within the left upper lobe"
+    },
+    {
+        "finding": "acute mild anterior vertebral body of L1-L2 deformities"
+    },
+    {
+        "finding": "heart enlargement"
+    },
+    {
+        "finding": "low lung volumes"
+    },
+    {
+        "finding": "no focal consolidation, pneumothorax, or large pleural effusion"
+    },
+    {
+        "finding": "bony structures within normal limits"
+    },
+    {
+        "finding": "closed diaphragm due to absence of free air"
+    },
+    {
+        "finding": "mild findings in the transverse colon"
+    },
+    {
+        "finding": "degenerative changes in the spine"
+    },
+    {
+        "finding": "hiatal hernia"
+    },
+    {
+        "finding": "t-spine osteophytes and dishe"
+    },
+    {
+        "finding": "unfolding aorta"
+    },
+    {
+        "finding": "emphysema"
+    },
+    {
+        "finding": "bibasilar pleural scarring"
+    },
+    {
+        "finding": "atherosclerotic calcifications of the aorta"
+    },
+    {
+        "finding": "atherosclerosis of the aortic"
+    },
+    {
+        "finding": "degenerative changes of the midthoracic spine"
+    },
+    {
+        "finding": "Bronchovascular crowdedness"
+    },
+    {
+        "finding": "Patchy left lower lobe airspace disease"
+    },
+    {
+        "finding": "Right mid lung opacities"
+    },
+    {
+        "finding": "Subsegmental atelectasis in the right lung"
+    },
+    {
+        "finding": "Aortic atherosclerotic vascular calcification"
+    },
+    {
+        "finding": "Heart size large"
+    },
+    {
+        "finding": "small calcified lymph mass"
+    },
+    {
+        "finding": "left perihilar upper lobe nodule"
+    },
+    {
+        "finding": "questionable infiltrate extension"
+    },
+    {
+        "finding": "calcifications over the anterior mediastinum"
+    },
+    {
+        "finding": "calcified lymph node at"
+    },
+    {
+        "finding": "calcified left hilar lymph node"
+    },
+    {
+        "finding": "diffuse right lower lobe airspace opacity"
+    },
+    {
+        "finding": "no focal areas of pulmonary consolidation"
+    },
+    {
+        "finding": "no pneumothorax"
+    },
+    {
+        "finding": "no pleural effusion"
+    },
+    {
+        "finding": "moderate degenerative changes of the thoracic spine"
+    },
+    {
+        "finding": "multilevel degenerative changes in the spine"
+    },
+    {
+        "finding": "biapical scarring"
+    },
+    {
+        "finding": "mild hyperinflated lungs"
+    },
+    {
+        "finding": "subsegmental atelectasis"
+    },
+    {
+        "finding": "cardiomegaly"
+    },
+    {
+        "finding": "ascending aortic aneurysm"
+    },
+    {
+        "finding": "mild cardiomegaly"
+    },
+    {
+        "finding": "mild unfolding of the thoracic aorta"
+    },
+    {
+        "finding": "cardiac and mediastinal contours are within normal limits"
+    },
+    {
+        "finding": "lungs are well-inflated and clear"
+    },
+    {
+        "finding": "scarring in the left upper lung lobe"
+    },
+    {
+        "finding": "volume loss in the left lung, right lung is clear"
+    },
+    {
+        "finding": "mild scarring at the right apex"
+    },
+    {
+        "finding": "no XXXX focal airspace disease, pleural effusion, or pneumothorax"
+    },
+    {
+        "finding": "minimal right middle lobe atelectasis"
+    },
+    {
+        "finding": "no focal airspace consolidation"
+    },
+    {
+        "finding": "no pleural effusion or pneumothorax"
+    },
+    {
+        "finding": "ascendant aortic aneurysm"
+    },
+    {
+        "finding": "tapering distal pulmonary vasculature"
+    },
+    {
+        "finding": "mild dextroscoliosis of the spine"
+    },
+    {
+        "finding": "prior anterior cervical fusion"
+    },
+    {
+        "finding": "scattered calcified granulomas"
+    },
+    {
+        "finding": "stable degenerative changes in the spine"
+    },
+    {
+        "finding": "pneumonia"
+    },
+    {
+        "finding": "small left-sided effusion"
+    },
+    {
+        "finding": "degenerative changes of the spine"
+    },
+    {
+        "finding": "bibaular atelectasis/infiltrate"
+    }
+]
