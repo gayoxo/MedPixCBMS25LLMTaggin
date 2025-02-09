@@ -123,37 +123,39 @@ def intentoBase(textOri, historial_mensajes,resultadoJSONAnnon):
     return resultadoJSONAnnon2, resultadoAnon['message']['content']
 
 
-def procesaResultado(diccionario_textOri, jsonInitialFindings):
+def procesaResultado(diccionario_textOri, jsonInitialFindings,identificadores):
     ResultadoSalida = []
     ResultadoErrores = []
     historial_mensajes = []
     for clave, textOri in diccionario_textOri.items():
 
-        resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
-                                                              jsonInitialFindings)
-        if resultadoJSONAnnonUni is None:
+        if clave in identificadores:
 
             resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
                                                                   jsonInitialFindings)
-
             if resultadoJSONAnnonUni is None:
 
                 resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
                                                                       jsonInitialFindings)
-                if resultadoJSONAnnonUni is None:
-                    dictvalor = dict();
-                    dictvalor["text"] = textOri
-                    dictvalor["res"] = resultadoContent
-                    ResultadoErrores.append(dictvalor)
-                    print("not found", resultadoContent)
 
-        if resultadoJSONAnnonUni is not None:
-            dictvalor = dict();
-            dictvalor["clave"] = clave
-            dictvalor["texto"] = textOri
-            dictvalor["anotado"] = resultadoJSONAnnonUni
-            ResultadoSalida.append(dictvalor)
-            print("Case", clave, "Result", resultadoJSONAnnonUni)
+                if resultadoJSONAnnonUni is None:
+
+                    resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
+                                                                          jsonInitialFindings)
+                    if resultadoJSONAnnonUni is None:
+                        dictvalor = dict();
+                        dictvalor["text"] = textOri
+                        dictvalor["res"] = resultadoContent
+                        ResultadoErrores.append(dictvalor)
+                        print("not found", resultadoContent)
+
+            if resultadoJSONAnnonUni is not None:
+                dictvalor = dict();
+                dictvalor["clave"] = clave
+                dictvalor["texto"] = textOri
+                dictvalor["anotado"] = resultadoJSONAnnonUni
+                ResultadoSalida.append(dictvalor)
+                print("Case", clave, "Result", resultadoJSONAnnonUni)
 
     return ResultadoSalida, ResultadoErrores
 
@@ -189,6 +191,14 @@ diccionario_textDesa = {item["clave"]: item["textDesa"] for item in datos}
 #print("Lista de textDesa:", lista_textDesa)
 
 
+# Ruta del archivo
+file_path = "identificadores.txt"
+
+# Leer los identificadores desde el archivo y guardarlos en una lista
+with open(file_path, "r") as f:
+    identificadores = [line.strip() for line in f.readlines()]
+
+
 
 # Leer el archivo JSON etiquetas
 archivo_salidaNormal = "resultadoFinalNormal.json"
@@ -202,7 +212,7 @@ listaFindings = [objeto["finding"] for objeto in datos]
 print("Recorriendo ORI:ORI:")
 
 # Text ORIGINAL contra lista ORIGINAL
-ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textOri,listaFindings)
+ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textOri,listaFindings,identificadores)
 
 
 # Nombre del archivo donde se guardará el JSON
@@ -218,7 +228,7 @@ salvarSalida(ResultadoSalidaNormalNormal,ResultadoErrores,archivo_salida,archivo
 print("Recorriendo DES:ORI:")
 
 # Text DESAMBIGUADO contra lista ORIGINAL
-ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textDesa,listaFindings)
+ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textDesa,listaFindings,identificadores)
 
 
 # Nombre del archivo donde se guardará el JSON
@@ -241,7 +251,7 @@ listaFindings = [objeto["finding"] for objeto in datos]
 
 print("Recorriendo ORI:DES:")
 # Text ORIGINAL contra lista ORIGINAL
-ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textOri,listaFindings)
+ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textOri,listaFindings,identificadores)
 
 
 # Nombre del archivo donde se guardará el JSON
@@ -256,7 +266,7 @@ salvarSalida(ResultadoSalidaNormalNormal,ResultadoErrores,archivo_salida,archivo
 
 
 print("Recorriendo DES:DES:")
-ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textDesa,listaFindings)
+ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textDesa,listaFindings,identificadores)
 
 
 # Nombre del archivo donde se guardará el JSON
