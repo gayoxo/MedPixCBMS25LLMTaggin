@@ -1,0 +1,2049 @@
+[
+    {
+        "clave": "CXR2151",
+        "texto": "Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace. No focal alveolar consolidation, no definite pleural effusion seen. Heart size within normal limits, the typical findings of pulmonary edema. Mild spine dextrocurvature noted.",
+        "anotado": [
+            "pulmonary edema",
+            "hyperinflated lungs",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "soft tissue density projected over the right mid chest"
+        ]
+    },
+    {
+        "clave": "CXR1042",
+        "texto": "The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "minimal right middle lobe atelectasis",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "right-sided pleural effusion",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR1067",
+        "texto": "Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. No suspicious pulmonary nodules or masses. Bony thorax and soft tissues grossly unremarkable.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR1082",
+        "texto": "Stable cardiomegaly. Stable tortuosity of the aorta. No focal airspace opacities, pneumothorax or pleural effusion. Mild degenerative changes of the thoracic spine.",
+        "anotado": [
+            "cardiomegaly",
+            "aortic atherosclerotic vascular calcification",
+            "bilateral reticular opacities",
+            "bronchiectasis",
+            "spine dextrocurvature",
+            "lumbar degenerative disc disease"
+        ]
+    },
+    {
+        "clave": "CXR1089",
+        "texto": "The heart size and pulmonary vascularity appear within normal limits. The descending thoracic aorta is tortuous. Central venous catheter is again noted. The lungs are free of focal airspace disease. The left hemidiaphragm remains elevated. No pneumothorax or pleural effusion is seen.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral reticular opacities",
+            "bronchial obstruction",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1098",
+        "texto": "The lungs are hyperinflated with coarse interstitial markings compatible with obstructive pulmonary disease and emphysema. There is chronic pleural-parenchymal scarring within the lung bases. No lobar consolidation is seen. No pleural effusion or pneumothorax. Heart size is normal.",
+        "anotado": [
+            "obstructive pulmonary disease",
+            "chronic pleural-parenchymal scarring",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+        ]
+    },
+    {
+        "clave": "CXR1118",
+        "texto": "The lungs and pleural spaces show no acute abnormality. Heart size and pulmonary vascularity within normal limits.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "mild thoracic aortic dilatation",
+            "minimal right middle lobe atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1135",
+        "texto": "Heart XXXX, mediastinum, XXXX, bony structures and lung XXXX are unremarkable. Stable small calcified granuloma left base. No XXXX acute findings/opacities/infiltrates noted.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR1153",
+        "texto": "No pneumothorax, pleural effusion or airspace consolidation. Heart size and pulmonary vasculature appear within normal limits. XXXX XXXX are intact.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "cardiomegaly",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "minimal right middle lobe atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "small left-sided effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1166",
+        "texto": "Low lung volumes. Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Streaky bibasilar airspace opacities. No pneumothorax or pleural effusion. No acute osseous findings.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "cardiomegaly",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "patchy left lower lobe airspace disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1185",
+        "texto": "There is a vagal nerve stimulator with XXXX overlying the left chest. XXXX appears intact without fracture. There is a XXXX opacity within the right lung base, XXXX representing atelectasis. Lungs are otherwise clear. Heart size is normal. No pneumothorax.",
+        "anotado": [
+            "large breast mass",
+            "lumbar degenerative disc disease",
+            "small left-sided effusion",
+            "spine dextrocurvature",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+        ]
+    },
+    {
+        "clave": "CXR1218",
+        "texto": "Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. No acute bony or soft tissue abnormality.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "lumbar degenerative disc disease",
+            "minimal right middle lobe atelectasis",
+            "no pleural effusion",
+            "patchy left lower lobe airspace disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1234",
+        "texto": "2 images. The cardiac silhouette is enlarged. Thoracic aortic atherosclerotic calcifications are present. There are finding status post sternotomy and CABG. XXXX atelectasis or scar is noted within the left midlung. There is blunting of the left costophrenic XXXX. No pneumothorax.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR1235",
+        "texto": "Lung volumes are XXXX. XXXX opacities are present in the angulate. No focal infiltrates. Heart size normal.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "diffuse right lower lobe airspace opacity",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "large breast mass",
+            "mild thoracic aortic dilatation"
+        ]
+    },
+    {
+        "clave": "CXR1292",
+        "texto": "Borderline enlarged heart. Torturous/ectatic thoracic aorta. No focal pulmonary opacity, pleural effusion or pneumothorax. There are degenerative changes of the spine. There is fracture of distal right clavicle, better seen on the right shoulder radiographs dated XXXX. Small round lucency in the distal left clavicle, appears benign. Degenerative changes of both XXXX joints.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "fibrotic scarring",
+            "infiltrate in the lingula",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "cardiomegaly",
+            "lumbar degenerative disc disease",
+            "bronchiectasis",
+            "large breast mass",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1347",
+        "texto": "The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute displaced rib fracture.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral apical scarring",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "right-sided pleural effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR139",
+        "texto": "The cardiac silhouette is mildly enlarged. A lobulated opacity is identified superior to the heart, in the anterior mediastinum on the lateral view, possibly consistent with a tortuous/ectatic thoracic aorta versus an anterior mediastinal mass. The thoracic aorta is tortuous and calcified. No focal areas of pulmonary consolidation. The lungs are hyperexpanded with flattening of the bilateral hemidiaphragms. No pneumothorax or pleural effusion. Severe degenerative changes of the thoracic spine.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "cardiomegaly",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1429",
+        "texto": "Mediastinal contours are normal. Heart size is within normal limits. Lungs are clear. There is no pneumothorax or large pleural effusion.",
+        "anotado": [
+            "pulmonary nodule",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral reticular opacities",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "minimal right middle lobe atelectasis",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1465",
+        "texto": "The heart is normal in size. Stable appearance of coronary stent. XXXX sternotomy changes are present. No focal consolidation, pneumothorax or pleural effusion. Mild degenerative changes of the thoracic spine.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1543",
+        "texto": "The cardiomediastinal silhouette is within normal limits. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute osseus abnormality. Large hiatal hernia.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the right middle lobe",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "mild thoracic aortic dilatation",
+            "minimal right middle lobe atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1551",
+        "texto": "The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. The thoracic spine appears intact. No acute, displaced rib fractures.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "increased retrosternal airspace",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "right-sided pleural effusion",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR1634",
+        "texto": "Calcified granulomas. Calcified hilar XXXX. No focal areas of consolidation. Heart size within normal limits. No pleural effusions. No evidence of pneumothorax. Question large pulmonary arteries. Lung XXXX are hyperexpanded. Prominent substernal air space. Aortic calcifications. Degenerative changes thoracic spine.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "calcified granuloma left upper lobe",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "aortic calcifications",
+            "calcified hilar XXXX",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR1678",
+        "texto": "The heart is normal in size. The mediastinum is stable. Right chest XXXX tip is again seen at the cavoatrial junction. There is no pneumothorax. There is again elevation of right hemidiaphragm with right-sided pleural effusion. Vague opacities are noted in the right upper lobe, XXXX from prior study. These may be related to overlying rib lesions versus true pulmonary nodules. The left lung appears grossly clear. Drainage catheter seen overlying the right upper quadrant.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "right-sided pleural effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1786",
+        "texto": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion. Cardio mediastinal silhouette is unremarkable. Stable XXXX foreign body over the left breast (XXXX nipple piercing). Visualized osseous structures of the thorax are without acute abnormality.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "large breast mass",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest"
+        ]
+    },
+    {
+        "clave": "CXR1788",
+        "texto": "The trachea is midline. Negative for pneumothorax, pleural effusion, or focal airspace consolidation. The heart size is normal.",
+        "anotado": [
+            "pulmonary nodule",
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "infiltrate in the lingula",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "right-sided pleural effusion"
+        ]
+    },
+    {
+        "clave": "CXR1846",
+        "texto": "2 images. Calcified granuloma left upper lobe. Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No focal consolidation, pleural effusion, or pneumothorax identified. No convincing acute bony findings.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "calcified granuloma left upper lobe",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "interstitial opacities",
+            "mild thoracic aortic dilatation",
+            "minimal right middle lobe atelectasis",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR1941",
+        "texto": "Stable right chest wall pacemaker with leads overlie the right atrium and right ventricle. Stable cardiomegaly. Calcified thoracic aorta is unchanged. Stable mild interstitial opacities. Unchanged dense retrocardiac opacities. No pneumothorax or large effusion.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+        ]
+    },
+    {
+        "clave": "CXR1965",
+        "texto": "There is moderate cardiomegaly. There are bilateral interstitial opacities, increased since the previous exam. No focal airspace consolidation, pleural effusions or pneumothorax. No acute bony abnormalities.",
+        "anotado": [
+            "cardiomegaly",
+            "aortic atherosclerotic vascular calcification",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR2007",
+        "texto": "The lungs are clear. The heart and pulmonary XXXX are normal. The pleural spaces are clear. The mediastinal contours are normal. There are mild degenerative changes of the thoracic spine.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "posttraumatic deformities of the left posterior ribs",
+            "right-sided pleural effusion",
+            "small left-sided effusion",
+            "ARDS",
+            "pulmonary edema"
+        ]
+    },
+    {
+        "clave": "CXR2075",
+        "texto": "The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Normal XXXX.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "low lung volumes with bronchovascular crowding",
+            "minimal right middle lobe atelectasis",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "right-sided pleural effusion",
+            "small left-sided effusion",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR2091",
+        "texto": "The cardiac contours are normal. The lungs are clear. Thoracic spondylosis. XXXX XXXX of the spine.",
+        "anotado": [
+            "cardiomegaly",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "infiltrate in the lingula",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR210",
+        "texto": "There are numerous surgical clips at the thoracic inlet. Small areas of XXXX scarring are seen in the left base. The lungs are otherwise clear. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR2103",
+        "texto": "Heart size and pulmonary vascularity appear within normal limits. Lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "interstitial opacities",
+            "large breast mass",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "minimal right middle lobe atelectasis",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "right-sided pleural effusion",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR2183",
+        "texto": "Moderate cardiomegaly. Bibasilar and perihilar interstitial opacities. No pneumothorax. No pleural effusions.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR2310",
+        "texto": "No focal consolidation. No visualized pneumothorax. The heart size is normal. There are no large pleural effusions.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "bronchial obstruction"
+        ]
+    },
+    {
+        "clave": "CXR2443",
+        "texto": "Heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. Vascular calcification is noted.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "large breast mass",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR2467",
+        "texto": "Negative for cardiac enlargement. Negative for vascular congestion. There are several small circular opacities in the right upper lung, some of which are centrally lucent. Negative for bony abnormality.",
+        "anotado": [
+            "bronchial obstruction",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "infiltrate in the lingula",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+        ]
+    },
+    {
+        "clave": "CXR2471",
+        "texto": "The trachea is midline. The cardiomediastinal silhouette is normal and unchanged compared to prior examination. Lungs are clear, without evidence of acute infiltrate or effusion. There is no pneumothorax. The visualized bony structures reveal no acute abnormalities.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "flattened diaphragm",
+            "lumbar degenerative disc disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR260",
+        "texto": "Lungs are clear bilaterally. Cardiac and mediastinal silhouettes are normal. Pulmonary vasculature is normal. No pneumothorax or pleural effusion. No acute bony abnormality. There is a stable the electronic device any left anterior chest wall. There are advanced degenerative changes in the XXXX bilaterally. There is a 38 mm lucency in the right humeral head with geographic 1A margins.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "aortic atherosclerotic vascular calcification",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "diffuse right lower lobe airspace opacity",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "posttraumatic deformities of the left posterior ribs",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion"
+        ]
+    },
+    {
+        "clave": "CXR2622",
+        "texto": "Normal heart size and mediastinal contours. No focal airspace consolidation. Tracheostomy tip approximately 5 cm above the carina. No pleural effusion or pneumothorax.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "infiltrate in the lingula",
+            "infiltrate in the left middle lobe",
+            "infiltrate in the right middle lobe",
+            "interstitial opacities",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion"
+        ]
+    },
+    {
+        "clave": "CXR2661",
+        "texto": "Mild cardiomegaly. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "bilateral apical scarring",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "right-sided pleural effusion",
+            "soft tissue density projected over the right mid chest"
+        ]
+    },
+    {
+        "clave": "CXR2667",
+        "texto": "Heart size normal. No focal airspace disease. No pneumothorax or effusions. No bony abnormalities.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "large breast mass",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis"
+        ]
+    },
+    {
+        "clave": "CXR2715",
+        "texto": "Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. There is a 9 mm right lower lobe pulmonary nodule, not seen on prior exams. There are posttraumatic deformities of the right posterior ribs. No focal airspace consolidation or effusion. No pneumothorax.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "small left-sided effusion"
+        ]
+    },
+    {
+        "clave": "CXR2806",
+        "texto": "Heart size is normal lungs are clear. No edema or effusions.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "right-sided pleural effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR2847",
+        "texto": "The heart size is within normal limits. The thoracic aorta is tortuous, stable from the prior radiograph. Aortic stent graft overlies the descending thoracic aorta and upper abdominal aorta, grossly stable from the prior chest radiograph. There are scattered calcified granulomas. There is no focal airspace consolidation. No pleural effusion or pneumothorax. The left hemidiaphragm remains mildly elevated. There are mild degenerative changes of the spine.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR2923",
+        "texto": "Clear lungs. Heart and pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "right-sided pleural effusion",
+            "small left-sided effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR2934",
+        "texto": "The heart is normal in size. The mediastinum is unremarkable. The lungs are mildly hyperlucent but clear. There is denser lumbar scoliosis.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "flattened diaphragm",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR2957",
+        "texto": "The heart is mildly enlarged. Pulmonary vascularity is increased. There is again mild elevation of the right hemidiaphragm. Air space disease and/or atelectasis is noted in right lung base. There is also XXXX streaky opacity in the left base. The costophrenic XXXX are blunted.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "increased retrosternal airspace",
+            "diffuse right lower lobe airspace opacity",
+            "infiltrate in the lingula",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding"
+        ]
+    },
+    {
+        "clave": "CXR2960",
+        "texto": "Normal cardiac contours. Clear lung XXXX bilaterally. No pneumothorax or pleural effusion.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "fibrotic scarring",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "interstitial opacities",
+            "large breast mass",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR2968",
+        "texto": "Right paratracheal stripe is denser and XXXX than normal. The XXXX are normal. Heart size normal. Lungs clear and expanded with no infiltrates.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+        ]
+    },
+    {
+        "clave": "CXR2982",
+        "texto": "The heart is normal in size. The mediastinum is unremarkable. XXXX scarring is noted in the lingula. The lungs are clear.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR2985",
+        "texto": "The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax demonstrate stable, mild multilevel thoracolumbar degenerative disc disease without acute abnormality. Upper abdominal midline surgical sutures are likewise stable.",
+        "anotado": [
+            "bronchial obstruction",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral reticular opacities",
+            "bronchiectasis",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR2986",
+        "texto": "The heart is normal in size and contour. There is no mediastinal widening. The lungs are clear bilaterally. No large pleural effusion or pneumothorax. Mild dextro curvature of the thoracic spine, possibly positional.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral reticular opacities",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "minimal right middle lobe atelectasis",
+            "no pleural effusion",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "small left-sided effusion",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR2993",
+        "texto": "The lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues grossly unremarkable.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral reticular opacities",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "diffuse right lower lobe airspace opacity",
+            "flattened diaphragm",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "minimal right middle lobe atelectasis",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "right-sided pleural effusion",
+            "soft tissue density projected over the right mid chest"
+        ]
+    },
+    {
+        "clave": "CXR3038",
+        "texto": "The heart and mediastinum are unremarkable. There is a calcified granuloma within the left upper lobe. The lungs are clear without infiltrate. There is no effusion or pneumothorax. There are acute mild anterior XXXX deformities identified at L1-L2. There is retropulsion of the posterior vertebral body of L1. A CT of the lumbar spine was already ordered at the time of this dictation.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "aortic atherosclerotic vascular calcification",
+            "diffuse right lower lobe airspace opacity",
+            "infiltrate in the lingula",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3042",
+        "texto": "Stable appearance bipolar dual-XXXX cardiac pacemaker overlying the left hemithorax. No interval change in XXXX position. Cardiomediastinal silhouette appears within normal limits. Lungs are well-aerated. No areas of parenchymal consolidation or pleural effusion.",
+        "anotado": [
+            "bilateral apical scarring",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "large breast mass",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3045",
+        "texto": "Heart size and vascularity normal. Mediastinal contour normal. Lungs are clear. No pleural effusions or pneumothoraces.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "no pleural effusion",
+            "patchy left lower lobe airspace disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3075",
+        "texto": "The heart is mildly enlarged. Lung volumes are low. There is no focal consolidation, pneumothorax, or large pleural effusion. Bony structures are within normal limits. There is no free air under the diaphragm. There is a mild amount of XXXX seen in the transverse colon.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+        ]
+    },
+    {
+        "clave": "CXR3100",
+        "texto": "Lungs are hyperexpanded but clear. No pleural effusions or pneumothoraces. Heart and mediastinum of normal size and contour. Degenerative changes in the spine.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3130",
+        "texto": "2 images. Heart size is enlarged, stable. Thoracic aortic atherosclerotic calcifications are present. There is XXXX dense consolidation within the retrocardiac left lower lobe. There is also patchy airspace opacity within the perihilar right lung. No pleural effusion or pneumothorax.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "increased retrosternal airspace",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "minimal right middle lobe atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3148",
+        "texto": "Stable cardiomediastinal contour is mild cardiomegaly. No pneumothorax or significant pulmonary edema. Small left pleural effusion. No focal lung consolidation. Mildly low lung volumes.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "right-sided pleural effusion",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR3207",
+        "texto": "There's been interval enlargement in the cardiac silhouette. These XXXX't contours are within normal limits. The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly"
+        ]
+    },
+    {
+        "clave": "CXR3250",
+        "texto": "Lungs are relatively clear. Heart size normal. Unfolded aorta. Moderate hiatal hernia. T-spine osteophytes and DISH.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3269",
+        "texto": "Heart size within normal limits. Cardiomediastinal silhouette is normal in contour. Lungs are clear bilaterally. No focal consolidations. No pleural effusions. Bony structures are intact.",
+        "anotado": [
+            "bronchial obstruction",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral apical scarring",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "mild thoracic aortic dilatation",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3316",
+        "texto": "Heart size is normal. No focal airspace disease. Emphysema. Bibasilar pleural scarring. No pneumothorax or effusion.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the lingula",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "right-sided pleural effusion",
+            "small left-sided effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis",
+            "emphysema",
+            "bibsasilar pleural scarring"
+        ]
+    },
+    {
+        "clave": "CXR3324",
+        "texto": "The heart is normal in size. Atherosclerotic calcifications of the aorta. The mediastinum is stable. There is again soft tissue density projected over the right mid chest, XXXX patient's known large breast mass. The appearance is grossly stable to decreased from prior study. The lateral projection is suboptimal as patient could not raise XXXX. There is no pleural effusion.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "small left-sided effusion",
+            "bronchiectasis",
+            "interstitial opacities",
+            "mild thoracic aortic dilatation",
+            "infiltrate in the lingula"
+        ]
+    },
+    {
+        "clave": "CXR3340",
+        "texto": "The cardiomediastinal silhouette is normal in size and contour. Atherosclerosis of the aortic XXXX. Minimal XXXX densities, left lung base. Hyperexpanded lungs. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "no pleural effusion",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3375",
+        "texto": "Heart size is within normal limits. No focal airspace consolidations. No pneumothorax or pleural effusion. There are degenerative changes of the midthoracic spine.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "subepicardial fibrosis",
+            "lumbar degenerative disc disease"
+        ]
+    },
+    {
+        "clave": "CXR3391",
+        "texto": "There are no focal areas of consolidation. No suspicious pulmonary opacities. Heart size within normal limits. No pleural effusions. There is no evidence of pneumothorax. Stable left mid lung granuloma.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "elevation of right hemidiaphragm",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3401",
+        "texto": "No focal consolidation, pneumothorax, or pleural effusion. Cardiomediastinal silhouette unremarkable. Stable bilateral calcified granulomas/lymph XXXX. A bullet is present in the posterior soft tissues of the left chest wall, stable compared to prior examination.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "small left-sided effusion"
+        ]
+    },
+    {
+        "clave": "CXR3411",
+        "texto": "There are low lung volumes with bronchovascular crowding. There is patchy left lower lobe airspace disease. There are XXXX opacities in the right mid lung, XXXX subsegmental atelectasis. No significant pleural effusion. No pneumothorax. Heart size is within normal limits. There is aortic atherosclerotic vascular calcification.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3455",
+        "texto": "Central vascular prominence and diffuse bilateral interstitial and alveolar opacities. Left basilar airspace opacities. No pneumothorax. Heart size XXXX large. XXXX unremarkable. No large pleural effusion.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "interstitial opacities",
+            "diffuse right lower lobe airspace opacity",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "right-sided pleural effusion",
+            "interstitial opacities",
+            "infiltrate in the right upper lobe",
+            "right-sided pleural effusion",
+            "low lung volumes with bronchovascular crowding",
+            "cardiomegaly"
+        ]
+    },
+    {
+        "clave": "CXR3470",
+        "texto": "The patient is rotated. The heart is normal in size. The pulmonary vascularity is within normal limits in appearance. No pneumothorax or pleural effusion. No focal airspace opacities. Mild degenerative changes of the thoracic spine.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "aortic atherosclerotic vascular calcification",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "cardiomegaly",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "subepicardial fibrosis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "infiltrate in the right middle lobe"
+        ]
+    },
+    {
+        "clave": "CXR3534",
+        "texto": "Lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. Heart size is normal. Stable right paratracheal prominence, consistent with known calcified lymph node, seen on prior CT chest dated XXXX. XXXX are unremarkable.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "cardiomegaly",
+            "elevation of right hemidiaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "low lung volumes with bronchovascular crowding",
+            "minimal right middle lobe atelectasis",
+            "normal cardiac contour",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest"
+        ]
+    },
+    {
+        "clave": "CXR3586",
+        "texto": "The heart is mildly enlarged. The mediastinal contours are stable. The lungs are clear.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "cardiomegaly",
+            "fibrotic scarring",
+            "increased retrosternal airspace",
+            "infiltrate in the right middle lobe",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "mild thoracic aortic dilatation",
+            "minimal right middle lobe atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3648",
+        "texto": "The heart and cardiomediastinal silhouette are normal in size and contour. There is no focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are intact.",
+        "anotado": [
+            "bronchial obstruction",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "right-sided pleural effusion"
+        ]
+    },
+    {
+        "clave": "CXR3673",
+        "texto": "The heart is normal in size. The mediastinal contours are stable. Aortic calcifications are noted. There are small calcified lymph XXXX. Emphysema and chronic changes are identified. There is XXXX opacity in the left perihilar upper lobe. There is questionable XXXX extension to the pleural surface. This may represent acute infiltrate or developing density. There is no pleural effusion or pneumothorax.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR371",
+        "texto": "The lungs are clear. There is hyperinflation. Calcification is seen over the anterior mediastinum XXXX a calcified lymph node at is not identified on the PA projection. The heart is normal. Arthritic changes the spine are seen.",
+        "anotado": [
+            "pulmonary nodule",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "reticular opacities",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "airspace opacity",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "lingula infiltrate",
+            "right middle lobe infiltrate",
+            "upper lobe infiltrate",
+            "interstitial opacities",
+            "consolidation atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "mid lung opacities",
+            "subsegmental atelectasis",
+            "cardiac contour",
+            "posttraumatic rib deformities",
+            "pulmonary edema due to ARDS",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR3732",
+        "texto": "Calcified left hilar lymph node. Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. XXXX and soft tissues are unremarkable.",
+        "anotado": [
+            "bronchial obstruction",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "fibrotic scarring",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "low lung volumes with bronchovascular crowding",
+            "minimal right middle lobe atelectasis",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR3740",
+        "texto": "XXXX diffuse right lower lobe airspace opacity is present. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.",
+        "anotado": [
+            "diffuse right lower lobe airspace opacity"
+        ]
+    },
+    {
+        "clave": "CXR3760",
+        "texto": "XXXX sternotomy XXXX remain in XXXX. The cardiomediastinal silhouette is within normal limits for appearance. The thoracic aorta is tortuous. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Moderate degenerative changes of the thoracic spine. No acute, displaced rib fractures identified.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "large breast mass",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3797",
+        "texto": "XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. Lungs demonstrate left lower lobe air space opacity with XXXX atelectasis without significant change. There is no effusion or pneumothorax.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3878",
+        "texto": "Postop changes of CABG with mild cardiomegaly. There is an infiltrate in the right lower lobe. Thoracic spondylosis.",
+        "anotado": [
+            "infiltrate in the right lower lobe",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+        ]
+    },
+    {
+        "clave": "CXR3906",
+        "texto": "Normal cardiac contour. No pleural effusion or pneumothorax. Clear lungs bilaterally.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "bilateral apical scarring",
+            "bilateral reticular opacities",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "soft tissue density projected over the right mid chest"
+        ]
+    },
+    {
+        "clave": "CXR3910",
+        "texto": "Heart size and cardiomediastinal contours are normal. Low lung volumes without focal airspace opacity, pleural effusion, or pneumothorax. Multilevel degenerative changes in the spine.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "increased retrosternal airspace",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR396",
+        "texto": "The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Normal cardiomediastinal silhouette. There are minimal degenerative changes of the spine.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "fibrotic scarring",
+            "infiltrate in the lingula",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation"
+        ]
+    },
+    {
+        "clave": "CXR3964",
+        "texto": "The heart is normal in size. The mediastinum is unremarkable. The lungs are hyperinflated compatible with emphysema. There is biapical scarring. No acute infiltrate is seen.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "low lung volumes with bronchovascular crowding",
+            "mild thoracic aortic dilatation",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR3993",
+        "texto": "The heart is mildly enlarged. Left hemidiaphragm is elevated. There is no acute infiltrate or pleural effusion. The mediastinum is unremarkable.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3995",
+        "texto": "The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are mildly hyperinflated with flattening of the diaphragms and expansion of the retrosternal clear space. Compared with prior exam, there has been interval resolution of previously demonstrated bibasilar infiltrates. There is minimal XXXX scarring or atelectasis in the right midlung. There is no XXXX focal airspace disease. There is no pneumothorax or pleural effusion. There are no acute bony findings.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "soft tissue density projected over the right mid chest"
+        ]
+    },
+    {
+        "clave": "CXR415",
+        "texto": "The heart is normal in size. The mediastinum is unremarkable. The lungs are grossly clear. Bilateral breast prostheses are noted.",
+        "anotado": [
+            "bronchiectasis",
+            "atherosclerotic calcifications of the aorta",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "bilateral reticular opacities"
+        ]
+    },
+    {
+        "clave": "CXR437",
+        "texto": "There are postoperative changes of sternotomy. There is cardiomegaly. The contour of the ascending aorta is prominent, consistent with known ascending aortic aneurysm. The lungs appear clear. No focal airspace consolidation. No pleural effusion or pneumothorax. There are minimal degenerative changes of the spine.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "flattened diaphragm",
+            "increased retrosternal airspace",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "minimal right middle lobe atelectasis",
+            "patchy left lower lobe airspace disease",
+            "posttraumatic deformities of the left posterior ribs",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR460",
+        "texto": "The lungs and pleural spaces show no acute abnormality. Heart size and pulmonary vascularity within normal limits. Mild tortuosity of the thoracic aorta, unchanged",
+        "anotado": [
+            "pulmonary nodule",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "hyperinflated lungs",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "minimal right middle lobe atelectasis",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "right-sided pleural effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR462",
+        "texto": "Mild cardiomegaly. Mild unfolding of the thoracic aorta. No focal air space opacity. No pleural effusion or pneumothorax. Visualized osseous structures are unremarkable in appearance.",
+        "anotado": [
+            "bronchial obstruction",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+        ]
+    },
+    {
+        "clave": "CXR470",
+        "texto": "The cardiac and mediastinal contours are within normal limits. The lungs are well-inflated and clear. There is no focal consolidation, pneumothorax, or effusion. The bony structures of the thorax are unremarkable.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "large breast mass",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR488",
+        "texto": "Broken of the 4XXXX XXXX XXXX, similar to the prior study. Stable multiple surgical clips in the left hilar area. Stable cardiomediastinal silhouette. Pulmonary vasculatures are within normal limits. No XXXX focal consolidation, pleural effusion or pneumothorax. Unremarkable bony structure.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "atherosclerotic calcifications of the aorta",
+            "aortic atherosclerotic vascular calcification",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "normal cardiac contour",
+            "posttraumatic deformities of the left posterior ribs",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR549",
+        "texto": "Stable appearance of the left upper lung lobe with scarring, volume loss, and pleural thickening. Cardiomediastinal silhouette is within normal limits normal appearance, similar to prior. Volume loss in the left lung, stable. Right lung is clear. There is no XXXX focal airspace disease, pleural effusion, or pneumothorax. Mild scarring at the right apex. No acute bony abnormality.",
+        "anotado": [
+            "left upper lung lobe scarring",
+            "pleural thickening",
+            "volume loss in the left lung",
+            "right-sided pleural effusion",
+            "mild scarring at the right apex"
+        ]
+    },
+    {
+        "clave": "CXR567",
+        "texto": "Heart size upper normal but stable. Mediastinal contours within normal limits. Minimal right middle lobe atelectasis. No focal airspace consolidation, pleural effusion, or pneumothorax. Degenerative endplate changes of the spine.",
+        "anotado": [
+            "pulmonary nodule",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "reticular opacities",
+            "bronchiectasis",
+            "calcified granuloma",
+            "airspace opacity",
+            "elevation of hemidiaphragm",
+            "fibrotic scarring",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "lingula infiltrate",
+            "middle lobe infiltrate",
+            "upper lobe infiltrate",
+            "interstitial opacities",
+            "lower lobe consolidation",
+            "low lung volumes",
+            "lumbar disc disease",
+            "right middle lobe atelectasis",
+            "mid lung opacities",
+            "ARDS",
+            "right-sided pleural effusion",
+            "lung volumes with bronchovascular crowding",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR593",
+        "texto": "No acute cardiopulmonary abnormality. Extensive degenerative changes of the thoracic spine. Mildly enlarged heart. Tortuous aorta. Aortic calcifications. No focal area of consolidation, pleural effusion or pneumothorax.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "aortic atherosclerotic vascular calcification",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "posttraumatic deformities of the left posterior ribs",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR6",
+        "texto": "Heart size and mediastinal contour are within normal limits. There is no focal airspace consolidation or suspicious pulmonary opacity. No pneumothorax or large pleural effusion. Mild degenerative change of the thoracic spine.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "infiltrate in the right middle lobe",
+            "infiltrate in the right upper lobe",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "soft tissue density projected over the right mid chest",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR606",
+        "texto": "XXXX sternotomy XXXX are in XXXX and intact. Normal cardiomediastinal silhouette. The bilateral costophrenic XXXX are excluded from the image on the PA view. Lungs are clear without focal areas of consolidation, pleural effusion, or pneumothorax. XXXX XXXX are intact without acute osseous abnormality. Mild degenerative changes throughout the thoracic spine.",
+        "anotado": [
+            "pulmonary nodule",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "hyperinflated lungs",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR624",
+        "texto": "The cardiac contours are normal. The lungs are hyperinflated with flattening of the diaphragms and tapering of the distal pulmonary vasculature. There is no focal consolidation. Thoracic spondylosis. Mild dextroscoliosis of the spine. Prior anterior cervical fusion.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "diffuse right lower lobe airspace opacity",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "interstitial opacities",
+            "right-sided pleural effusion",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "cardiomegaly",
+            "mild thoracic aortic dilatation",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR693",
+        "texto": "Cardiomediastinal silhouettes are within normal limits. Lungs are without focal consolidation, pneumothorax, or pleural effusion. Grossly unchanged appearance of calcified hilar lymph XXXX and scattered calcified granulomas. Stable degenerative changes in the spine.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "increased retrosternal airspace",
+            "interstitial opacities",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "patchy left lower lobe airspace disease",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "small left-sided effusion",
+            "spine dextrocurvature"
+        ]
+    },
+    {
+        "clave": "CXR702",
+        "texto": "The left lung is grossly clear. The right lung demonstrates a large right pleural effusion with associated atelectatic collapse of the right middle lobe and partial collapse of the right lower lobe. XXXX opacities are seen within the aerated right lung, XXXX subsegmental atelectasis. No focal consolidation or pneumothorax identified. No acute osseous abnormality. Cardio mediastinal silhouette is stable compared to prior examinations.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right upper lobe",
+            "interstitial opacities",
+            "large breast mass",
+            "left lower lobe of consolidation or atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "no pleural effusion",
+            "posttraumatic deformities of the left posterior ribs",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "small left-sided effusion",
+            "soft tissue density projected over the right mid chest",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR712",
+        "texto": "The lungs are mildly hyperexpanded. There is no focal airspace consolidation to suggest pneumonia. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour.",
+        "anotado": [
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "small left-sided effusion",
+            "mild thoracic aortic dilatation",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "hyperinflated lungs",
+            "left lower lobe of consolidation or atelectasis"
+        ]
+    },
+    {
+        "clave": "CXR715",
+        "texto": "There is chronic asymmetric elevation of the right hemidiaphragm. Compared with the prior study, there is mildly increased streaky airspace disease in the right lung base. Hilar prominence appears stable. There is no pneumothorax or large pleural effusion. Heart size is stable and grossly normal. There no acute bony findings.",
+        "anotado": [
+            "bronchiectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)"
+        ]
+    },
+    {
+        "clave": "CXR777",
+        "texto": "The cardiomediastinal silhouette is within normal limits for appearance. The thoracic aorta is tortuous. No focal areas of pulmonary consolidation. No pneumothorax. No large pleural effusion. Mild degenerative changes and osteopenia of the thoracic spine. Overlying EKG leads.",
+        "anotado": [
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "calcified granuloma left upper lobe",
+            "cardiomegaly",
+            "diffuse right lower lobe airspace opacity",
+            "elevation of right hemidiaphragm",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "hyperinflated lungs",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "infiltrate in the right middle lobe",
+            "interstitial opacities",
+            "left lower lobe air space opacity with consolidation atelectasis",
+            "left lower lobe of consolidation or atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "mild thoracic aortic dilatation",
+            "multiple opacities in the right mid lung, 3 subsegmental atelectasis",
+            "small left-sided effusion",
+            "spine dextrocurvature",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR816",
+        "texto": "XXXX XXXX and lateral chest examination was obtained. The heart silhouette and mediastinal contours are not enlarged. Cardiac pacemaker leads are within right atrium and ventricle. There is stable XXXX tube. Lungs demonstrate left lower lobe of he states he may be atelectasis or pneumonia. There is small left-sided effusion. No pneumothorax.",
+        "anotado": [
+            "bronchial obstruction",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta",
+            "bronchiectasis",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "left lower lobe of consolidation or atelectasis",
+            "low lung volumes with bronchovascular crowding",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR90",
+        "texto": "The lungs are clear. There is no focal airspace consolidation. No pleural effusion or pneumothorax. Heart size and mediastinal contour are within normal limits. There are degenerative changes of the spine.",
+        "anotado": [
+            "bronchial obstruction",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "low lung volumes with bronchovascular crowding",
+            "aortic atherosclerotic vascular calcification",
+            "atherosclerotic calcifications of the aorta"
+        ]
+    },
+    {
+        "clave": "CXR924",
+        "texto": "Cardiac silhouette is within normal limits. Bibasilar atelectasis/infiltrate. There is no pleural effusion or pneumothorax. Left chest XXXX with associated central venous catheter tip overlying the cavoatrial junction.",
+        "anotado": [
+            "bilateral apical scarring",
+            "bronchiectasis",
+            "fibrotic scarring",
+            "increased retrosternal airspace",
+            "infiltrate in the lingula",
+            "lumbar degenerative disc disease",
+            "mild thoracic aortic dilatation",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "right-sided pleural effusion",
+            "subepicardial fibrosis"
+        ]
+    },
+    {
+        "clave": "CXR990",
+        "texto": "Heart size within normal limits. No focal airspace consolidations. No pneumothorax or effusions.",
+        "anotado": [
+            "atherosclerotic calcifications of the aorta",
+            "bronchial obstruction",
+            "bronchiectasis",
+            "fibrotic scarring",
+            "flattened diaphragm",
+            "infiltrate in the lingula",
+            "mild thoracic aortic dilatation",
+            "pulmonary edema due to acute respiratory distress syndrome (ARDS)",
+            "subepicardial fibrosis"
+        ]
+    }
+]
