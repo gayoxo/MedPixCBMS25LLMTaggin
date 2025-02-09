@@ -1,0 +1,12 @@
+[
+    {
+        "clave": "CXR2151",
+        "textOri": "Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace. No focal alveolar consolidation, no definite pleural effusion seen. Heart size within normal limits, the typical findings of pulmonary edema. Mild spine dextrocurvature noted.",
+        "textDesa": "Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace. No focal alveolar consolidation, no definite pleural effusion seen. Heart size within normal limits, typical findings of pulmonary edema. Mild thoracic kyphosis noted."
+    },
+    {
+        "clave": "CXR1042",
+        "textOri": "The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age.",
+        "textDesa": "The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age."
+    }
+]
