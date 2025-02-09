@@ -10,19 +10,22 @@ def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}):
         return None
 
     content_text = (
-        f"""Extract all **clinically relevant findings and diseases** from the following medical text.
-
-        Return **only** a valid JSON array, ensuring that only **clinically significant findings and diseases** are included, while excluding general observations, normal findings, and anatomical descriptions.
+        f"""Extract detected **clinically relevant findings and diseases** from the following medical text to analyze in `Text to analyze` and are in the list `jsonIni`.
+        Assuming it is posible that there are not findings in the `Text to analyze', in this case you should return 
+        an empty array [].
+        Return **only** a valid JSON array, ensuring that only **clinically significant findings and diseases** are 
+        included in the text `Text to analyze', while excluding general observations, normal findings, and anatomical descriptions.
 
         ### Input:
-        1. `jsonIni`: {jsonIni}  # List of findings and diseases to find.
-        2. Text to analyze:
+        1. `jsonIni`: {jsonIni}  # List of findings and diseases can be appear.
+        2. `Text to analyze' :
            {valor_texto}
 
         ### Output format:
         - Each object in the JSON array must include:
           - `"finding"`: the **clinically significant finding or disease** identified in the text.
-          - `"absent"` : if the term is identified as absent
+          - `"absent"` : True if  the term is identified as absent.
+          - `"text"` : Section of the text relevant for the identification inside `Text to analyze`.
 
         ### Important:
         - Ensure all values are **clinically relevant**.
@@ -34,6 +37,7 @@ def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}):
           - "Typical anatomy"
           - "Absent Findings"
         - Maintain lowercase `"true"` for boolean values.
+        - Not include extra findings, some documents are from normal patients with no evidences.
         - **DO NOT** include any explanations, code, or additional text—return **only** the JSON array."""
     )
 
@@ -124,37 +128,39 @@ def intentoBase(textOri, historial_mensajes,resultadoJSONAnnon):
     return resultadoJSONAnnon2, resultadoAnon['message']['content']
 
 
-def procesaResultado(diccionario_textOri, jsonInitialFindings):
+def procesaResultado(diccionario_textOri, jsonInitialFindings,identificadores):
     ResultadoSalida = []
     ResultadoErrores = []
     historial_mensajes = []
     for clave, textOri in diccionario_textOri.items():
 
-        resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
-                                                              jsonInitialFindings)
-        if resultadoJSONAnnonUni is None:
+        if clave in identificadores:
 
             resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
                                                                   jsonInitialFindings)
-
             if resultadoJSONAnnonUni is None:
 
                 resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
                                                                       jsonInitialFindings)
-                if resultadoJSONAnnonUni is None:
-                    dictvalor = dict();
-                    dictvalor["text"] = textOri
-                    dictvalor["res"] = resultadoContent
-                    ResultadoErrores.append(dictvalor)
-                    print("not found", resultadoContent)
 
-        if resultadoJSONAnnonUni is not None:
-            dictvalor = dict();
-            dictvalor["clave"] = clave
-            dictvalor["texto"] = textOri
-            dictvalor["anotado"] = resultadoJSONAnnonUni
-            ResultadoSalida.append(dictvalor)
-            print("Case", clave, "Result", resultadoJSONAnnonUni)
+                if resultadoJSONAnnonUni is None:
+
+                    resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
+                                                                          jsonInitialFindings)
+                    if resultadoJSONAnnonUni is None:
+                        dictvalor = dict();
+                        dictvalor["text"] = textOri
+                        dictvalor["res"] = resultadoContent
+                        ResultadoErrores.append(dictvalor)
+                        print("not found", resultadoContent)
+
+            if resultadoJSONAnnonUni is not None:
+                dictvalor = dict();
+                dictvalor["clave"] = clave
+                dictvalor["texto"] = textOri
+                dictvalor["anotado"] = resultadoJSONAnnonUni
+                ResultadoSalida.append(dictvalor)
+                print("Case", clave, "Result", resultadoJSONAnnonUni)
 
     return ResultadoSalida, ResultadoErrores
 
@@ -190,6 +196,14 @@ diccionario_textDesa = {item["clave"]: item["textDesa"] for item in datos}
 #print("Lista de textDesa:", lista_textDesa)
 
 
+# Ruta del archivo
+file_path = "identificadores.txt"
+
+# Leer los identificadores desde el archivo y guardarlos en una lista
+with open(file_path, "r") as f:
+    identificadores = [line.strip() for line in f.readlines()]
+
+
 
 # Leer el archivo JSON etiquetas
 archivo_salidaNormal = "resultadoFinalNormal.json"
@@ -203,7 +217,7 @@ listaFindings = [objeto["finding"] for objeto in datos]
 print("Recorriendo ORI:ORI:")
 
 # Text ORIGINAL contra lista ORIGINAL
-ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textOri,listaFindings)
+ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textOri,listaFindings,identificadores)
 
 
 # Nombre del archivo donde se guardará el JSON
@@ -219,7 +233,7 @@ salvarSalida(ResultadoSalidaNormalNormal,ResultadoErrores,archivo_salida,archivo
 print("Recorriendo DES:ORI:")
 
 # Text DESAMBIGUADO contra lista ORIGINAL
-ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textDesa,listaFindings)
+ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textDesa,listaFindings,identificadores)
 
 
 # Nombre del archivo donde se guardará el JSON
@@ -242,7 +256,7 @@ listaFindings = [objeto["finding"] for objeto in datos]
 
 print("Recorriendo ORI:DES:")
 # Text ORIGINAL contra lista ORIGINAL
-ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textOri,listaFindings)
+ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textOri,listaFindings,identificadores)
 
 
 # Nombre del archivo donde se guardará el JSON
@@ -257,7 +271,7 @@ salvarSalida(ResultadoSalidaNormalNormal,ResultadoErrores,archivo_salida,archivo
 
 
 print("Recorriendo DES:DES:")
-ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textDesa,listaFindings)
+ResultadoSalidaNormalNormal,ResultadoErrores = procesaResultado(diccionario_textDesa,listaFindings,identificadores)
 
 
 # Nombre del archivo donde se guardará el JSON
