@@ -31,13 +31,14 @@ def compute_embedding_tp_fp_fn(gold_terms, hypothesis_terms, threshold=0.7):
 
     return tp, fp, fn
 
+threshold=0.5
 # Análisis y resultados
 results = []
 for _, row in df.iterrows():
     gold_terms = row["Gold"]
     for hyp_col in ['NN', 'DN', 'ND', 'DD']:
         hypothesis_terms = row[hyp_col]
-        tp, fp, fn = compute_embedding_tp_fp_fn(gold_terms, hypothesis_terms, threshold=0.7)
+        tp, fp, fn = compute_embedding_tp_fp_fn(gold_terms, hypothesis_terms, threshold=threshold)
         results.append({
             'ID': row['ID'],
             'Hipótesis': hyp_col,
@@ -48,6 +49,6 @@ for _, row in df.iterrows():
 
 # Guardar resultados
 results_df = pd.DataFrame(results)
-results_df.to_csv("resultados_embeddings_0.7.csv", index=False, encoding='utf-8', sep=';')
+results_df.to_csv("resultados_embeddings_"+str(threshold)+".csv", index=False, encoding='utf-8', sep=';')
 
 print(results_df)
