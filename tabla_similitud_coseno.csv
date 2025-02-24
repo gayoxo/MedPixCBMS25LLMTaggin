@@ -1,0 +1,878 @@
+ID;Hipótesis;Término Hipótesis;Término Gold;Similitud Coseno
+CXR2806   ;NN;Normal;Normal;1.0000002
+CXR2806   ;DN;Normal;Normal;1.0000002
+CXR2806   ;ND;Normal;Normal;1.0000002
+CXR2806   ;DD;edema;Normal;0.13017008
+CXR462   ;NN;mild cardiomegaly;Dilatation of aorta    (UMLS);0.26936817
+CXR462   ;NN;mild cardiomegaly;Cardiomegaly;0.86520404
+CXR462   ;NN;mild unfolding of the thoracic aorta;Dilatation of aorta    (UMLS);0.5314572
+CXR462   ;NN;mild unfolding of the thoracic aorta;Cardiomegaly;0.29137072
+CXR462   ;DN;heart enlargement;Dilatation of aorta    (UMLS);0.32184827
+CXR462   ;DN;heart enlargement;Cardiomegaly;0.43642622
+CXR462   ;ND;mild cardiomegaly;Dilatation of aorta    (UMLS);0.26936817
+CXR462   ;ND;mild cardiomegaly;Cardiomegaly;0.8652041
+CXR462   ;ND;mild aortographic narrowing;Dilatation of aorta    (UMLS);0.5799615
+CXR462   ;ND;mild aortographic narrowing;Cardiomegaly;0.26293105
+CXR462   ;DD;mild small enlargement of the heart chambers;Dilatation of aorta    (UMLS);0.3341133
+CXR462   ;DD;mild small enlargement of the heart chambers;Cardiomegaly;0.4230615
+CXR462   ;DD;mild gradual dilation of the thoracic aorta;Dilatation of aorta    (UMLS);0.74434114
+CXR462   ;DD;mild gradual dilation of the thoracic aorta;Cardiomegaly;0.25940058
+CXR3906   ;NN;Normal;Normal;1.0000002
+CXR3906   ;DN;Normal;Normal;1.0000002
+CXR3906   ;ND;"heart enlargement"",";Normal;0.13890944
+CXR3906   ;ND;"adenoma in the transverse colon"",";Normal;0.09349157
+CXR3906   ;ND;"enlarged heart"",";Normal;0.16115141
+CXR3906   ;ND;"mild anatomical enlargement of the heart chambers"",";Normal;0.14037755
+CXR3906   ;ND;"aortic stent grafts over the descending thoracic aorta"",";Normal;0.057019237
+CXR3906   ;ND;"heart enlargement"",";Normal;0.13890944
+CXR3906   ;ND;ascending aortic aneurysm;Normal;0.11674952
+CXR3906   ;DD;"effusive lung disease"",";Normal;0.08784703
+CXR3906   ;DD;"pleuritis"",";Normal;0.110548645
+CXR3906   ;DD;"subaortic stenosis"",";Normal;0.12766047
+CXR3906   ;DD;"ascertain right pleural effusion"",";Normal;0.058375075
+CXR3906   ;DD;pneumothorax;Normal;0.1588892
+CXR2982;NN;Normal;Lung scarring    (UMLS);0.026994314
+CXR2982;DN;Normal;Lung scarring    (UMLS);0.026994314
+CXR2982;ND;xxxx scarring in the lingula;Lung scarring    (UMLS);0.3413572
+CXR2982;DD;"Mild scarring in the lingula"",";Lung scarring    (UMLS);0.3981949
+CXR2982;DD;Pulmonary fibrosis;Lung scarring    (UMLS);0.42976037
+CXR1235;NN;no focal infiltrates;Abnormally opaque structure (morphologic abnormality);0.23720275
+CXR1235;DN;"ground glass opacities"",";Abnormally opaque structure (morphologic abnormality);0.2689894
+CXR1235;DN;focal infiltration;Abnormally opaque structure (morphologic abnormality);0.3213901
+CXR1235;ND;Ground glass opacities;Abnormally opaque structure (morphologic abnormality);0.22330643
+CXR1235;DD;ground glass opacities;Abnormally opaque structure (morphologic abnormality);0.22330643
+CXR3391;NN;"no focal areas of consolidation"",";Pulmonary granuloma;0.086315386
+CXR3391;NN;"no suspicious pulmonary opacities"",";Pulmonary granuloma;0.49073392
+CXR3391;NN;"heart size within normal limits"",";Pulmonary granuloma;0.070916966
+CXR3391;NN;"no pleural effusions"",";Pulmonary granuloma;0.34332237
+CXR3391;NN;"ascertain no pneumothorax"",";Pulmonary granuloma;0.4191655
+CXR3391;NN;there is no evidence of stable left mid lung granuloma;Pulmonary granuloma;0.6943859
+CXR3391;DN;"hyperinflated lungs"",";Pulmonary granuloma;0.4775154
+CXR3391;DN;"lumbar degenerative disc disease"",";Pulmonary granuloma;0.13159648
+CXR3391;DN;"thoracic aorta tortuosity"",";Pulmonary granuloma;0.24898341
+CXR3391;DN;"pulmonary edema due to acute respiratory distress syndrome (ARDS)"",";Pulmonary granuloma;0.36563534
+CXR3391;DN;"spine dextrocurvature"",";Pulmonary granuloma;0.14083353
+CXR3391;DN;"bronchiectasis"",";Pulmonary granuloma;0.42880207
+CXR3391;DN;"fibrotic scarring"",";Pulmonary granuloma;0.28827456
+CXR3391;DN;"infiltrate in the right middle lobe"",";Pulmonary granuloma;0.23909907
+CXR3391;DN;"opacity within the right lung base"",";Pulmonary granuloma;0.32468373
+CXR3391;DN;"atelectasis"",";Pulmonary granuloma;0.1990616
+CXR3391;DN;"pleural effusion"",";Pulmonary granuloma;0.4162964
+CXR3391;DN;"pneumothoraces"",";Pulmonary granuloma;0.40313932
+CXR3391;DN;"hyperexpanded lungs"",";Pulmonary granuloma;0.5071445
+CXR3391;DN;"increased retrosternal airspace"",";Pulmonary granuloma;0.10924382
+CXR3391;DN;"calcified granulomas"",";Pulmonary granuloma;0.60116756
+CXR3391;DN;"right-sided pleural effusion"",";Pulmonary granuloma;0.3445717
+CXR3391;DN;"stable cardiomegaly"",";Pulmonary granuloma;0.13482627
+CXR3391;DN;"calcified thoracic aorta"",";Pulmonary granuloma;0.26697177
+CXR3391;DN;"dense retrocardiac opacities"",";Pulmonary granuloma;0.023073804
+CXR3391;DN;bilateral interstitial opacities increased since last exam;Pulmonary granuloma;0.13608676
+CXR3391;ND;Normal;Pulmonary granuloma;0.1333727
+CXR3391;DD;"interstitial pneumonia"",";Pulmonary granuloma;0.4802446
+CXR3391;DD;"pleurisy"",";Pulmonary granuloma;0.352429
+CXR3391;DD;"bicuspid aortic valve stenosis"",";Pulmonary granuloma;0.1551952
+CXR3391;DD;"pulmonary edema due to ARDS"",";Pulmonary granuloma;0.45002347
+CXR3391;DD;"pulmonary fibrosis"",";Pulmonary granuloma;0.5718318
+CXR3391;DD;"medial disc disease"",";Pulmonary granuloma;0.2621549
+CXR3391;DD;"pleuritis"",";Pulmonary granuloma;0.3317896
+CXR3391;DD;"right-sided heart failure"",";Pulmonary granuloma;0.1829649
+CXR3391;DD;"spinal stenosis"",";Pulmonary granuloma;0.10213724
+CXR3391;DD;right-sided pulmonary hypertension;Pulmonary granuloma;0.3885213
+CXR2091;NN;thoracic spondylosis;Thoracic spondylosis;1.0000002
+CXR2091;DN;thoracic spondylosis;Thoracic spondylosis;1.0000002
+CXR2091;ND;thoracic spondylosis;Thoracic spondylosis;1.0000002
+CXR2091;DD;"thoracic spondylosis"",";Thoracic spondylosis;0.968677
+CXR2091;DD;l5-s1 of the spine;Thoracic spondylosis;0.38961685
+CXR3993;NN;heart enlargement;-x-ray of chest: elevation of left diaphragm only    (UMLS);0.26557234
+CXR3993;DN;Normal;-x-ray of chest: elevation of left diaphragm only    (UMLS);0.1444861
+CXR3993;ND;enlarged heart;-x-ray of chest: elevation of left diaphragm only    (UMLS);0.33600342
+CXR3993;DD;Normal;-x-ray of chest: elevation of left diaphragm only    (UMLS);0.1444861
+CXR470;NN;"no focal consolidation"",";Normal;0.15819858
+CXR470;NN;"pneumothorax"",";Normal;0.13160552
+CXR470;NN;effusion;Normal;0.19016778
+CXR470;DN;Normal;Normal;1.0000002
+CXR470;ND;Normal;Normal;1.0000002
+CXR470;DD;Normal;Normal;1.0000002
+CXR3455;NN;"diffuse bilateral interstitial and alveolar opacities"",";-Cardiomegaly    (UMLS);0.196648
+CXR3455;NN;"diffuse bilateral interstitial and alveolar opacities"",";-Pulmonary vascular disorder    (UMLS);0.32048115
+CXR3455;NN;"diffuse bilateral interstitial and alveolar opacities"",";-Abnormally opaque structure (morphologic abnormality);0.35707802
+CXR3455;NN;left basilar airspace opacities;-Cardiomegaly    (UMLS);0.04042588
+CXR3455;NN;left basilar airspace opacities;-Pulmonary vascular disorder    (UMLS);0.14602289
+CXR3455;NN;left basilar airspace opacities;-Abnormally opaque structure (morphologic abnormality);0.22638285
+CXR3455;DN;"central vascular prominence"",";-Cardiomegaly    (UMLS);0.23566052
+CXR3455;DN;"central vascular prominence"",";-Pulmonary vascular disorder    (UMLS);0.2946989
+CXR3455;DN;"central vascular prominence"",";-Abnormally opaque structure (morphologic abnormality);0.39326376
+CXR3455;DN;diffuse bilateral interstitial and alveolar opacities;-Cardiomegaly    (UMLS);0.18014319
+CXR3455;DN;diffuse bilateral interstitial and alveolar opacities;-Pulmonary vascular disorder    (UMLS);0.30563992
+CXR3455;DN;diffuse bilateral interstitial and alveolar opacities;-Abnormally opaque structure (morphologic abnormality);0.3493902
+CXR3455;ND;"central vascular prominence"",";-Cardiomegaly    (UMLS);0.2356605
+CXR3455;ND;"central vascular prominence"",";-Pulmonary vascular disorder    (UMLS);0.29469886
+CXR3455;ND;"central vascular prominence"",";-Abnormally opaque structure (morphologic abnormality);0.39326382
+CXR3455;ND;"diffuse bilateral interstitial and alveolar opacities"",";-Cardiomegaly    (UMLS);0.196648
+CXR3455;ND;"diffuse bilateral interstitial and alveolar opacities"",";-Pulmonary vascular disorder    (UMLS);0.32048115
+CXR3455;ND;"diffuse bilateral interstitial and alveolar opacities"",";-Abnormally opaque structure (morphologic abnormality);0.35707802
+CXR3455;ND;left basilar airspace opacities;-Cardiomegaly    (UMLS);0.04042588
+CXR3455;ND;left basilar airspace opacities;-Pulmonary vascular disorder    (UMLS);0.14602289
+CXR3455;ND;left basilar airspace opacities;-Abnormally opaque structure (morphologic abnormality);0.22638285
+CXR3455;DD;Normal;-Cardiomegaly    (UMLS);0.075609006
+CXR3455;DD;Normal;-Pulmonary vascular disorder    (UMLS);0.06898406
+CXR3455;DD;Normal;-Abnormally opaque structure (morphologic abnormality);0.28670758
+CXR3995;NN;" ""ascendant aortic aneurysm";-Pulmonary Infiltrate    (UMLS);0.13918754
+CXR3995;NN;" ""ascendant aortic aneurysm";-Lung hyperinflation;0.23143445
+CXR3995;NN;" ""ascendant aortic aneurysm";-Atelectasis;0.2518142
+CXR3995;DN;"flattened diaphragm"",";-Pulmonary Infiltrate    (UMLS);0.26307854
+CXR3995;DN;"flattened diaphragm"",";-Lung hyperinflation;0.33664936
+CXR3995;DN;"flattened diaphragm"",";-Atelectasis;0.28670657
+CXR3995;DN;"minimal scarring or atelectasis in the right midlung"",";-Pulmonary Infiltrate    (UMLS);0.24813244
+CXR3995;DN;"minimal scarring or atelectasis in the right midlung"",";-Lung hyperinflation;0.14062172
+CXR3995;DN;"minimal scarring or atelectasis in the right midlung"",";-Atelectasis;0.52213603
+CXR3995;DN;resolution of bibasilar and perihilar interstitial opacities;-Pulmonary Infiltrate    (UMLS);0.19145748
+CXR3995;DN;resolution of bibasilar and perihilar interstitial opacities;-Lung hyperinflation;0.05957452
+CXR3995;DN;resolution of bibasilar and perihilar interstitial opacities;-Atelectasis;0.17225802
+CXR3995;ND;mild hyperinflated lungs;-Pulmonary Infiltrate    (UMLS);0.34611997
+CXR3995;ND;mild hyperinflated lungs;-Lung hyperinflation;0.84219384
+CXR3995;ND;mild hyperinflated lungs;-Atelectasis;0.076246426
+CXR3995;DD;mild hyperinflated lungs;-Pulmonary Infiltrate    (UMLS);0.34611997
+CXR3995;DD;mild hyperinflated lungs;-Lung hyperinflation;0.84219384
+CXR3995;DD;mild hyperinflated lungs;-Atelectasis;0.076246426
+CXR2007;NN;ascertain mild degenerative changes of the thoracic spine;Degeneration of spine;0.73649454
+CXR2007;DN;mild degenerative changes of the thoracic spine;Degeneration of spine;0.7438875
+CXR2007;ND;mild degenerative changes of the thoracic spine;Degeneration of spine;0.7438875
+CXR2007;DD;mild degenerative changes of the thoracic spine;Degeneration of spine;0.7438875
+CXR488;NN;Normal;Normal;1.0000002
+CXR488;DN;"no focal consolidation"",";Normal;0.15819858
+CXR488;DN;"no pleural effusion"",";Normal;0.1141175
+CXR488;DN;no pneumothorax;Normal;0.18204032
+CXR488;ND;Normal;Normal;1.0000002
+CXR488;DD;stable surgical clips in the left hilar area;Normal;0.05627142
+CXR3534;NN;Normal;Paratracheal lymphadenopathy    (UMLS);0.077237844
+CXR3534;DN;calcified lymph node;Paratracheal lymphadenopathy    (UMLS);0.43251082
+CXR3534;ND;Normal;Paratracheal lymphadenopathy    (UMLS);0.077237844
+CXR3534;DD;"Text to analyze"",";Paratracheal lymphadenopathy    (UMLS);-0.06971188
+CXR3534;DD;jsonIni;Paratracheal lymphadenopathy    (UMLS);0.060175985
+CXR3673;NN;"aortic calcifications"",";Abnormally opaque structure (morphologic abnormality);0.07058441
+CXR3673;NN;"aortic calcifications"",";-Pulmonary Emphysema;0.2777821
+CXR3673;NN;"aortic calcifications"",";-Calcification of the aorta;0.8573433
+CXR3673;NN;emphysema;Abnormally opaque structure (morphologic abnormality);0.15427768
+CXR3673;NN;emphysema;-Pulmonary Emphysema;0.88819957
+CXR3673;NN;emphysema;-Calcification of the aorta;0.16852969
+CXR3673;DN;"aortic calcifications"",";Abnormally opaque structure (morphologic abnormality);0.07058442
+CXR3673;DN;"aortic calcifications"",";-Pulmonary Emphysema;0.27778208
+CXR3673;DN;"aortic calcifications"",";-Calcification of the aorta;0.8573433
+CXR3673;DN;"small calcified lymph nodes"",";Abnormally opaque structure (morphologic abnormality);0.27773455
+CXR3673;DN;"small calcified lymph nodes"",";-Pulmonary Emphysema;0.23554496
+CXR3673;DN;"small calcified lymph nodes"",";-Calcification of the aorta;0.36112487
+CXR3673;DN;"emphysema"",";Abnormally opaque structure (morphologic abnormality);0.1652275
+CXR3673;DN;"emphysema"",";-Pulmonary Emphysema;0.84386736
+CXR3673;DN;"emphysema"",";-Calcification of the aorta;0.19547075
+CXR3673;DN;"questionable opacity in the left perihilar upper lobe"",";Abnormally opaque structure (morphologic abnormality);0.52522564
+CXR3673;DN;"questionable opacity in the left perihilar upper lobe"",";-Pulmonary Emphysema;0.23638363
+CXR3673;DN;"questionable opacity in the left perihilar upper lobe"",";-Calcification of the aorta;0.22562839
+CXR3673;DN;possible extension to the pleural surface;Abnormally opaque structure (morphologic abnormality);0.2881735
+CXR3673;DN;possible extension to the pleural surface;-Pulmonary Emphysema;0.23223667
+CXR3673;DN;possible extension to the pleural surface;-Calcification of the aorta;0.23708808
+CXR3673;ND;"aortic calcifications"",";Abnormally opaque structure (morphologic abnormality);0.07058442
+CXR3673;ND;"aortic calcifications"",";-Pulmonary Emphysema;0.27778208
+CXR3673;ND;"aortic calcifications"",";-Calcification of the aorta;0.8573434
+CXR3673;ND;"small left-sided effusion"",";Abnormally opaque structure (morphologic abnormality);0.3652612
+CXR3673;ND;"small left-sided effusion"",";-Pulmonary Emphysema;0.29493356
+CXR3673;ND;"small left-sided effusion"",";-Calcification of the aorta;0.17635232
+CXR3673;ND;ground glass opacities in the left perihilar upper lobe;Abnormally opaque structure (morphologic abnormality);0.35681495
+CXR3673;ND;ground glass opacities in the left perihilar upper lobe;-Pulmonary Emphysema;0.13867594
+CXR3673;ND;ground glass opacities in the left perihilar upper lobe;-Calcification of the aorta;0.16649641
+CXR3673;DD;"aortic calcifications"",";Abnormally opaque structure (morphologic abnormality);0.07058441
+CXR3673;DD;"aortic calcifications"",";-Pulmonary Emphysema;0.2777821
+CXR3673;DD;"aortic calcifications"",";-Calcification of the aorta;0.8573433
+CXR3673;DD;"small calcified lymph nodes"",";Abnormally opaque structure (morphologic abnormality);0.27773452
+CXR3673;DD;"small calcified lymph nodes"",";-Pulmonary Emphysema;0.23554489
+CXR3673;DD;"small calcified lymph nodes"",";-Calcification of the aorta;0.36112487
+CXR3673;DD;"emphysema and chronic changes"",";Abnormally opaque structure (morphologic abnormality);0.06484282
+CXR3673;DD;"emphysema and chronic changes"",";-Pulmonary Emphysema;0.80246294
+CXR3673;DD;"emphysema and chronic changes"",";-Calcification of the aorta;0.15026373
+CXR3673;DD;questionable opacity in the left perihilar upper lobe;Abnormally opaque structure (morphologic abnormality);0.52229226
+CXR3673;DD;questionable opacity in the left perihilar upper lobe;-Pulmonary Emphysema;0.21157402
+CXR3673;DD;questionable opacity in the left perihilar upper lobe;-Calcification of the aorta;0.22082652
+CXR1153;NN;"mild hyperinflated lungs"",";Normal;0.14676142
+CXR1153;NN;aortic calcifications;Normal;0.039834056
+CXR1153;DN;"hyperinflated lungs"",";Normal;0.113686785
+CXR1153;DN;"thoracic aorta tortuosity"",";Normal;0.10113132
+CXR1153;DN;"fibrotic scarring"",";Normal;0.15221554
+CXR1153;DN;"pulmonary edema due to acute respiratory distress syndrome (ARDS)"",";Normal;-0.016549831
+CXR1153;DN;"lumbar degenerative disc disease"",";Normal;0.09799376
+CXR1153;DN;"atherosclerosis of the aortic"",";Normal;0.07015593
+CXR1153;DN;"degenerative changes of the thoracic spine"",";Normal;0.09268033
+CXR1153;DN;"right-sided pleural effusion"",";Normal;0.08331548
+CXR1153;DN;"diffuse right lower lobe airspace opacity"",";Normal;0.18957177
+CXR1153;DN;"ascendant aortic aneurysm"",";Normal;0.114909306
+CXR1153;DN;"ascending aortic aneurysm"",";Normal;0.11210617
+CXR1153;DN;"subsegmental atelectasis"",";Normal;0.07337485
+CXR1153;DN;"heart enlargement"",";Normal;0.13890952
+CXR1153;DN;"atherosclerotic vascular calcifications"",";Normal;0.024936907
+CXR1153;DN;"right lower lobe pulmonary nodule"",";Normal;0.14894992
+CXR1153;DN;"left perihilar upper lung nodule"",";Normal;0.16983205
+CXR1153;DN;"ascertain aortic calcifications"",";Normal;-0.010951523
+CXR1153;DN;left-sided effusion;Normal;0.13283662
+CXR1153;ND;Normal;Normal;1.0000002
+CXR1153;DD;"9 mm right lower lobe exudative nodular pulmonary nodule not seen on prior exams"",";Normal;0.12505089
+CXR1153;DD;calcified granulomas in the affected areas;Normal;0.06115614
+CXR2923;NN;Normal;Normal;1.0000002
+CXR2923;DN;Normal;Normal;1.0000002
+CXR2923;ND;Normal;Normal;1.0000002
+CXR2923;DD;Normal;Normal;1.0000002
+CXR3910;NN;multilevel degenerative changes in the spine;Lung hypoinflation    (UMLS);0.019701801
+CXR3910;NN;multilevel degenerative changes in the spine;-Degeneration of spine;0.7316012
+CXR3910;DN;"focal airspace opacity"",";Lung hypoinflation    (UMLS);0.19319354
+CXR3910;DN;"focal airspace opacity"",";-Degeneration of spine;0.03582258
+CXR3910;DN;multilevel degenerative changes in the spine;Lung hypoinflation    (UMLS);0.019701762
+CXR3910;DN;multilevel degenerative changes in the spine;-Degeneration of spine;0.7316011
+CXR3910;ND;"pleural effusion"",";Lung hypoinflation    (UMLS);0.32444304
+CXR3910;ND;"pleural effusion"",";-Degeneration of spine;0.17851171
+CXR3910;ND;pneumothorax;Lung hypoinflation    (UMLS);0.32877865
+CXR3910;ND;pneumothorax;-Degeneration of spine;0.16705759
+CXR3910;DD;multilevel degenerative changes in the spine;Lung hypoinflation    (UMLS);0.019701801
+CXR3910;DD;multilevel degenerative changes in the spine;-Degeneration of spine;0.7316012
+CXR715;NN;mildly increased streaky airspace disease in the right lung base;airway disease restrictive    (UMLS);0.44479325
+CXR715;NN;mildly increased streaky airspace disease in the right lung base;-Hilar lymphadenopathy    (UMLS);0.2396513
+CXR715;NN;mildly increased streaky airspace disease in the right lung base;-Elevated right hemidiaphragm;0.42299145
+CXR715;DN;"right hemidiaphragm elevation"",";airway disease restrictive    (UMLS);0.23147802
+CXR715;DN;"right hemidiaphragm elevation"",";-Hilar lymphadenopathy    (UMLS);0.25734627
+CXR715;DN;"right hemidiaphragm elevation"",";-Elevated right hemidiaphragm;0.8626474
+CXR715;DN;mildly increased linear densities in the right lung base due to airspace disease;airway disease restrictive    (UMLS);0.46660691
+CXR715;DN;mildly increased linear densities in the right lung base due to airspace disease;-Hilar lymphadenopathy    (UMLS);0.2076668
+CXR715;DN;mildly increased linear densities in the right lung base due to airspace disease;-Elevated right hemidiaphragm;0.40835994
+CXR715;ND;mildly increased streaky airspace disease in the right lung base;airway disease restrictive    (UMLS);0.44479325
+CXR715;ND;mildly increased streaky airspace disease in the right lung base;-Hilar lymphadenopathy    (UMLS);0.2396513
+CXR715;ND;mildly increased streaky airspace disease in the right lung base;-Elevated right hemidiaphragm;0.42299145
+CXR715;DD;"chronic asymmetric elevation of the right hemidiaphragm"",";airway disease restrictive    (UMLS);0.2631885
+CXR715;DD;"chronic asymmetric elevation of the right hemidiaphragm"",";-Hilar lymphadenopathy    (UMLS);0.31586483
+CXR715;DD;"chronic asymmetric elevation of the right hemidiaphragm"",";-Elevated right hemidiaphragm;0.87489194
+CXR715;DD;airspace disease involving the right lung base with mildly increased linear densities;airway disease restrictive    (UMLS);0.5053638
+CXR715;DD;airspace disease involving the right lung base with mildly increased linear densities;-Hilar lymphadenopathy    (UMLS);0.24413665
+CXR715;DD;airspace disease involving the right lung base with mildly increased linear densities;-Elevated right hemidiaphragm;0.40344295
+CXR2985;NN;mild multilevel thoracolumbar degenerative disc disease;Intervertebral Disc Degeneration    (UMLS);0.6081637
+CXR2985;DN;"mild multilevel thoracolumbar degenerative disc disease"",";Intervertebral Disc Degeneration    (UMLS);0.6075889
+CXR2985;DN;mild degenerative changes of the thoracic spine;Intervertebral Disc Degeneration    (UMLS);0.4679643
+CXR2985;ND;lumbar degenerative disc disease;Intervertebral Disc Degeneration    (UMLS);0.6461477
+CXR2985;DD;l5-s1_of_the_spine;Intervertebral Disc Degeneration    (UMLS);0.3626411
+CXR3878;NN;"mild cardiomegaly"",";-Pulmonary Infiltrate    (UMLS);0.21524456
+CXR3878;NN;"mild cardiomegaly"",";-Thoracic spondylosis;0.2999051
+CXR3878;NN;"mild cardiomegaly"",";-Cardiomegaly;0.81273586
+CXR3878;NN;"right lower lobe pulmonary nodule"",";-Pulmonary Infiltrate    (UMLS);0.4203794
+CXR3878;NN;"right lower lobe pulmonary nodule"",";-Thoracic spondylosis;0.32538855
+CXR3878;NN;"right lower lobe pulmonary nodule"",";-Cardiomegaly;0.15997985
+CXR3878;NN;thoracic spondylosis;-Pulmonary Infiltrate    (UMLS);0.18587525
+CXR3878;NN;thoracic spondylosis;-Thoracic spondylosis;0.9854115
+CXR3878;NN;thoracic spondylosis;-Cardiomegaly;0.13001235
+CXR3878;DN;"right lower lobe pulmonary nodule"",";-Pulmonary Infiltrate    (UMLS);0.4203794
+CXR3878;DN;"right lower lobe pulmonary nodule"",";-Thoracic spondylosis;0.32538855
+CXR3878;DN;"right lower lobe pulmonary nodule"",";-Cardiomegaly;0.15997985
+CXR3878;DN;thoracic spondylosis;-Pulmonary Infiltrate    (UMLS);0.18587525
+CXR3878;DN;thoracic spondylosis;-Thoracic spondylosis;0.9854115
+CXR3878;DN;thoracic spondylosis;-Cardiomegaly;0.13001235
+CXR3878;ND;"mild cardiomegaly"",";-Pulmonary Infiltrate    (UMLS);0.21524456
+CXR3878;ND;"mild cardiomegaly"",";-Thoracic spondylosis;0.2999051
+CXR3878;ND;"mild cardiomegaly"",";-Cardiomegaly;0.81273586
+CXR3878;ND;"infiltrate in the right lower lobe"",";-Pulmonary Infiltrate    (UMLS);0.5310544
+CXR3878;ND;"infiltrate in the right lower lobe"",";-Thoracic spondylosis;0.2365239
+CXR3878;ND;"infiltrate in the right lower lobe"",";-Cardiomegaly;0.2472786
+CXR3878;ND;thoracic spondylosis;-Pulmonary Infiltrate    (UMLS);0.18587525
+CXR3878;ND;thoracic spondylosis;-Thoracic spondylosis;0.9854115
+CXR3878;ND;thoracic spondylosis;-Cardiomegaly;0.13001235
+CXR3878;DD;thoracic_spondylosis;-Pulmonary Infiltrate    (UMLS);0.2186163
+CXR3878;DD;thoracic_spondylosis;-Thoracic spondylosis;0.97461224
+CXR3878;DD;thoracic_spondylosis;-Cardiomegaly;0.16773805
+CXR260;NN;advanced degenerative changes in the spine;Abnormal degeneration;0.453807
+CXR260;DN;findings;Abnormal degeneration;0.24925864
+CXR260;ND;Normal;Abnormal degeneration;0.2722137
+CXR260;DD;38 mm lucency in the right humeral head with geographic 1A margins;Abnormal degeneration;0.13101196
+CXR2103;NN;Normal;Normal;1.0000002
+CXR2103;DN;"ascertain normal cardiac output"",";Normal;0.29451287
+CXR2103;DN;pulmonary vasculature appears within normal limits;Normal;0.25336358
+CXR2103;ND;No pleural effusion;Normal;0.10282945
+CXR2103;DD;"focal airspace disease"",";Normal;0.14799097
+CXR2103;DD;disease pattern;Normal;0.19729482
+CXR1551;NN;Normal;Normal;1.0000002
+CXR1551;DN;Normal;Normal;1.0000002
+CXR1551;ND;Normal;Normal;1.0000002
+CXR1551;DD;Normal;Normal;1.0000002
+CXR2934;NN;"lumbar scoliosis"",";Lumbar scoliosis;0.93586826
+CXR2934;NN;ascendant aortic aneurysm;Lumbar scoliosis;0.2259491
+CXR2934;DN;"hyperinflated lungs"",";Lumbar scoliosis;0.14110895
+CXR2934;DN;lumbar degenerative disc disease;Lumbar scoliosis;0.6320257
+CXR2934;ND;Normal;Lumbar scoliosis;0.18251386
+CXR2934;DD;lumbar scoliosis;Lumbar scoliosis;1.0
+CXR3130;NN;"thoracic aortic atherosclerotic calcifications"",";Cardiomegaly    (UMLS);0.34274414
+CXR3130;NN;"thoracic aortic atherosclerotic calcifications"",";-Thoracic aorta calcification;0.857917
+CXR3130;NN;"thoracic aortic atherosclerotic calcifications"",";-Abnormally opaque structure (morphologic abnormality);0.11251485
+CXR3130;NN;"thoracic aortic atherosclerotic calcifications"",";-Lung consolidation;0.27741072
+CXR3130;NN;patchy airspace opacity in perihilar right lung;Cardiomegaly    (UMLS);0.13522124
+CXR3130;NN;patchy airspace opacity in perihilar right lung;-Thoracic aorta calcification;0.20461857
+CXR3130;NN;patchy airspace opacity in perihilar right lung;-Abnormally opaque structure (morphologic abnormality);0.3998764
+CXR3130;NN;patchy airspace opacity in perihilar right lung;-Lung consolidation;0.44121626
+CXR3130;DN;"thoracic aortic atherosclerotic calcifications"",";Cardiomegaly    (UMLS);0.34274414
+CXR3130;DN;"thoracic aortic atherosclerotic calcifications"",";-Thoracic aorta calcification;0.857917
+CXR3130;DN;"thoracic aortic atherosclerotic calcifications"",";-Abnormally opaque structure (morphologic abnormality);0.11251485
+CXR3130;DN;"thoracic aortic atherosclerotic calcifications"",";-Lung consolidation;0.27741072
+CXR3130;DN;"ground glass opacities dense consolidation within the inferior left lung field"",";Cardiomegaly    (UMLS);0.16417952
+CXR3130;DN;"ground glass opacities dense consolidation within the inferior left lung field"",";-Thoracic aorta calcification;0.25984633
+CXR3130;DN;"ground glass opacities dense consolidation within the inferior left lung field"",";-Abnormally opaque structure (morphologic abnormality);0.2659325
+CXR3130;DN;"ground glass opacities dense consolidation within the inferior left lung field"",";-Lung consolidation;0.67338914
+CXR3130;DN;patchy airspace opacity within the perihilar right lung;Cardiomegaly    (UMLS);0.13033149
+CXR3130;DN;patchy airspace opacity within the perihilar right lung;-Thoracic aorta calcification;0.19060326
+CXR3130;DN;patchy airspace opacity within the perihilar right lung;-Abnormally opaque structure (morphologic abnormality);0.42866716
+CXR3130;DN;patchy airspace opacity within the perihilar right lung;-Lung consolidation;0.43039092
+CXR3130;ND;"atherosclerotic calcifications of the aorta"",";Cardiomegaly    (UMLS);0.29993868
+CXR3130;ND;"atherosclerotic calcifications of the aorta"",";-Thoracic aorta calcification;0.7880395
+CXR3130;ND;"atherosclerotic calcifications of the aorta"",";-Abnormally opaque structure (morphologic abnormality);0.109073415
+CXR3130;ND;"atherosclerotic calcifications of the aorta"",";-Lung consolidation;0.17883965
+CXR3130;ND;"focal consolidation"",";Cardiomegaly    (UMLS);0.15332592
+CXR3130;ND;"focal consolidation"",";-Thoracic aorta calcification;0.16766427
+CXR3130;ND;"focal consolidation"",";-Abnormally opaque structure (morphologic abnormality);0.25036842
+CXR3130;ND;"focal consolidation"",";-Lung consolidation;0.6038177
+CXR3130;ND;ground glass opacities within the perihilar right lung;Cardiomegaly    (UMLS);0.19502392
+CXR3130;ND;ground glass opacities within the perihilar right lung;-Thoracic aorta calcification;0.27280658
+CXR3130;ND;ground glass opacities within the perihilar right lung;-Abnormally opaque structure (morphologic abnormality);0.25665435
+CXR3130;ND;ground glass opacities within the perihilar right lung;-Lung consolidation;0.45536286
+CXR3130;DD;"heart enlargement"",";Cardiomegaly    (UMLS);0.42994553
+CXR3130;DD;"heart enlargement"",";-Thoracic aorta calcification;0.34229946
+CXR3130;DD;"heart enlargement"",";-Abnormally opaque structure (morphologic abnormality);0.12331708
+CXR3130;DD;"heart enlargement"",";-Lung consolidation;0.36255017
+CXR3130;DD;"thoracic aortic atherosclerotic calcifications"",";Cardiomegaly    (UMLS);0.34274417
+CXR3130;DD;"thoracic aortic atherosclerotic calcifications"",";-Thoracic aorta calcification;0.85791695
+CXR3130;DD;"thoracic aortic atherosclerotic calcifications"",";-Abnormally opaque structure (morphologic abnormality);0.11251484
+CXR3130;DD;"thoracic aortic atherosclerotic calcifications"",";-Lung consolidation;0.27741075
+CXR3130;DD;"ground glass opacities"",";Cardiomegaly    (UMLS);0.084259436
+CXR3130;DD;"ground glass opacities"",";-Thoracic aorta calcification;0.04875578
+CXR3130;DD;"ground glass opacities"",";-Abnormally opaque structure (morphologic abnormality);0.28141433
+CXR3130;DD;"ground glass opacities"",";-Lung consolidation;0.10420805
+CXR3130;DD;"dense consolidation"",";Cardiomegaly    (UMLS);0.11915079
+CXR3130;DD;"dense consolidation"",";-Thoracic aorta calcification;0.14428982
+CXR3130;DD;"dense consolidation"",";-Abnormally opaque structure (morphologic abnormality);0.18877855
+CXR3130;DD;"dense consolidation"",";-Lung consolidation;0.61237043
+CXR3130;DD;patchy airspace opacity;Cardiomegaly    (UMLS);-0.047239415
+CXR3130;DD;patchy airspace opacity;-Thoracic aorta calcification;-0.042462032
+CXR3130;DD;patchy airspace opacity;-Abnormally opaque structure (morphologic abnormality);0.49283987
+CXR3130;DD;patchy airspace opacity;-Lung consolidation;0.08813535
+CXR90 ;NN;"degenerative changes of the thoracic spine"",";Degeneration of spine;0.7755374
+CXR90 ;NN;mild degenerative changes of the thoracic spine;Degeneration of spine;0.7438874
+CXR90 ;DN;Normal;Degeneration of spine;0.11471194
+CXR90 ;ND;degenerative endplate changes of the spine are marginally thin and calcified;Degeneration of spine;0.67328334
+CXR90 ;DD;"clear lungs"",";Degeneration of spine;0.14310898
+CXR90 ;DD;"pleural effusion"",";Degeneration of spine;0.19646522
+CXR90 ;DD;"pneumothorax"",";Degeneration of spine;0.19509575
+CXR90 ;DD;mild/moderate changes of the spine;Degeneration of spine;0.69245225
+CXR1678;NN;"right-sided pleural effusion"",";Elevated right hemidiaphragm;0.38766366
+CXR1678;NN;"right-sided pleural effusion"",";-Pleural effusion disorder;0.81644833
+CXR1678;NN;"right-sided pleural effusion"",";-Abnormally opaque structure (morphologic abnormality);0.27703094
+CXR1678;NN;vague opacities in the right upper lobe;Elevated right hemidiaphragm;0.3348171
+CXR1678;NN;vague opacities in the right upper lobe;-Pleural effusion disorder;0.1837424
+CXR1678;NN;vague opacities in the right upper lobe;-Abnormally opaque structure (morphologic abnormality);0.4614054
+CXR1678;DN;right-sided pleural effusion;Elevated right hemidiaphragm;0.35013986
+CXR1678;DN;right-sided pleural effusion;-Pleural effusion disorder;0.798115
+CXR1678;DN;right-sided pleural effusion;-Abnormally opaque structure (morphologic abnormality);0.24089015
+CXR1678;ND;right-sided pleural effusion;Elevated right hemidiaphragm;0.35013986
+CXR1678;ND;right-sided pleural effusion;-Pleural effusion disorder;0.798115
+CXR1678;ND;right-sided pleural effusion;-Abnormally opaque structure (morphologic abnormality);0.24089015
+CXR1678;DD;"right chest calcifications at the cavoatrial junction"",";Elevated right hemidiaphragm;0.3541376
+CXR1678;DD;"right chest calcifications at the cavoatrial junction"",";-Pleural effusion disorder;0.42793357
+CXR1678;DD;"right chest calcifications at the cavoatrial junction"",";-Abnormally opaque structure (morphologic abnormality);0.19629717
+CXR1678;DD;"elevation of right hemidiaphragm with right-sided pleural effusion"",";Elevated right hemidiaphragm;0.7434473
+CXR1678;DD;"elevation of right hemidiaphragm with right-sided pleural effusion"",";-Pleural effusion disorder;0.64037484
+CXR1678;DD;"elevation of right hemidiaphragm with right-sided pleural effusion"",";-Abnormally opaque structure (morphologic abnormality);0.16937172
+CXR1678;DD;"vague opacities noted in the right upper lobe"",";Elevated right hemidiaphragm;0.3395604
+CXR1678;DD;"vague opacities noted in the right upper lobe"",";-Pleural effusion disorder;0.16396385
+CXR1678;DD;"vague opacities noted in the right upper lobe"",";-Abnormally opaque structure (morphologic abnormality);0.40116102
+CXR1678;DD;true pulmonary nodules;Elevated right hemidiaphragm;0.29051995
+CXR1678;DD;true pulmonary nodules;-Pleural effusion disorder;0.36745495
+CXR1678;DD;true pulmonary nodules;-Abnormally opaque structure (morphologic abnormality);0.1882582
+CXR1098;NN;"hyperinflated lungs"",";Pulmonary Emphysema    (UMLS);0.45990786
+CXR1098;NN;"hyperinflated lungs"",";-Lung Diseases, Obstructive;0.5396731
+CXR1098;NN;"hyperinflated lungs"",";-Lung hyperinflation;0.8767209
+CXR1098;NN;"hyperinflated lungs"",";-Pleural scarring;0.33259505
+CXR1098;NN;"chronic pleural-parenchymal scarring in the lung bases"",";Pulmonary Emphysema    (UMLS);0.38382638
+CXR1098;NN;"chronic pleural-parenchymal scarring in the lung bases"",";-Lung Diseases, Obstructive;0.4031036
+CXR1098;NN;"chronic pleural-parenchymal scarring in the lung bases"",";-Lung hyperinflation;0.33788136
+CXR1098;NN;"chronic pleural-parenchymal scarring in the lung bases"",";-Pleural scarring;0.70597595
+CXR1098;NN;emphysema;Pulmonary Emphysema    (UMLS);0.7599447
+CXR1098;NN;emphysema;-Lung Diseases, Obstructive;0.48396665
+CXR1098;NN;emphysema;-Lung hyperinflation;0.480739
+CXR1098;NN;emphysema;-Pleural scarring;0.3026163
+CXR1098;DN;"coarse interstitial markings consistent with exudative lung disease"",";Pulmonary Emphysema    (UMLS);0.42447042
+CXR1098;DN;"coarse interstitial markings consistent with exudative lung disease"",";-Lung Diseases, Obstructive;0.4777138
+CXR1098;DN;"coarse interstitial markings consistent with exudative lung disease"",";-Lung hyperinflation;0.3575894
+CXR1098;DN;"coarse interstitial markings consistent with exudative lung disease"",";-Pleural scarring;0.38446727
+CXR1098;DN;"associated empyema"",";Pulmonary Emphysema    (UMLS);0.36633462
+CXR1098;DN;"associated empyema"",";-Lung Diseases, Obstructive;0.20178476
+CXR1098;DN;"associated empyema"",";-Lung hyperinflation;0.24467196
+CXR1098;DN;"associated empyema"",";-Pleural scarring;0.2846366
+CXR1098;DN;pleural-parenchymal scarring within the lung bases;Pulmonary Emphysema    (UMLS);0.37292957
+CXR1098;DN;pleural-parenchymal scarring within the lung bases;-Lung Diseases, Obstructive;0.36354172
+CXR1098;DN;pleural-parenchymal scarring within the lung bases;-Lung hyperinflation;0.33594584
+CXR1098;DN;pleural-parenchymal scarring within the lung bases;-Pleural scarring;0.7034238
+CXR1098;ND;"hyperinflated lungs"",";Pulmonary Emphysema    (UMLS);0.4599079
+CXR1098;ND;"hyperinflated lungs"",";-Lung Diseases, Obstructive;0.5396732
+CXR1098;ND;"hyperinflated lungs"",";-Lung hyperinflation;0.8767209
+CXR1098;ND;"hyperinflated lungs"",";-Pleural scarring;0.33259502
+CXR1098;ND;emphysema;Pulmonary Emphysema    (UMLS);0.75994474
+CXR1098;ND;emphysema;-Lung Diseases, Obstructive;0.48396674
+CXR1098;ND;emphysema;-Lung hyperinflation;0.48073906
+CXR1098;ND;emphysema;-Pleural scarring;0.30261633
+CXR1098;DD;"exudative lung disease"",";Pulmonary Emphysema    (UMLS);0.50976586
+CXR1098;DD;"exudative lung disease"",";-Lung Diseases, Obstructive;0.69996583
+CXR1098;DD;"exudative lung disease"",";-Lung hyperinflation;0.49772123
+CXR1098;DD;"exudative lung disease"",";-Pleural scarring;0.33940196
+CXR1098;DD;calcified hilar tumors;Pulmonary Emphysema    (UMLS);0.098318055
+CXR1098;DD;calcified hilar tumors;-Lung Diseases, Obstructive;0.09425343
+CXR1098;DD;calcified hilar tumors;-Lung hyperinflation;0.13798223
+CXR1098;DD;calcified hilar tumors;-Pleural scarring;0.29853848
+CXR1941;NN;stable cardiomegaly;Calcification of the aorta    (UMLS);0.18903765
+CXR1941;NN;stable cardiomegaly;-Abnormally opaque structure;0.032627307
+CXR1941;DN;"stable cardiomegaly"",";Calcification of the aorta    (UMLS);0.22231881
+CXR1941;DN;"stable cardiomegaly"",";-Abnormally opaque structure;0.08160804
+CXR1941;DN;"mild interstitial opacities"",";Calcification of the aorta    (UMLS);0.13017693
+CXR1941;DN;"mild interstitial opacities"",";-Abnormally opaque structure;0.28712052
+CXR1941;DN;unchanged dense retrocardiac opacities;Calcification of the aorta    (UMLS);0.29730105
+CXR1941;DN;unchanged dense retrocardiac opacities;-Abnormally opaque structure;0.3032321
+CXR1941;ND;"stable cardiomegaly"",";Calcification of the aorta    (UMLS);0.22231881
+CXR1941;ND;"stable cardiomegaly"",";-Abnormally opaque structure;0.08160804
+CXR1941;ND;calcified thoracic aorta is unchanged;Calcification of the aorta    (UMLS);0.7535341
+CXR1941;ND;calcified thoracic aorta is unchanged;-Abnormally opaque structure;0.029354587
+CXR1941;DD;"calcified thoracic aorta narrowing"",";Calcification of the aorta    (UMLS);0.7123581
+CXR1941;DD;"calcified thoracic aorta narrowing"",";-Abnormally opaque structure;0.16691762
+CXR1941;DD;stable cardiomegaly;Calcification of the aorta    (UMLS);0.18903759
+CXR1941;DD;stable cardiomegaly;-Abnormally opaque structure;0.03262732
+CXR2661;NN;mild cardiomegaly;Cardiomegaly;0.8652041
+CXR2661;NN;mild cardiomegaly;- Lung hypoinflation    (UMLS);0.19467336
+CXR2661;DN;mild cardiomegaly;Cardiomegaly;0.8652041
+CXR2661;DN;mild cardiomegaly;- Lung hypoinflation    (UMLS);0.19467336
+CXR2661;ND;mild cardiomegaly;Cardiomegaly;0.8652041
+CXR2661;ND;mild cardiomegaly;- Lung hypoinflation    (UMLS);0.19467336
+CXR2661;DD;mild cardiomegaly;Cardiomegaly;0.8652041
+CXR2661;DD;mild cardiomegaly;- Lung hypoinflation    (UMLS);0.19467336
+CXR1786;NN;stable foreign body over the left breast;Normal;0.19964546
+CXR1786;DN;"focal consolidation"",";Normal;0.12344076
+CXR1786;DN;pneumothorax;Normal;0.15888916
+CXR1786;ND;Normal;Normal;1.0000002
+CXR1786;DD;Normal;Normal;1.0000002
+CXR990;NN;Normal;Normal;1.0000002
+CXR990;DN;Normal;Normal;1.0000002
+CXR990;ND;"pneumothorax"",";Normal;0.13160552
+CXR990;ND;effusions;Normal;0.15524381
+CXR990;DD;Pneumothorax;Normal;0.15888913
+CXR3648;NN;"no focal consolidation, pleural effusions or pneumothorax"",";Normal;0.106159575
+CXR3648;NN;"osseous structures within normal limits"",";Normal;0.23155852
+CXR3648;NN;heart and cardiomediastinal silhouette is normal;Normal;0.38183433
+CXR3648;DN;ground glass opacities;Normal;0.10607401
+CXR3648;ND;Normal;Normal;1.0000002
+CXR3648;DD;Normal;Normal;1.0000002
+CXR139;NN;"hyperinflated lungs"",";Aortic tortuosity    (UMLS);0.22841476
+CXR139;NN;"hyperinflated lungs"",";-Calcification of the aorta    (UMLS);0.23745713
+CXR139;NN;"hyperinflated lungs"",";-Degeneration of spine;0.22107646
+CXR139;NN;"hyperinflated lungs"",";-Dilatation of aorta;0.306163
+CXR139;NN;"hyperinflated lungs"",";-Abnormally opaque structure (morphologic abnormality);0.24576226
+CXR139;NN;"hyperinflated lungs"",";-Anterior mediastinum mass;0.2935484
+CXR139;NN;"hyperinflated lungs"",";-Lung hyperinflation;0.8767209
+CXR139;NN;"thoracic aorta tortuosity and calcification"",";Aortic tortuosity    (UMLS);0.6196116
+CXR139;NN;"thoracic aorta tortuosity and calcification"",";-Calcification of the aorta    (UMLS);0.74401087
+CXR139;NN;"thoracic aorta tortuosity and calcification"",";-Degeneration of spine;0.25617772
+CXR139;NN;"thoracic aorta tortuosity and calcification"",";-Dilatation of aorta;0.6370746
+CXR139;NN;"thoracic aorta tortuosity and calcification"",";-Abnormally opaque structure (morphologic abnormality);0.13176091
+CXR139;NN;"thoracic aorta tortuosity and calcification"",";-Anterior mediastinum mass;0.37139368
+CXR139;NN;"thoracic aorta tortuosity and calcification"",";-Lung hyperinflation;0.29263487
+CXR139;NN;"severe degenerative changes of the thoracic spine"",";Aortic tortuosity    (UMLS);0.23094554
+CXR139;NN;"severe degenerative changes of the thoracic spine"",";-Calcification of the aorta    (UMLS);0.21074131
+CXR139;NN;"severe degenerative changes of the thoracic spine"",";-Degeneration of spine;0.73309696
+CXR139;NN;"severe degenerative changes of the thoracic spine"",";-Dilatation of aorta;0.17228928
+CXR139;NN;"severe degenerative changes of the thoracic spine"",";-Abnormally opaque structure (morphologic abnormality);0.1668587
+CXR139;NN;"severe degenerative changes of the thoracic spine"",";-Anterior mediastinum mass;0.23914182
+CXR139;NN;"severe degenerative changes of the thoracic spine"",";-Lung hyperinflation;0.19589043
+CXR139;NN;mild cardiomegaly;Aortic tortuosity    (UMLS);0.25942722
+CXR139;NN;mild cardiomegaly;-Calcification of the aorta    (UMLS);0.20950752
+CXR139;NN;mild cardiomegaly;-Degeneration of spine;0.2693344
+CXR139;NN;mild cardiomegaly;-Dilatation of aorta;0.29346195
+CXR139;NN;mild cardiomegaly;-Abnormally opaque structure (morphologic abnormality);0.18265668
+CXR139;NN;mild cardiomegaly;-Anterior mediastinum mass;0.23341228
+CXR139;NN;mild cardiomegaly;-Lung hyperinflation;0.2446562
+CXR139;DN;"mild cardiomegaly"",";Aortic tortuosity    (UMLS);0.2783894
+CXR139;DN;"mild cardiomegaly"",";-Calcification of the aorta    (UMLS);0.243575
+CXR139;DN;"mild cardiomegaly"",";-Degeneration of spine;0.29474986
+CXR139;DN;"mild cardiomegaly"",";-Dilatation of aorta;0.33235002
+CXR139;DN;"mild cardiomegaly"",";-Abnormally opaque structure (morphologic abnormality);0.20878276
+CXR139;DN;"mild cardiomegaly"",";-Anterior mediastinum mass;0.261532
+CXR139;DN;"mild cardiomegaly"",";-Lung hyperinflation;0.29660302
+CXR139;DN;"severe degeneration in the thoracic spine"",";Aortic tortuosity    (UMLS);0.22369611
+CXR139;DN;"severe degeneration in the thoracic spine"",";-Calcification of the aorta    (UMLS);0.22330955
+CXR139;DN;"severe degeneration in the thoracic spine"",";-Degeneration of spine;0.8109158
+CXR139;DN;"severe degeneration in the thoracic spine"",";-Dilatation of aorta;0.20137611
+CXR139;DN;"severe degeneration in the thoracic spine"",";-Abnormally opaque structure (morphologic abnormality);0.17015812
+CXR139;DN;"severe degeneration in the thoracic spine"",";-Anterior mediastinum mass;0.2532987
+CXR139;DN;"severe degeneration in the thoracic spine"",";-Lung hyperinflation;0.23297891
+CXR139;DN;bilateral hyperexpanded lungs with diaphragmatic flattening;Aortic tortuosity    (UMLS);0.1842657
+CXR139;DN;bilateral hyperexpanded lungs with diaphragmatic flattening;-Calcification of the aorta    (UMLS);0.20864195
+CXR139;DN;bilateral hyperexpanded lungs with diaphragmatic flattening;-Degeneration of spine;0.12581134
+CXR139;DN;bilateral hyperexpanded lungs with diaphragmatic flattening;-Dilatation of aorta;0.21434397
+CXR139;DN;bilateral hyperexpanded lungs with diaphragmatic flattening;-Abnormally opaque structure (morphologic abnormality);0.27928352
+CXR139;DN;bilateral hyperexpanded lungs with diaphragmatic flattening;-Anterior mediastinum mass;0.21915062
+CXR139;DN;bilateral hyperexpanded lungs with diaphragmatic flattening;-Lung hyperinflation;0.56913996
+CXR139;ND;"cardiomegaly"",";Aortic tortuosity    (UMLS);0.26552314
+CXR139;ND;"cardiomegaly"",";-Calcification of the aorta    (UMLS);0.2445631
+CXR139;ND;"cardiomegaly"",";-Degeneration of spine;0.23297521
+CXR139;ND;"cardiomegaly"",";-Dilatation of aorta;0.34269997
+CXR139;ND;"cardiomegaly"",";-Abnormally opaque structure (morphologic abnormality);0.16479439
+CXR139;ND;"cardiomegaly"",";-Anterior mediastinum mass;0.22799544
+CXR139;ND;"cardiomegaly"",";-Lung hyperinflation;0.2513775
+CXR139;ND;"thoracic aortic calcifications"",";Aortic tortuosity    (UMLS);0.5764168
+CXR139;ND;"thoracic aortic calcifications"",";-Calcification of the aorta    (UMLS);0.75182164
+CXR139;ND;"thoracic aortic calcifications"",";-Degeneration of spine;0.23952326
+CXR139;ND;"thoracic aortic calcifications"",";-Dilatation of aorta;0.60488683
+CXR139;ND;"thoracic aortic calcifications"",";-Abnormally opaque structure (morphologic abnormality);0.07770934
+CXR139;ND;"thoracic aortic calcifications"",";-Anterior mediastinum mass;0.37420774
+CXR139;ND;"thoracic aortic calcifications"",";-Lung hyperinflation;0.3004857
+CXR139;ND;"mild degeneration of the spine"",";Aortic tortuosity    (UMLS);0.15206392
+CXR139;ND;"mild degeneration of the spine"",";-Calcification of the aorta    (UMLS);0.15217441
+CXR139;ND;"mild degeneration of the spine"",";-Degeneration of spine;0.91598177
+CXR139;ND;"mild degeneration of the spine"",";-Dilatation of aorta;0.15533584
+CXR139;ND;"mild degeneration of the spine"",";-Abnormally opaque structure (morphologic abnormality);0.25708312
+CXR139;ND;"mild degeneration of the spine"",";-Anterior mediastinum mass;0.24113433
+CXR139;ND;"mild degeneration of the spine"",";-Lung hyperinflation;0.20066042
+CXR139;ND;"severe degenerative changes in the thoracic spine"",";Aortic tortuosity    (UMLS);0.2281101
+CXR139;ND;"severe degenerative changes in the thoracic spine"",";-Calcification of the aorta    (UMLS);0.2014745
+CXR139;ND;"severe degenerative changes in the thoracic spine"",";-Degeneration of spine;0.7394072
+CXR139;ND;"severe degenerative changes in the thoracic spine"",";-Dilatation of aorta;0.16619194
+CXR139;ND;"severe degenerative changes in the thoracic spine"",";-Abnormally opaque structure (morphologic abnormality);0.15895003
+CXR139;ND;"severe degenerative changes in the thoracic spine"",";-Anterior mediastinum mass;0.23728374
+CXR139;ND;"severe degenerative changes in the thoracic spine"",";-Lung hyperinflation;0.19376853
+CXR139;ND;thoracic spondylosis;Aortic tortuosity    (UMLS);0.20960112
+CXR139;ND;thoracic spondylosis;-Calcification of the aorta    (UMLS);0.24718511
+CXR139;ND;thoracic spondylosis;-Degeneration of spine;0.4608902
+CXR139;ND;thoracic spondylosis;-Dilatation of aorta;0.20629612
+CXR139;ND;thoracic spondylosis;-Abnormally opaque structure (morphologic abnormality);0.108415656
+CXR139;ND;thoracic spondylosis;-Anterior mediastinum mass;0.2616424
+CXR139;ND;thoracic spondylosis;-Lung hyperinflation;0.26095873
+CXR139;DD;"mass lesion"",";Aortic tortuosity    (UMLS);0.15296745
+CXR139;DD;"mass lesion"",";-Calcification of the aorta    (UMLS);0.18510447
+CXR139;DD;"mass lesion"",";-Degeneration of spine;0.27778444
+CXR139;DD;"mass lesion"",";-Dilatation of aorta;0.23002687
+CXR139;DD;"mass lesion"",";-Abnormally opaque structure (morphologic abnormality);0.23165898
+CXR139;DD;"mass lesion"",";-Anterior mediastinum mass;0.45928013
+CXR139;DD;"mass lesion"",";-Lung hyperinflation;0.2937319
+CXR139;DD;severe degeneration of the thoracic spine;Aortic tortuosity    (UMLS);0.20894898
+CXR139;DD;severe degeneration of the thoracic spine;-Calcification of the aorta    (UMLS);0.21661574
+CXR139;DD;severe degeneration of the thoracic spine;-Degeneration of spine;0.772088
+CXR139;DD;severe degeneration of the thoracic spine;-Dilatation of aorta;0.18138751
+CXR139;DD;severe degeneration of the thoracic spine;-Abnormally opaque structure (morphologic abnormality);0.13274646
+CXR139;DD;severe degeneration of the thoracic spine;-Anterior mediastinum mass;0.22964396
+CXR139;DD;severe degeneration of the thoracic spine;-Lung hyperinflation;0.18847524
+CXR1118;NN;"infiltrate in the right middle lobe"",";Normal;0.16802205
+CXR1118;NN;"calcified granulomas"",";Normal;0.10255195
+CXR1118;NN;"calcified scarring (left upper and right apex)"",";Normal;0.12261653
+CXR1118;NN;"aortic calcifications"",";Normal;0.051510483
+CXR1118;NN;mild degenerative changes of the thoracic spine;Normal;0.12502334
+CXR1118;DN;ascending aortic aneurysm;Normal;0.116749436
+CXR1118;ND;"pulmonary edema due to ARDS"",";Normal;-0.006440644
+CXR1118;ND;"aortic calcifications"",";Normal;0.051510442
+CXR1118;ND;"fibrotic scarring"",";Normal;0.15221559
+CXR1118;ND;bronchiectasis;Normal;0.10963985
+CXR1118;DD;Normal;Normal;1.0000002
+CXR3797;NN;"left lower lobe air space opacity"",";Normal;0.19556966
+CXR3797;NN;lateral chest atelectasis;Normal;0.1353868
+CXR3797;DN;atelectasis;Normal;0.08079328
+CXR3797;ND;"left lower lobe air space opacity"",";Normal;0.19556966
+CXR3797;ND;atelectasis;Normal;0.08079329
+CXR3797;DD;"left lower lobe air space opacity"",";Normal;0.19556966
+CXR3797;DD;"ground glass opacities"",";Normal;0.12362046
+CXR3797;DD;atelectasis;Normal;0.08079329
+CXR2443;NN;"no focal airspace disease"",";Vascular calcification;-0.008730884
+CXR2443;NN;"no pleural effusion"",";Vascular calcification;0.31625304
+CXR2443;NN;"no pneumothorax"",";Vascular calcification;0.17956875
+CXR2443;NN;vascular calcification;Vascular calcification;1.0
+CXR2443;DN;vascular calcifications are present;Vascular calcification;0.9678012
+CXR2443;ND;"focal airspace disease"",";Vascular calcification;0.008468571
+CXR2443;ND;"pleural effusion"",";Vascular calcification;0.33574265
+CXR2443;ND;vascular calcification;Vascular calcification;1.0
+CXR2443;DD;"interstitial pneumonia"",";Vascular calcification;0.07988641
+CXR2443;DD;"pleurisy"",";Vascular calcification;0.2753451
+CXR2443;DD;"effusive lung disease"",";Vascular calcification;0.19488898
+CXR2443;DD;"bicuspid aortic valve stenosis"",";Vascular calcification;0.31349957
+CXR2443;DD;"mediastinitis due to granulomatosis with polythymic syndrome"",";Vascular calcification;0.179939
+CXR2443;DD;"pulmonary edema due to acute respiratory distress syndrome (ARDS)"",";Vascular calcification;0.09045972
+CXR2443;DD;"fibrotic scarring"",";Vascular calcification;0.2728232
+CXR2443;DD;"subaortic stenosis"",";Vascular calcification;0.27427733
+CXR2443;DD;"increased pulmonary nodules since the previous imaging"",";Vascular calcification;0.20121722
+CXR2443;DD;"thoracic spondylosis"",";Vascular calcification;0.25178567
+CXR2443;DD;"L5-S1 of the spine"",";Vascular calcification;0.06106857
+CXR2443;DD;"pleural effusion streaky opacity in the left base"",";Vascular calcification;0.21603757
+CXR2443;DD;small left-sided effusion;Vascular calcification;0.16463545
+CXR3100 ;NN;"hyperinflated lungs"",";Degeneration of spine;0.19364369
+CXR3100 ;NN;"hyperinflated lungs"",";-Lung hyperinflation;0.87672085
+CXR3100 ;NN;"pleural effusion"",";Degeneration of spine;0.19646521
+CXR3100 ;NN;"pleural effusion"",";-Lung hyperinflation;0.34435153
+CXR3100 ;NN;degenerative changes in the spine;Degeneration of spine;0.8649005
+CXR3100 ;NN;degenerative changes in the spine;-Lung hyperinflation;0.09827222
+CXR3100 ;DN;"hyperinflated lungs"",";Degeneration of spine;0.19364372
+CXR3100 ;DN;"hyperinflated lungs"",";-Lung hyperinflation;0.8767209
+CXR3100 ;DN;"lumbar degenerative disc disease"",";Degeneration of spine;0.6560886
+CXR3100 ;DN;"lumbar degenerative disc disease"",";-Lung hyperinflation;0.1203456
+CXR3100 ;DN;"thoracic aorta tortuosity"",";Degeneration of spine;0.2539524
+CXR3100 ;DN;"thoracic aorta tortuosity"",";-Lung hyperinflation;0.30625573
+CXR3100 ;DN;"pulmonary edema due to acute respiratory distress syndrome (ARDS)"",";Degeneration of spine;0.07990205
+CXR3100 ;DN;"pulmonary edema due to acute respiratory distress syndrome (ARDS)"",";-Lung hyperinflation;0.40575343
+CXR3100 ;DN;"bibasilar and perihilar interstitial opacities"",";Degeneration of spine;0.06335375
+CXR3100 ;DN;"bibasilar and perihilar interstitial opacities"",";-Lung hyperinflation;0.081226565
+CXR3100 ;DN;"aortic calcifications"",";Degeneration of spine;0.16350384
+CXR3100 ;DN;"aortic calcifications"",";-Lung hyperinflation;0.31110325
+CXR3100 ;DN;"right-sided pleural effusion"",";Degeneration of spine;0.18960406
+CXR3100 ;DN;"right-sided pleural effusion"",";-Lung hyperinflation;0.30734336
+CXR3100 ;DN;"moderate cardiomegaly"",";Degeneration of spine;0.21619064
+CXR3100 ;DN;"moderate cardiomegaly"",";-Lung hyperinflation;0.26160017
+CXR3100 ;DN;"large hiatal hernia"",";Degeneration of spine;0.20967382
+CXR3100 ;DN;"large hiatal hernia"",";-Lung hyperinflation;0.22937739
+CXR3100 ;DN;"aortic atherosclerotic vascular calcification"",";Degeneration of spine;0.12680574
+CXR3100 ;DN;"aortic atherosclerotic vascular calcification"",";-Lung hyperinflation;0.2600913
+CXR3100 ;DN;"ascending aortic aneurysm"",";Degeneration of spine;0.21184558
+CXR3100 ;DN;"ascending aortic aneurysm"",";-Lung hyperinflation;0.24185298
+CXR3100 ;DN;mild dextroscoliosis;Degeneration of spine;0.36456725
+CXR3100 ;DN;mild dextroscoliosis;-Lung hyperinflation;0.16337243
+CXR3100 ;ND;"hyperinflated lungs"",";Degeneration of spine;0.19364369
+CXR3100 ;ND;"hyperinflated lungs"",";-Lung hyperinflation;0.87672085
+CXR3100 ;ND;"lumbar degenerative disc disease"",";Degeneration of spine;0.6560887
+CXR3100 ;ND;"lumbar degenerative disc disease"",";-Lung hyperinflation;0.12034551
+CXR3100 ;ND;spine xiphoid process angulation;Degeneration of spine;0.40571237
+CXR3100 ;ND;spine xiphoid process angulation;-Lung hyperinflation;0.19973078
+CXR3100 ;DD;"true"",";Degeneration of spine;-0.0527578
+CXR3100 ;DD;"true"",";-Lung hyperinflation;0.06811849
+CXR3100 ;DD;"true"",";Degeneration of spine;-0.0527578
+CXR3100 ;DD;"true"",";-Lung hyperinflation;0.06811849
+CXR3100 ;DD;"true"",";Degeneration of spine;-0.0527578
+CXR3100 ;DD;"true"",";-Lung hyperinflation;0.06811849
+CXR3100 ;DD;"true"",";Degeneration of spine;-0.0527578
+CXR3100 ;DD;"true"",";-Lung hyperinflation;0.06811849
+CXR3100 ;DD;true;Degeneration of spine;-0.047900476
+CXR3100 ;DD;true;-Lung hyperinflation;0.06555651
+CXR1543;NN;"focal airspace disease"",";Hiatal Hernia    (UMLS);0.20958498
+CXR1543;NN;"pleural effusion"",";Hiatal Hernia    (UMLS);0.3036472
+CXR1543;NN;"pneumothorax"",";Hiatal Hernia    (UMLS);0.39036578
+CXR1543;NN;large hiatal hernia;Hiatal Hernia    (UMLS);0.735545
+CXR1543;DN;finding;Hiatal Hernia    (UMLS);0.022943143
+CXR1543;ND;large hiatal hernia;Hiatal Hernia    (UMLS);0.7355451
+CXR1543;DD;large hiatal hernia;Hiatal Hernia    (UMLS);0.7355451
+CXR3740;NN;diffuse right lower lobe airspace opacity;Abnormally opaque structure (morphologic abnormality);0.48683685
+CXR3740;DN;diffuse right lower lobe airspace opacity;Abnormally opaque structure (morphologic abnormality);0.48683685
+CXR3740;ND;diffuse right lower lobe airspace opacity;Abnormally opaque structure (morphologic abnormality);0.48683685
+CXR3740;DD;diffuse right lower lobe airspace opacity;Abnormally opaque structure (morphologic abnormality);0.48683685
+CXR1634;NN;"calcified granulomas"",";Degeneration of spine    (UMLS);0.09274416
+CXR1634;NN;"calcified granulomas"",";-hilar calcification    (UMLS);0.41270185
+CXR1634;NN;"calcified granulomas"",";-Calcification of the aorta;0.3698814
+CXR1634;NN;"calcified granulomas"",";-Lung hyperinflation;0.22665544
+CXR1634;NN;"calcified granulomas"",";-Calcified granuloma;0.9265597
+CXR1634;NN;"calcified hilar XXXX"",";Degeneration of spine    (UMLS);0.029016549
+CXR1634;NN;"calcified hilar XXXX"",";-hilar calcification    (UMLS);0.6293302
+CXR1634;NN;"calcified hilar XXXX"",";-Calcification of the aorta;0.40612543
+CXR1634;NN;"calcified hilar XXXX"",";-Lung hyperinflation;0.14076945
+CXR1634;NN;"calcified hilar XXXX"",";-Calcified granuloma;0.57983935
+CXR1634;NN;"prominent substernal air space"",";Degeneration of spine    (UMLS);0.0035395138
+CXR1634;NN;"prominent substernal air space"",";-hilar calcification    (UMLS);0.10490274
+CXR1634;NN;"prominent substernal air space"",";-Calcification of the aorta;0.032353934
+CXR1634;NN;"prominent substernal air space"",";-Lung hyperinflation;0.31320196
+CXR1634;NN;"prominent substernal air space"",";-Calcified granuloma;0.10020055
+CXR1634;NN;"aortic calcifications"",";Degeneration of spine    (UMLS);0.17549813
+CXR1634;NN;"aortic calcifications"",";-hilar calcification    (UMLS);0.4398793
+CXR1634;NN;"aortic calcifications"",";-Calcification of the aorta;0.8573433
+CXR1634;NN;"aortic calcifications"",";-Lung hyperinflation;0.3111033
+CXR1634;NN;"aortic calcifications"",";-Calcified granuloma;0.3368464
+CXR1634;NN;degenerative changes thoracic spine;Degeneration of spine    (UMLS);0.67083055
+CXR1634;NN;degenerative changes thoracic spine;-hilar calcification    (UMLS);-0.0014965571
+CXR1634;NN;degenerative changes thoracic spine;-Calcification of the aorta;0.20222694
+CXR1634;NN;degenerative changes thoracic spine;-Lung hyperinflation;0.17214946
+CXR1634;NN;degenerative changes thoracic spine;-Calcified granuloma;0.07473477
+CXR1634;DN;"calcified granulomas"",";Degeneration of spine    (UMLS);0.09274417
+CXR1634;DN;"calcified granulomas"",";-hilar calcification    (UMLS);0.41270185
+CXR1634;DN;"calcified granulomas"",";-Calcification of the aorta;0.36988127
+CXR1634;DN;"calcified granulomas"",";-Lung hyperinflation;0.22665544
+CXR1634;DN;"calcified granulomas"",";-Calcified granuloma;0.92655975
+CXR1634;DN;"calcified hilar XXXX"",";Degeneration of spine    (UMLS);0.029016584
+CXR1634;DN;"calcified hilar XXXX"",";-hilar calcification    (UMLS);0.6293301
+CXR1634;DN;"calcified hilar XXXX"",";-Calcification of the aorta;0.40612534
+CXR1634;DN;"calcified hilar XXXX"",";-Lung hyperinflation;0.1407694
+CXR1634;DN;"calcified hilar XXXX"",";-Calcified granuloma;0.5798393
+CXR1634;DN;"aortic calcifications"",";Degeneration of spine    (UMLS);0.17549822
+CXR1634;DN;"aortic calcifications"",";-hilar calcification    (UMLS);0.4398793
+CXR1634;DN;"aortic calcifications"",";-Calcification of the aorta;0.8573433
+CXR1634;DN;"aortic calcifications"",";-Lung hyperinflation;0.3111034
+CXR1634;DN;"aortic calcifications"",";-Calcified granuloma;0.3368466
+CXR1634;DN;"degenerative changes thoracic spine"",";Degeneration of spine    (UMLS);0.6827779
+CXR1634;DN;"degenerative changes thoracic spine"",";-hilar calcification    (UMLS);0.026809353
+CXR1634;DN;"degenerative changes thoracic spine"",";-Calcification of the aorta;0.22193298
+CXR1634;DN;"degenerative changes thoracic spine"",";-Lung hyperinflation;0.22301868
+CXR1634;DN;"degenerative changes thoracic spine"",";-Calcified granuloma;0.1408932
+CXR1634;DN;"hyperexpanded lungs"",";Degeneration of spine    (UMLS);0.15726808
+CXR1634;DN;"hyperexpanded lungs"",";-hilar calcification    (UMLS);0.15443142
+CXR1634;DN;"hyperexpanded lungs"",";-Calcification of the aorta;0.24761099
+CXR1634;DN;"hyperexpanded lungs"",";-Lung hyperinflation;0.71452427
+CXR1634;DN;"hyperexpanded lungs"",";-Calcified granuloma;0.36189824
+CXR1634;DN;increased retrosternal airspace;Degeneration of spine    (UMLS);0.028893847
+CXR1634;DN;increased retrosternal airspace;-hilar calcification    (UMLS);0.05243212
+CXR1634;DN;increased retrosternal airspace;-Calcification of the aorta;0.02003491
+CXR1634;DN;increased retrosternal airspace;-Lung hyperinflation;0.19447902
+CXR1634;DN;increased retrosternal airspace;-Calcified granuloma;0.0059111193
+CXR1634;ND;"calcified granulomas"",";Degeneration of spine    (UMLS);0.09274416
+CXR1634;ND;"calcified granulomas"",";-hilar calcification    (UMLS);0.41270185
+CXR1634;ND;"calcified granulomas"",";-Calcification of the aorta;0.3698814
+CXR1634;ND;"calcified granulomas"",";-Lung hyperinflation;0.22665544
+CXR1634;ND;"calcified granulomas"",";-Calcified granuloma;0.9265597
+CXR1634;ND;calcified hilar XXXX;Degeneration of spine    (UMLS);0.037287787
+CXR1634;ND;calcified hilar XXXX;-hilar calcification    (UMLS);0.6424136
+CXR1634;ND;calcified hilar XXXX;-Calcification of the aorta;0.39003804
+CXR1634;ND;calcified hilar XXXX;-Lung hyperinflation;0.13636959
+CXR1634;ND;calcified hilar XXXX;-Calcified granuloma;0.56082654
+CXR1634;DD;"calcified granulomas"",";Degeneration of spine    (UMLS);0.09274416
+CXR1634;DD;"calcified granulomas"",";-hilar calcification    (UMLS);0.41270185
+CXR1634;DD;"calcified granulomas"",";-Calcification of the aorta;0.3698814
+CXR1634;DD;"calcified granulomas"",";-Lung hyperinflation;0.22665544
+CXR1634;DD;"calcified granulomas"",";-Calcified granuloma;0.9265597
+CXR1634;DD;"calcified hilar costophrenic angle"",";Degeneration of spine    (UMLS);0.0028074551
+CXR1634;DD;"calcified hilar costophrenic angle"",";-hilar calcification    (UMLS);0.51367515
+CXR1634;DD;"calcified hilar costophrenic angle"",";-Calcification of the aorta;0.44858062
+CXR1634;DD;"calcified hilar costophrenic angle"",";-Lung hyperinflation;0.0724763
+CXR1634;DD;"calcified hilar costophrenic angle"",";-Calcified granuloma;0.33529603
+CXR1634;DD;"aortic calcifications"",";Degeneration of spine    (UMLS);0.17549813
+CXR1634;DD;"aortic calcifications"",";-hilar calcification    (UMLS);0.4398793
+CXR1634;DD;"aortic calcifications"",";-Calcification of the aorta;0.8573433
+CXR1634;DD;"aortic calcifications"",";-Lung hyperinflation;0.3111033
+CXR1634;DD;"aortic calcifications"",";-Calcified granuloma;0.3368464
+CXR1634;DD;degenerative changes anterior thoracic spine;Degeneration of spine    (UMLS);0.6367303
+CXR1634;DD;degenerative changes anterior thoracic spine;-hilar calcification    (UMLS);0.01667811
+CXR1634;DD;degenerative changes anterior thoracic spine;-Calcification of the aorta;0.2145751
+CXR1634;DD;degenerative changes anterior thoracic spine;-Lung hyperinflation;0.16362964
+CXR1634;DD;degenerative changes anterior thoracic spine;-Calcified granuloma;0.0690275
+CXR777;NN;"thoracic aorta tortuosity"",";Aortic tortuosity    (UMLS);0.6893891
+CXR777;NN;"thoracic aorta tortuosity"",";-Degeneration of spine    (UMLS);0.26870775
+CXR777;NN;mild degenerative changes and osteopenia of the thoracic spine;Aortic tortuosity    (UMLS);0.23152249
+CXR777;NN;mild degenerative changes and osteopenia of the thoracic spine;-Degeneration of spine    (UMLS);0.587458
+CXR777;DN;finding;Aortic tortuosity    (UMLS);-0.058472928
+CXR777;DN;finding;-Degeneration of spine    (UMLS);-0.02760166
+CXR777;ND;mild degenerative changes in the spine consistent with advancing age;Aortic tortuosity    (UMLS);0.13424197
+CXR777;ND;mild degenerative changes in the spine consistent with advancing age;-Degeneration of spine    (UMLS);0.6428441
+CXR777;DD;"no pulmonary stenosis"",";Aortic tortuosity    (UMLS);0.3434149
+CXR777;DD;"no pulmonary stenosis"",";-Degeneration of spine    (UMLS);0.22284544
+CXR777;DD;mild degeneration with minimal calcifications noted in the thoracic spine;Aortic tortuosity    (UMLS);0.22792141
+CXR777;DD;mild degeneration with minimal calcifications noted in the thoracic spine;-Degeneration of spine    (UMLS);0.63501555
+CXR593;NN;"extensive degenerative changes of the thoracic spine"",";Aortic tortuosity    (UMLS);0.24447869
+CXR593;NN;"extensive degenerative changes of the thoracic spine"",";-Cardiomegaly;0.208898
+CXR593;NN;"extensive degenerative changes of the thoracic spine"",";-Calcification of the aorta;0.23359968
+CXR593;NN;"extensive degenerative changes of the thoracic spine"",";-Degeneration of spine;0.7351417
+CXR593;NN;"mildly enlarged heart"",";Aortic tortuosity    (UMLS);0.2818717
+CXR593;NN;"mildly enlarged heart"",";-Cardiomegaly;0.4734726
+CXR593;NN;"mildly enlarged heart"",";-Calcification of the aorta;0.34179276
+CXR593;NN;"mildly enlarged heart"",";-Degeneration of spine;0.23052326
+CXR593;NN;"tortuous aorta"",";Aortic tortuosity    (UMLS);0.62635326
+CXR593;NN;"tortuous aorta"",";-Cardiomegaly;0.481397
+CXR593;NN;"tortuous aorta"",";-Calcification of the aorta;0.6044873
+CXR593;NN;"tortuous aorta"",";-Degeneration of spine;0.24470209
+CXR593;NN;aortic calcifications;Aortic tortuosity    (UMLS);0.60925543
+CXR593;NN;aortic calcifications;-Cardiomegaly;0.26245224
+CXR593;NN;aortic calcifications;-Calcification of the aorta;0.8663879
+CXR593;NN;aortic calcifications;-Degeneration of spine;0.16440223
+CXR593;DN;"extensive degenerative changes of the thoracic spine"",";Aortic tortuosity    (UMLS);0.24447869
+CXR593;DN;"extensive degenerative changes of the thoracic spine"",";-Cardiomegaly;0.208898
+CXR593;DN;"extensive degenerative changes of the thoracic spine"",";-Calcification of the aorta;0.23359968
+CXR593;DN;"extensive degenerative changes of the thoracic spine"",";-Degeneration of spine;0.7351417
+CXR593;DN;"mildly enlarged heart"",";Aortic tortuosity    (UMLS);0.2818717
+CXR593;DN;"mildly enlarged heart"",";-Cardiomegaly;0.4734726
+CXR593;DN;"mildly enlarged heart"",";-Calcification of the aorta;0.34179276
+CXR593;DN;"mildly enlarged heart"",";-Degeneration of spine;0.23052326
+CXR593;DN;"tortuous aorta"",";Aortic tortuosity    (UMLS);0.62635326
+CXR593;DN;"tortuous aorta"",";-Cardiomegaly;0.481397
+CXR593;DN;"tortuous aorta"",";-Calcification of the aorta;0.6044873
+CXR593;DN;"tortuous aorta"",";-Degeneration of spine;0.24470209
+CXR593;DN;aortic calcifications;Aortic tortuosity    (UMLS);0.60925543
+CXR593;DN;aortic calcifications;-Cardiomegaly;0.26245224
+CXR593;DN;aortic calcifications;-Calcification of the aorta;0.8663879
+CXR593;DN;aortic calcifications;-Degeneration of spine;0.16440223
+CXR593;ND;"extensive degenerative changes of the thoracic spine"",";Aortic tortuosity    (UMLS);0.24447869
+CXR593;ND;"extensive degenerative changes of the thoracic spine"",";-Cardiomegaly;0.208898
+CXR593;ND;"extensive degenerative changes of the thoracic spine"",";-Calcification of the aorta;0.23359968
+CXR593;ND;"extensive degenerative changes of the thoracic spine"",";-Degeneration of spine;0.7351417
+CXR593;ND;"mildly enlarged heart"",";Aortic tortuosity    (UMLS);0.2818717
+CXR593;ND;"mildly enlarged heart"",";-Cardiomegaly;0.4734726
+CXR593;ND;"mildly enlarged heart"",";-Calcification of the aorta;0.34179276
+CXR593;ND;"mildly enlarged heart"",";-Degeneration of spine;0.23052326
+CXR593;ND;"tortuous aorta"",";Aortic tortuosity    (UMLS);0.62635326
+CXR593;ND;"tortuous aorta"",";-Cardiomegaly;0.481397
+CXR593;ND;"tortuous aorta"",";-Calcification of the aorta;0.6044873
+CXR593;ND;"tortuous aorta"",";-Degeneration of spine;0.24470209
+CXR593;ND;aortic calcifications;Aortic tortuosity    (UMLS);0.60925543
+CXR593;ND;aortic calcifications;-Cardiomegaly;0.26245224
+CXR593;ND;aortic calcifications;-Calcification of the aorta;0.8663879
+CXR593;ND;aortic calcifications;-Degeneration of spine;0.16440223
+CXR593;DD;"extensive degenerative changes of the thoracic spine"",";Aortic tortuosity    (UMLS);0.24447869
+CXR593;DD;"extensive degenerative changes of the thoracic spine"",";-Cardiomegaly;0.208898
+CXR593;DD;"extensive degenerative changes of the thoracic spine"",";-Calcification of the aorta;0.23359968
+CXR593;DD;"extensive degenerative changes of the thoracic spine"",";-Degeneration of spine;0.7351417
+CXR593;DD;"mildly enlarged heart"",";Aortic tortuosity    (UMLS);0.2818717
+CXR593;DD;"mildly enlarged heart"",";-Cardiomegaly;0.4734726
+CXR593;DD;"mildly enlarged heart"",";-Calcification of the aorta;0.34179276
+CXR593;DD;"mildly enlarged heart"",";-Degeneration of spine;0.23052326
+CXR593;DD;"tortuous aorta"",";Aortic tortuosity    (UMLS);0.62635326
+CXR593;DD;"tortuous aorta"",";-Cardiomegaly;0.481397
+CXR593;DD;"tortuous aorta"",";-Calcification of the aorta;0.6044873
+CXR593;DD;"tortuous aorta"",";-Degeneration of spine;0.24470209
+CXR593;DD;aortic calcifications;Aortic tortuosity    (UMLS);0.60925543
+CXR593;DD;aortic calcifications;-Cardiomegaly;0.26245224
+CXR593;DD;aortic calcifications;-Calcification of the aorta;0.8663879
+CXR593;DD;aortic calcifications;-Degeneration of spine;0.16440223
+CXR6;NN;mild degenerative changes of the thoracic spine;Degeneration of spine;0.7438875
+CXR6;DN;"effusion-like opacity subsegmental atelectasis"",";Degeneration of spine;0.1311943
+CXR6;DN;ground glass opacities;Degeneration of spine;0.094711244
+CXR6;ND;Normal;Degeneration of spine;0.11471194
+CXR6;DD;Normal;Degeneration of spine;0.11471194
+CXR1788;NN;Normal;Normal;1.0000002
+CXR1788;DN;Normal;Normal;1.0000002
+CXR1788;ND;Normal;Normal;1.0000002
+CXR1788;DD;Normal;Normal;1.0000002
+CXR3148;NN;"cardiomegaly"",";Lung hypoinflation    (UMLS);0.15384397
+CXR3148;NN;"cardiomegaly"",";-Pleural effusion disorder;0.30247843
+CXR3148;NN;"cardiomegaly"",";-Cardiomegaly;0.89862037
+CXR3148;NN;"pleural effusion"",";Lung hypoinflation    (UMLS);0.32444304
+CXR3148;NN;"pleural effusion"",";-Pleural effusion disorder;0.9001752
+CXR3148;NN;"pleural effusion"",";-Cardiomegaly;0.28431326
+CXR3148;NN;low lung volumes;Lung hypoinflation    (UMLS);0.50504845
+CXR3148;NN;low lung volumes;-Pleural effusion disorder;0.32928938
+CXR3148;NN;low lung volumes;-Cardiomegaly;0.1264667
+CXR3148;DN;"slight cardiomegaly"",";Lung hypoinflation    (UMLS);0.17775276
+CXR3148;DN;"slight cardiomegaly"",";-Pleural effusion disorder;0.4169689
+CXR3148;DN;"slight cardiomegaly"",";-Cardiomegaly;0.7796663
+CXR3148;DN;small left pleural effusion;Lung hypoinflation    (UMLS);0.23699628
+CXR3148;DN;small left pleural effusion;-Pleural effusion disorder;0.8076302
+CXR3148;DN;small left pleural effusion;-Cardiomegaly;0.1922678
+CXR3148;ND;"mild cardiomegaly"",";Lung hypoinflation    (UMLS);0.22274458
+CXR3148;ND;"mild cardiomegaly"",";-Pleural effusion disorder;0.3934531
+CXR3148;ND;"mild cardiomegaly"",";-Cardiomegaly;0.81273586
+CXR3148;ND;small left pleural effusion;Lung hypoinflation    (UMLS);0.23699628
+CXR3148;ND;small left pleural effusion;-Pleural effusion disorder;0.8076302
+CXR3148;ND;small left pleural effusion;-Cardiomegaly;0.1922678
+CXR3148;DD;"slight cardiomegaly"",";Lung hypoinflation    (UMLS);0.17775276
+CXR3148;DD;"slight cardiomegaly"",";-Pleural effusion disorder;0.4169689
+CXR3148;DD;"slight cardiomegaly"",";-Cardiomegaly;0.7796663
+CXR3148;DD;small left pleural effusion;Lung hypoinflation    (UMLS);0.23699628
+CXR3148;DD;small left pleural effusion;-Pleural effusion disorder;0.8076302
+CXR3148;DD;small left pleural effusion;-Cardiomegaly;0.1922678
+CXR2960;NN;Normal;Normal;1.0000002
+CXR2960;DN;clear lung consolidation bilaterally;Normal;0.13556337
+CXR2960;ND;"pneumothorax"",";Normal;0.13160552
+CXR2960;ND;pleural effusion;Normal;0.056493595
+CXR2960;DD;Normal;Normal;1.0000002
+CXR1042;NN;"heart size large"",";Normal;0.20275968
+CXR1042;NN;stable cardiomegaly;Normal;0.14970604
+CXR1042;DN;Normal;Normal;1.0000002
+CXR1042;ND;Normal;Normal;1.0000002
+CXR1042;DD;Normal;Normal;1.0000002
+CXR460;NN;mild tortuosity of the thoracic aorta;Aortic tortuosity    (UMLS);0.69464386
+CXR460;DN;Normal;Aortic tortuosity    (UMLS);0.0299358
+CXR460;ND;Normal;Aortic tortuosity    (UMLS);0.0299358
+CXR460;DD;"ground glass opacities"",";Aortic tortuosity    (UMLS);0.06378651
+CXR460;DD;"patchy airspace opacity"",";Aortic tortuosity    (UMLS);0.08995722
+CXR460;DD;"effusion-like opacity subsegmental atelectasis"",";Aortic tortuosity    (UMLS);0.10919857
+CXR460;DD;"small calcified lymph nodes"",";Aortic tortuosity    (UMLS);0.19817315
+CXR460;DD;"diffuse right lower lung obstructions"",";Aortic tortuosity    (UMLS);0.22541872
+CXR460;DD;pleural effusion;Aortic tortuosity    (UMLS);0.22778676
